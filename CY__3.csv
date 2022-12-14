@@ -1,0 +1,2117 @@
+UniversityId,Course,Year,Status,EnglishTest,TestScore,UndergradScore,WorkExp,Ranking
+1,Management Information System,Fall 2018 ,Applied,TOEFL,106,7.63 CGPA ,6,10
+2,Management Information System,Fall 2018 ,Applied,ENG TEST,0,80.68%,48,10
+3,Management Information System,Fall 2018 ,Applied,TOEFL,109,62%,1,10
+4,Management Information System,Fall 2018 ,Applied,IELTS,7.5,7 CGPA ,48,10
+5,Management Information System,Fall 2018 ,Applied,TOEFL,90,8.2 CGPA ,24,10
+6,Management Information System,Fall 2017 ,Applied,TOEFL,100,8.96 CGPA ,2,10
+7,Management Information System,Fall 2017 ,Applied,TOEFL,88,7.69 CGPA ,16,10
+8,Management Information System,Fall 2017 ,Applied,TOEFL,103,7.5 CGPA ,29,10
+9,Management Information System,Fall 2017 ,Applied,IELTS,6.5,65.23%,26,10
+10,Management Information System,Fall 2017 ,Applied,TOEFL,89,8.86 CGPA ,17,10
+11,Management Information System,Fall 2017 ,Applied,TOEFL,115,73%,33,10
+12,Management Information System,Fall 2017 ,Applied,TOEFL,110,7.6 CGPA ,0,10
+13,Management Information System,Fall 2017 ,Applied,TOEFL,100,6.74 CGPA ,28,10
+14,Management Information System,Fall 2017 ,Applied,ENG TEST,0,73%,25,10
+16,Management Information System,Spring 2017 ,Applied,TOEFL,88,57.70%,12,10
+17,Management Information System,Fall 2016 ,Applied,TOEFL,87,70%,27,10
+18,Management Information System,Fall 2016 ,Applied,TOEFL,92,71%,36,10
+19,Management Information System,Fall 2016 ,Applied,TOEFL,100,68%,0,10
+21,Management Information System,Fall 2018 ,Admit,ENG TEST,0,7.1 CGPA ,0,10
+22,Management Information System,Fall 2018 ,Admit,TOEFL,104,77%,3,10
+23,Management Information System,Fall 2018 ,Admit,TOEFL,0,80.12%,60,10
+24,Management Information System,Fall 2018 ,Admit,IELTS,7,7.74 CGPA ,25,10
+25,Management Information System,Fall 2018 ,Admit,TOEFL,110,8.6 CGPA ,24,10
+26,Management Information System,Fall 2018 ,Admit,TOEFL,103,8 CGPA ,34,10
+27,Management Information System,Fall 2018 ,Admit,TOEFL,102,7.5 CGPA ,12,10
+28,Management Information System,Fall 2018 ,Admit,TOEFL,99,74%,0,10
+29,Management Information System,Fall 2018 ,Admit,TOEFL,110,7.49 CGPA ,0,10
+30,Management Information System,Fall 2018 ,Admit,TOEFL,101,66%,22,10
+31,Management Information System,Fall 2018 ,Admit,TOEFL,103,63.17%,27,10
+32,Management Information System,Fall 2018 ,Admit,TOEFL,91,64%,15,10
+33,Management Information System,Fall 2018 ,Admit,ENG TEST,0,75%,38,10
+34,Management Information System,Fall 2018 ,Admit,TOEFL,88,83%,30,10
+36,Management Information System,Fall 2018 ,Admit,TOEFL,91,7.93 CGPA ,16,10
+37,Management Information System,Fall 2018 ,Admit,ENG TEST,0,65%,74,10
+38,Management Information System,Fall 2018 ,Admit,IELTS,7.5,8.2 CGPA ,31,10
+39,Management Information System,Fall 2018 ,Admit,TOEFL,111,6.68 CGPA ,6,10
+40,Management Information System,Fall 2018 ,Reject,TOEFL,0,74%,15,10
+41,Management Information System,Fall 2018 ,Reject,TOEFL,84,68.50%,43,10
+42,Management Information System,Fall 2018 ,Reject,TOEFL,91,6.3 CGPA ,21,10
+43,Management Information System,Fall 2018 ,Reject,TOEFL,0,57.43%,6,10
+44,Management Information System,Fall 2018 ,Reject,TOEFL,96,68.68%,41,10
+45,Management Information System,Fall 2018 ,Reject,TOEFL,105,7.55 CGPA ,27,10
+46,Management Information System,Fall 2018 ,Reject,TOEFL,88,8.6 CGPA ,55,10
+47,Management Information System,Fall 2018 ,Reject,ENG TEST,0,63%,7,10
+48,Management Information System,Fall 2018 ,Reject,TOEFL,90,67%,14,10
+49,Management Information System,Fall 2018 ,Reject,TOEFL,84,68.94%,43,10
+50,Management Information System,Fall 2018 ,Reject,TOEFL,98,53.63%,18,10
+51,Management Information System,Fall 2018 ,Reject,TOEFL,102,7.09 CGPA ,0,10
+52,Management Information System,Fall 2018 ,Reject,IELTS,7,8.4 CGPA ,41,10
+53,Management Information System,Fall 2018 ,Reject,TOEFL,0,6.03 CGPA ,28,10
+54,Management Information System,Fall 2018 ,Reject,TOEFL,89,65%,15,10
+55,Management Information System,Fall 2017 ,Reject,TOEFL,107,7.16 CGPA ,6,10
+56,Management Information System,Fall 2017 ,Reject,TOEFL,92,71.10%,35,10
+57,Management Information System,Fall 2017 ,Reject,TOEFL,101,82.20%,18,10
+58,Management Information System,Fall 2017 ,Reject,TOEFL,86,8.1 CGPA ,14,10
+59,Management Information System,Fall 2017 ,Reject,TOEFL,97,59%,12,10
+70,Management Information System,Spring 2019 ,Interested,ENG TEST,0,74%,24,10
+74,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,10
+76,Management Information System,Fall 2019 ,Interested,IELTS,6.5,7.77 CGPA ,9,10
+77,Management Information System,Spring 2019 ,Interested,TOEFL,102,65%,26,10
+78,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,10
+82,Management Information System,Fall 2016 ,Applied,TOEFL,101,73%,30,9
+83,Management Information System,Fall 2017 ,Applied,TOEFL,91,5.93 CGPA ,0,9
+84,Management Information System,Fall 2016 ,Applied,TOEFL,107,6 CGPA ,30,9
+85,Management Information System,Spring 2016 ,Applied,TOEFL,99,5 CGPA ,0,9
+86,Management Information System,Fall 2016 ,Applied,TOEFL,103,81%,0,9
+87,Management Information System,Spring 2016 ,Applied,TOEFL,80,81%,0,9
+88,Management Information System,Fall 2016 ,Applied,IELTS,7.5,78%,0,9
+89,Management Information System,Fall 2016 ,Applied,TOEFL,101,73.64%,0,9
+90,Management Information System,Fall 2016 ,Applied,IELTS,7,6.35 CGPA ,10,9
+91,Management Information System,Fall 2018 ,Admit,TOEFL,90,5.67 CGPA ,8,9
+92,Management Information System,Fall 2018 ,Admit,TOEFL,106,6.75 CGPA ,5,9
+93,Management Information System,Fall 2017 ,Admit,TOEFL,112,72.30%,22,9
+94,Management Information System,Fall 2016 ,Admit,TOEFL,97,56%,82,9
+95,Management Information System,Fall 2016 ,Admit,TOEFL,97,6.085 CGPA ,6,9
+96,Management Information System,Spring 2016 ,Admit,TOEFL,99,73.42%,26,9
+97,Management Information System,Fall 2015 ,Admit,TOEFL,88,53%,20,9
+98,Management Information System,Fall 2015 ,Admit,TOEFL,108,7.5 CGPA ,10,9
+100,Management Information System,Fall 2020 ,Interested,TOEFL,92,5.5 CGPA ,0,9
+101,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,9
+103,Management Information System,Spring 2019 ,Interested,TOEFL,100,71%,0,9
+104,Management Information System,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,9
+105,Management Information System,Fall 2018 ,Interested,ENG TEST,0,63%,0,9
+110,Management Information System,Spring 2019 ,Interested,TOEFL,87,8.8 CGPA ,18,9
+111,Management Information System,Fall 2018 ,Interested,TOEFL,110,7.49 CGPA ,0,9
+113,Management Information System,Fall 2018 ,Interested,TOEFL,100,67%,41,9
+114,Management Information System,Fall 2018 ,Interested,IELTS,7,71.98%,48,9
+115,Management Information System,Fall 2018 ,Interested,TOEFL,84,78%,44,9
+118,Management Information System,Spring 2019 ,Interested,TOEFL,91,7.3 CGPA ,48,9
+120,Information Management and Systems,Fall 2018 ,Applied,TOEFL,110,9.09 CGPA ,16,1
+122,Information Management and Systems,Fall 2018 ,Applied,TOEFL,102,74%,85,1
+123,Information Management and Systems,Fall 2018 ,Applied,TOEFL,104,65%,60,1
+124,Information Management and Systems,Fall 2018 ,Applied,TOEFL,103,8 CGPA ,34,1
+125,Information Management and Systems,Fall 2018 ,Applied,TOEFL,113,78.04%,5,1
+126,Information Management and Systems,Fall 2018 ,Applied,ENG TEST,0,80%,0,1
+127,Information Management and Systems,Fall 2018 ,Applied,TOEFL,103,9 CGPA ,30,1
+128,Information Management and Systems,Fall 2018 ,Applied,TOEFL,110,63.58%,16,1
+129,Information Management and Systems,Fall 2018 ,Applied,TOEFL,111,9.6 CGPA ,6,1
+130,Information Management and Systems,Fall 2018 ,Applied,IELTS,7.5,72%,60,1
+131,Information Management and Systems,Fall 2017 ,Applied,TOEFL,109,63.65%,17,1
+132,Information Management and Systems,Fall 2018 ,Applied,TOEFL,101,9.81 CGPA ,0,1
+133,Information Management and Systems,Fall 2018 ,Applied,TOEFL,116,8.1 CGPA ,6,1
+134,Information Management and Systems,Fall 2017 ,Applied,TOEFL,93,73%,0,1
+135,Information Management and Systems,Fall 2018 ,Applied,TOEFL,0,73.50%,33,1
+136,Information Management and Systems,Fall 2018 ,Applied,TOEFL,91,72%,20,1
+137,Information Management and Systems,Fall 2018 ,Applied,TOEFL,98,77.80%,31,1
+139,Information Management and Systems,Fall 2018 ,Applied,TOEFL,0,88%,0,1
+140,Information Management and Systems,Fall 2018 ,Admit,TOEFL,102,7.48 CGPA ,15,1
+141,Information Management and Systems,Fall 2018 ,Admit,TOEFL,108,83.30%,8,1
+142,Information Management and Systems,Fall 2018 ,Admit,TOEFL,109,83%,18,1
+143,Information Management and Systems,Fall 2018 ,Admit,TOEFL,107,7.39 CGPA ,14,1
+144,Information Management and Systems,Spring 2018 ,Admit,TOEFL,109,85.40%,6,1
+145,Information Management and Systems,Fall 2018 ,Admit,TOEFL,110,8.6 CGPA ,3,1
+146,Information Management and Systems,Fall 2018 ,Admit,TOEFL,0,75%,144,1
+147,Information Management and Systems,Fall 2018 ,Admit,IELTS,8,75%,44,1
+148,Information Management and Systems,Fall 2018 ,Admit,TOEFL,104,8.55 CGPA ,60,1
+149,Information Management and Systems,Fall 2018 ,Admit,TOEFL,0,8.57 CGPA ,16,1
+150,Information Management and Systems,Fall 2018 ,Admit,TOEFL,112,8.72 CGPA ,36,1
+151,Information Management and Systems,Fall 2018 ,Admit,TOEFL,108,66.50%,24,1
+152,Information Management and Systems,Fall 2018 ,Admit,TOEFL,109,86%,25,1
+153,Information Management and Systems,Fall 2018 ,Admit,TOEFL,109,77%,38,1
+154,Information Management and Systems,Fall 2018 ,Admit,TOEFL,103,90%,27,1
+155,Information Management and Systems,Fall 2018 ,Admit,TOEFL,111,7.98 CGPA ,30,1
+157,Information Management and Systems,Fall 2018 ,Admit,TOEFL,108,77.10%,22,1
+158,Information Management and Systems,Fall 2018 ,Admit,TOEFL,116,8.19 CGPA ,0,1
+159,Information Management and Systems,Fall 2018 ,Admit,TOEFL,106,78%,36,1
+161,Information Management and Systems,Fall 2018 ,Reject,TOEFL,109,81%,18,1
+162,Information Management and Systems,Fall 2018 ,Reject,IELTS,0,7.38 CGPA ,45,1
+163,Information Management and Systems,Fall 2018 ,Reject,IELTS,7,85.45%,7,1
+164,Information Management and Systems,Fall 2018 ,Reject,ENG TEST,0,65%,74,1
+165,Information Management and Systems,Fall 2018 ,Reject,TOEFL,110,3.1 CGPA ,12,1
+166,Information Management and Systems,Fall 2018 ,Reject,TOEFL,106,7.8 CGPA ,33,1
+167,Information Management and Systems,Fall 2018 ,Reject,TOEFL,116,8.48 CGPA ,2,1
+169,Information Management and Systems,Fall 2018 ,Reject,TOEFL,109,6.72 CGPA ,29,1
+170,Information Management and Systems,Fall 2018 ,Reject,TOEFL,101,8.72 CGPA ,20,1
+171,Information Management and Systems,Fall 2018 ,Reject,TOEFL,108,63.22%,21,1
+172,Information Management and Systems,Fall 2018 ,Reject,TOEFL,109,6.75 CGPA ,13,1
+173,Information Management and Systems,Fall 2018 ,Reject,TOEFL,0,6.03 CGPA ,28,1
+174,Information Management and Systems,Fall 2018 ,Reject,IELTS,8,77.20%,20,1
+175,Information Management and Systems,Fall 2018 ,Reject,TOEFL,107,9.23 CGPA ,15,1
+176,Information Management and Systems,Fall 2018 ,Reject,TOEFL,110,7.4 CGPA ,4,1
+177,Information Management and Systems,Fall 2018 ,Reject,ENG TEST,0,75%,38,1
+178,Information Management and Systems,Fall 2018 ,Reject,TOEFL,106,73.40%,82,1
+179,Information Management and Systems,Fall 2018 ,Reject,TOEFL,110,6.2 CGPA ,40,1
+182,Information Management and Systems,Fall 2019 ,Interested,ENG TEST,0,79.80%,134,1
+184,Information Management and Systems,Fall 2019 ,Interested,TOEFL,104,75%,36,1
+185,Information Management and Systems,Fall 2016 ,Interested,TOEFL,104,8.54 CGPA ,30,1
+187,Information Management and Systems,Spring 2018 ,Interested,TOEFL,105,5.8 CGPA ,28,1
+188,Information Management and Systems,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,1
+189,Information Management and Systems,Fall 2018 ,Interested,TOEFL,116,8.38 CGPA ,4,1
+190,Information Management and Systems,Spring 2019 ,Interested,IELTS,7.5,9.5 CGPA ,24,1
+191,Information Management and Systems,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,1
+195,Information Management and Systems,Spring 2019 ,Interested,TOEFL,102,65%,26,1
+196,Information Management and Systems,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,1
+197,Information Management and Systems,Fall 2019 ,Interested,ENG TEST,0,7.54 CGPA ,0,1
+198,Information Management and Systems,Spring 2019 ,Interested,ENG TEST,0,70%,60,1
+199,Information Management and Systems,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,1
+201,Information Systems,Fall 2018 ,Applied,ENG TEST,0,75%,38,1
+202,Information Systems,Fall 2018 ,Applied,TOEFL,97,8.15 CGPA ,6,1
+203,Information Systems,Fall 2018 ,Applied,TOEFL,110,7.62 CGPA ,2,1
+204,Information Systems,Fall 2018 ,Applied,TOEFL,98,65%,25,1
+205,Information Systems,Fall 2018 ,Applied,TOEFL,111,8.5 CGPA ,31,1
+206,Information Systems,Fall 2018 ,Applied,TOEFL,104,71%,76,1
+207,Information Systems,Fall 2017 ,Applied,TOEFL,108,7.32 CGPA ,6,1
+208,Information Systems,Fall 2017 ,Applied,TOEFL,112,75%,30,1
+209,Information Systems,Fall 2017 ,Applied,TOEFL,102,7.99 CGPA ,13,1
+210,Information Systems,Fall 2017 ,Applied,TOEFL,105,67%,68,1
+211,Information Systems,Fall 2017 ,Applied,TOEFL,103,8.1 CGPA ,1,1
+212,Information Systems,Fall 2017 ,Applied,TOEFL,99,7.24 CGPA ,2,1
+213,Information Systems,Fall 2017 ,Applied,TOEFL,100,71%,54,1
+214,Information Systems,Fall 2017 ,Applied,TOEFL,104,58%,53,1
+215,Information Systems,Fall 2017 ,Applied,TOEFL,104,8.6 CGPA ,2,1
+216,Information Systems,Fall 2017 ,Applied,TOEFL,106,7.79 CGPA ,20,1
+217,Information Systems,Fall 2017 ,Applied,TOEFL,112,8.6 CGPA ,15,1
+218,Information Systems,Fall 2017 ,Applied,TOEFL,105,6.33 CGPA ,57,1
+219,Information Systems,Fall 2017 ,Applied,TOEFL,100,9.1 CGPA ,21,1
+220,Information Systems,Fall 2016 ,Applied,TOEFL,113,58.05%,36,1
+221,Information Systems,Fall 2018 ,Admit,TOEFL,102,7.58 CGPA ,42,1
+222,Information Systems,Fall 2018 ,Admit,TOEFL,107,69%,60,1
+223,Information Systems,Fall 2020 ,Admit,TOEFL,116,8.19 CGPA ,3,1
+224,Information Systems,Fall 2018 ,Admit,TOEFL,110,79.04%,27,1
+225,Information Systems,Fall 2018 ,Admit,TOEFL,117,8.21 CGPA ,0,1
+226,Information Systems,Fall 2018 ,Admit,TOEFL,109,7.4 CGPA ,21,1
+227,Information Systems,Fall 2018 ,Admit,TOEFL,106,8.81 CGPA ,32,1
+228,Information Systems,Fall 2018 ,Admit,TOEFL,112,8.48 CGPA ,21,1
+229,Information Systems,Fall 2018 ,Admit,TOEFL,104,8.3 CGPA ,23,1
+230,Information Systems,Fall 2018 ,Admit,TOEFL,112,66.21%,27,1
+231,Information Systems,Fall 2018 ,Admit,TOEFL,105,9.56 CGPA ,19,1
+232,Information Systems,Fall 2018 ,Admit,TOEFL,109,8.6 CGPA ,24,1
+234,Information Systems,Fall 2018 ,Admit,TOEFL,118,8.43 CGPA ,30,1
+235,Information Systems,Fall 2018 ,Admit,TOEFL,113,73.40%,26,1
+236,Information Systems,Fall 2018 ,Admit,TOEFL,111,8.48 CGPA ,24,1
+237,Information Systems,Fall 2018 ,Admit,TOEFL,105,9.21 CGPA ,13,1
+238,Information Systems,Fall 2017 ,Admit,TOEFL,105,8.1 CGPA ,24,1
+239,Information Systems,Fall 2015 ,Admit,TOEFL,104,9.24 CGPA ,16,1
+240,Information Systems,Fall 2011 ,Admit,TOEFL,113,65.50%,0,1
+241,Information Systems,Fall 2018 ,Reject,TOEFL,113,7.65 CGPA ,40,1
+242,Information Systems,Fall 2018 ,Reject,TOEFL,101,7.61 CGPA ,9,1
+243,Information Systems,Fall 2018 ,Reject,TOEFL,110,72%,60,1
+245,Information Systems,Fall 2018 ,Reject,TOEFL,0,7.54 CGPA ,7,1
+246,Information Systems,Fall 2018 ,Reject,TOEFL,106,7.29 CGPA ,26,1
+247,Information Systems,Fall 2018 ,Reject,TOEFL,101,8.45 CGPA ,24,1
+248,Information Systems,Fall 2018 ,Reject,TOEFL,109,60%,29,1
+249,Information Systems,Fall 2018 ,Reject,TOEFL,110,8.98 CGPA ,6,1
+250,Information Systems,Fall 2018 ,Reject,TOEFL,100,8.91 CGPA ,24,1
+251,Information Systems,Fall 2018 ,Reject,TOEFL,114,7.72 CGPA ,25,1
+252,Information Systems,Fall 2018 ,Reject,TOEFL,0,9.45 CGPA ,11,1
+254,Information Systems,Fall 2017 ,Reject,TOEFL,104,6.56 CGPA ,19,1
+255,Information Systems,Fall 2017 ,Reject,TOEFL,104,60.43%,0,1
+256,Information Systems,Fall 2017 ,Reject,TOEFL,110,6.79 CGPA ,1,1
+257,Information Systems,Fall 2017 ,Reject,TOEFL,108,71%,13,1
+258,Information Systems,Fall 2017 ,Reject,TOEFL,95,71.43%,25,1
+259,Information Systems,Fall 2017 ,Reject,TOEFL,98,9.2 CGPA ,13,1
+260,Information Systems,Fall 2017 ,Reject,TOEFL,112,9.45 CGPA ,4,1
+261,Information Systems,Fall 2019 ,Interested,TOEFL,105,79%,6,1
+262,Information Systems,Fall 2018 ,Interested,TOEFL,82,55%,22,1
+263,Information Systems,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,1
+265,Information Systems,Spring 2019 ,Interested,IELTS,7.5,75.82%,36,1
+266,Information Systems,Fall 2018 ,Interested,IELTS,7,7.2 CGPA ,36,1
+267,Information Systems,Fall 2018 ,Interested,TOEFL,110,8.76 CGPA ,8,1
+268,Information Systems,Fall 2019 ,Interested,TOEFL,115,6.98 CGPA ,25,1
+269,Information Systems,Fall 2019 ,Interested,TOEFL,109,7.97 CGPA ,24,1
+271,Information Systems,Fall 2019 ,Interested,TOEFL,104,9.39 CGPA ,2,1
+274,Information Systems,Fall 2018 ,Interested,ENG TEST,0,74%,12,1
+276,Information Systems,Fall 2018 ,Interested,TOEFL,110,5.66 CGPA ,6,1
+277,Information Systems,Fall 2018 ,Interested,TOEFL,110,66%,46,1
+278,Information Systems,Fall 2018 ,Interested,TOEFL,113,8.79 CGPA ,6,1
+279,Information Systems,Fall 2018 ,Interested,TOEFL,98,65%,0,1
+282,Management Information System,Fall 2018 ,Applied,IELTS,7.5,9.24 CGPA ,40,30
+283,Management Information System,Fall 2016 ,Applied,IELTS,7,51%,54,30
+284,Management Information System,Fall 2016 ,Applied,TOEFL,94,6.6 CGPA ,0,30
+285,Management Information System,Fall 2016 ,Applied,IELTS,7.5,69%,48,30
+286,Management Information System,Fall 2016 ,Applied,TOEFL,99,7.46 CGPA ,0,30
+287,Management Information System,Fall 2016 ,Applied,TOEFL,90,6 CGPA ,30,30
+288,Management Information System,Fall 2016 ,Applied,TOEFL,90,6 CGPA ,30,30
+289,Management Information System,Fall 2017 ,Applied,IELTS,6,70.80%,30,30
+290,Management Information System,Fall 2016 ,Applied,ENG TEST,0,8 CGPA ,30,30
+291,Management Information System,Fall 2016 ,Applied,TOEFL,112,8 CGPA ,30,30
+292,Management Information System,Fall 2015 ,Applied,TOEFL,0,54.13%,30,30
+293,Management Information System,Fall 2018 ,Admit,IELTS,7.5,7.51 CGPA ,32,30
+294,Management Information System,Spring 2018 ,Admit,TOEFL,93,64.10%,2,30
+295,Management Information System,Fall 2017 ,Admit,IELTS,7.5,6.47 CGPA ,0,30
+296,Management Information System,Fall 2017 ,Admit,TOEFL,108,6.47 CGPA ,12,30
+297,Management Information System,Fall 2017  ,Admit,TOEFL,108,7.696 CGPA ,2,30
+298,Management Information System,Spring 2017 ,Admit,IELTS,6.5,7.4 CGPA ,16,30
+300,Management Information System,Fall 2017 ,Reject,TOEFL,92,6.75 CGPA ,1,30
+301,Management Information System,Spring 2017 ,Reject,TOEFL,93,7.2 CGPA ,25,30
+302,Management Information System,Fall 2016 ,Reject,TOEFL,101,75%,0,30
+303,Management Information System,Fall 2016 ,Reject,TOEFL,98,68%,0,30
+305,Management Information System,Spring 2019 ,Interested,IELTS,6.5,74%,60,30
+307,Management Information System,Spring 2019 ,Interested,ENG TEST,0,7.6 CGPA ,19,30
+310,Management Information System,Spring 2019 ,Interested,IELTS,7,62%,8,30
+311,Management Information System,Spring 2019 ,Interested,IELTS,7,65%,15,30
+312,Management Information System,Fall 2018 ,Interested,TOEFL,83,68.19%,12,30
+313,Management Information System,Fall 2019 ,Interested,TOEFL,100,8.05 CGPA ,48,30
+314,Management Information System,Spring 2019 ,Interested,TOEFL,99,67.91%,53,30
+315,Management Information System,Fall 2018 ,Interested,IELTS,7,6.87 CGPA ,32,30
+318,Management Information System,Fall 2018 ,Interested,TOEFL,98,65%,29,30
+319,Management Information System,Fall 2018 ,Interested,TOEFL,99,76%,38,30
+321,Management Information System,Fall 2018 ,Interested,IELTS,7,71.40%,36,30
+322,Management Information System,Spring 2019 ,Interested,ENG TEST,0,54%,0,30
+325,Information Systems,Fall 2018 ,Applied,IELTS,6,6.5 CGPA ,10,8
+326,Information Systems, Fall 2018 ,Applied,TOEFL,100,65%,12,8
+327,Information Systems,Fall 2018 ,Applied,TOEFL,84,65.90%,8,8
+328,Information Systems,Fall 2016 ,Applied,TOEFL,85,7.62 CGPA ,36,8
+332,Information Systems,Fall 2018 ,Admit,TOEFL,97,6.88 CGPA ,0,8
+333,Information Systems,Fall 2018 ,Admit,TOEFL,0,57.43%,6,8
+334,Information Systems,Fall 2018 ,Admit,TOEFL,104,7.8 CGPA ,20,8
+335,Information Systems,Fall 2018 ,Admit,IELTS,6.5,7.75 CGPA ,0,8
+336,Information Systems,Fall 2018 ,Admit,TOEFL,96,8.4 CGPA ,4,8
+337,Information Systems,Fall 2018 ,Admit,TOEFL,102, 8 CGPA ,0,8
+338,Information Systems,Fall 2018 ,Admit,TOEFL,93,7.445 CGPA ,4,8
+339,Information Systems,Fall 2018 ,Admit,IELTS,7,8.22 CGPA ,8,8
+341,Information Systems,Spring 2018 ,Admit,TOEFL,100,6.79 CGPA ,27,8
+342,Information Systems,Fall 2017 ,Admit,TOEFL,86,65%,28,8
+343,Information Systems,Fall 2017 ,Admit,ENG TEST,0,80.20%,0,8
+344,Information Systems,Spring 2017 ,Admit,TOEFL,114,6.81 CGPA ,6,8
+345,Information Systems,Spring 2017 ,Admit,TOEFL,107,8.25 CGPA ,6,8
+346,Information Systems,Fall 2016 ,Admit,TOEFL,101,8.42 CGPA ,41,8
+348,Information Systems,Fall 2016 ,Admit,IELTS,7.5,8 CGPA ,6,8
+349,Information Systems,Fall 2018 ,Reject,TOEFL,92,6.33 CGPA ,-1,8
+350,Information Systems,Fall 2018 ,Reject,TOEFL,94,6.45 CGPA ,13,8
+351,Information Systems,Fall 2017 ,Reject,TOEFL,113,5.97 CGPA ,20,8
+352,Information Systems,Fall 2017 ,Reject,TOEFL,96,78%,74,8
+353,Information Systems,Fall 2016 ,Reject,TOEFL,86,62.20%,32,8
+354,Information Systems,Fall 2016 ,Reject,TOEFL,110,8.2 CGPA ,20,8
+355,Information Systems,Spring 2019 ,Interested,TOEFL,102,65%,26,8
+356,Information Systems,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,8
+357,Information Systems,Fall 2018 ,Interested,TOEFL,86,67%,30,8
+358,Information Systems,Fall 2018 ,Interested,IELTS,7,58.71%,30,8
+359,Information Systems,Spring 2019 ,Interested,IELTS,7,62%,8,8
+360,Information Systems,Fall 2018 ,Interested,TOEFL,86,70%,7,8
+361,Information Systems,Fall 2018 ,Interested,ENG TEST,0,9.3 CGPA ,12,8
+362,Information Systems,Fall 2018 ,Interested,ENG TEST,0,6.9 CGPA ,40,8
+363,Information Systems,Fall 2018 ,Interested,TOEFL,90,58.80%,0,8
+365,Information Systems,Fall 2019 ,Interested,IELTS,7.5,60%,30,8
+366,Information Systems,Fall 2018 ,Interested,TOEFL,96,62%,57,8
+368,Information Systems,Fall 2018 ,Interested,TOEFL,108,73%,27,8
+370,Information Systems,Fall 2018 ,Interested,ENG TEST,0,7.25 CGPA ,24,8
+371,Information Systems,Fall 2017 ,Interested,TOEFL,105,7.5 CGPA ,0,8
+372,Information Systems,Fall 2019 ,Interested,ENG TEST,0,7.3 CGPA ,6,8
+374,Information Systems,Fall 2017 ,Interested,TOEFL,115,7.43 CGPA ,0,8
+376,Management Information System,Fall 2018 ,Applied,TOEFL,100,67%,60,6
+378,Management Information System,Fall 2018 ,Applied,TOEFL,102,65%,20,6
+379,Management Information System,Fall 2018 ,Applied,TOEFL,102,67%,32,6
+380,Management Information System,Fall 2018 ,Applied,TOEFL,106,68%,19,6
+381,Management Information System,Fall 2018 ,Applied,TOEFL,112,8.24 CGPA ,1,6
+383,Management Information System,Fall 2018 ,Applied,TOEFL,101,7.79 CGPA ,16,6
+384,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.8 CGPA ,26,6
+385,Management Information System,Fall 2018 ,Applied,TOEFL,0,63.28%,40,6
+386,Management Information System,Fall 2018 ,Applied,TOEFL,101,6.57 CGPA ,15,6
+387,Management Information System,Fall 2018 ,Applied,TOEFL,110,5.66 CGPA ,6,6
+388,Management Information System,Fall 2018 ,Applied,TOEFL,106,68.23%,19,6
+389,Management Information System,Fall 2018 ,Applied,TOEFL,114,6.71 CGPA ,14,6
+390,Management Information System,Fall 2018 ,Applied,TOEFL,96,8.46 CGPA ,42,6
+391,Management Information System,Fall 2018 ,Applied,TOEFL,109,69%,30,6
+392,Management Information System,Fall 2018 ,Applied,TOEFL,108,8.65 CGPA ,36,6
+393,Management Information System,Fall 2018 ,Applied,TOEFL,103,79%,60,6
+394,Management Information System,Fall 2017 ,Applied,TOEFL,117,87.20%,30,6
+395,Management Information System,Fall 2018 ,Applied,TOEFL,99,67%,16,6
+396,Management Information System,Fall 2018 ,Admit,TOEFL,115,9.38 CGPA ,1,6
+397,Management Information System,Fall 2018 ,Admit,TOEFL,105,85%,60,6
+398,Management Information System,Fall 2018 ,Admit,TOEFL,110,6.93 CGPA ,25,6
+399,Management Information System,Fall 2018 ,Admit,TOEFL,104,77%,3,6
+400,Management Information System,Fall 2018 ,Admit,TOEFL,0,80.12%,60,6
+401,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.97 CGPA ,18,6
+402,Management Information System,Fall 2018 ,Admit,TOEFL,115,9.12 CGPA ,4,6
+404,Management Information System,Fall 2018 ,Admit,TOEFL,114,6.71 CGPA ,14,6
+405,Management Information System,Fall 2018 ,Admit,TOEFL,108,8.57 CGPA ,37,6
+406,Management Information System,Fall 2018 ,Admit,TOEFL,110,8.6 CGPA ,24,6
+407,Management Information System,Fall 2018 ,Admit,TOEFL,109,86%,25,6
+408,Management Information System,Fall 2018 ,Admit,TOEFL,115,9.55 CGPA ,26,6
+409,Management Information System,Fall 2018 ,Admit,TOEFL,0,8.57 CGPA ,23,6
+410,Management Information System,Fall 2018 ,Admit,TOEFL,111,60.10%,42,6
+411,Management Information System,Fall 2018 ,Admit,TOEFL,112,8.48 CGPA ,21,6
+412,Management Information System,Fall 2018 ,Admit,IELTS,0,73.10%,0,6
+413,Management Information System,Fall 2018 ,Admit,TOEFL,101,68.20%,42,6
+414,Management Information System,Fall 2018 ,Admit,TOEFL,107,8.96 CGPA ,0,6
+415,Management Information System,Fall 2018 ,Admit,TOEFL,103,81.01%,13,6
+416,Management Information System,Fall 2018 ,Reject,TOEFL,98,10 CGPA ,0,6
+417,Management Information System,Fall 2018 ,Reject,TOEFL,101,67%,18,6
+418,Management Information System,Fall 2018 ,Reject,TOEFL,84,68.50%,43,6
+419,Management Information System,Fall 2018 ,Reject,TOEFL,115,66%,0,6
+420,Management Information System,Fall 2018 ,Reject,TOEFL,111,7.15 CGPA ,3,6
+421,Management Information System,Fall 2018 ,Reject,IELTS,0,7.61 CGPA ,0,6
+422,Management Information System,Fall 2018 ,Reject,TOEFL,110,66%,50,6
+423,Management Information System,Fall 2018 ,Reject,TOEFL,101,72%,24,6
+424,Management Information System,Fall 2018 ,Reject,TOEFL,116,8.48 CGPA ,2,6
+425,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.55 CGPA ,0,6
+426,Management Information System,Fall 2018 ,Reject,TOEFL,104,7.2 CGPA ,19,6
+428,Management Information System,Fall 2018 ,Reject,TOEFL,0,7.12 CGPA ,1,6
+429,Management Information System,Fall 2018 ,Reject,TOEFL,102,7.76 CGPA ,54,6
+430,Management Information System,Fall 2018 ,Reject,TOEFL,103,74.10%,13,6
+431,Management Information System,Fall 2018 ,Reject,TOEFL,97,7 CGPA ,23,6
+432,Management Information System,Fall 2018 ,Reject,TOEFL,99,74%,0,6
+433,Management Information System,Fall 2018 ,Reject,IELTS,7.5,65.77%,30,6
+434,Management Information System,Fall 2018 ,Reject,TOEFL,101,8.72 CGPA ,20,6
+435,Management Information System,Fall 2018 ,Reject,TOEFL,100,9 CGPA ,43,6
+438,Management Information System,Fall 2019 ,Interested,TOEFL,99,6.48 CGPA ,12,6
+439,Management Information System,Fall 2019 ,Interested,TOEFL,106,7.92 CGPA ,35,6
+441,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,6
+445,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,6
+448,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.8 CGPA ,1,6
+449,Management Information System,Spring 2017 ,Interested,ENG TEST,0,8.25 CGPA ,6,6
+451,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.75 CGPA ,13,6
+452,Management Information System,Fall 2019 ,Interested,ENG TEST,0,67%,0,6
+457,Management Information System,Fall 2018 ,Applied,IELTS,6,7.3 CGPA ,2,31
+458,Management Information System,Fall 2018 ,Applied,IELTS,7,8.43 CGPA ,0,31
+459,Management Information System,Fall 2018 ,Applied,TOEFL,91,5.39 CGPA ,3,31
+460,Management Information System,Fall 2018 ,Applied,TOEFL,94,79.80%,38,31
+461,y Management Information System,Fall 2018 ,Applied,TOEFL,92,66%,90,5
+462,Management Information System,Fall 2018 ,Applied,TOEFL,108,60%,14,31
+464,Management Information System,Fall 2017 ,Applied,TOEFL,77,62%,14,31
+465,Management Information System,Fall 2017 ,Applied,TOEFL,99,59%,24,31
+466,Management Information System,Fall 2017 ,Applied,TOEFL,92,61%,37,31
+467,Management Information System,Fall 2017 ,Applied,IELTS,7,72.64%,48,31
+468,Management Information System,Fall 2017 ,Applied,TOEFL,100,60%,18,31
+469,Management Information System,Fall 2017 ,Applied,TOEFL,108,60%,21,31
+470,Management Information System,Fall 2017 ,Applied,TOEFL,84,63.57%,17,31
+471,Management Information System,Fall 2017 ,Applied,TOEFL,98,7.45 CGPA ,29,31
+472,Management Information System,Fall 2017 ,Applied,ENG TEST,0,6 CGPA ,3,31
+473,Management Information System,Fall 2017 ,Applied,TOEFL,105,6.45 CGPA ,7,31
+474,Management Information System,Fall 2017 ,Applied,IELTS,7,6.5 CGPA ,15,31
+475,Management Information System,Spring 2017 ,Applied,TOEFL,83,55.50%,60,31
+476,Management Information System,Fall 2017 ,Applied,ENG TEST,0,60%,0,31
+477,Management Information System,Fall 2018 ,Admit,TOEFL,84,8.64 CGPA ,67,31
+478,Management Information System,Fall 2018 ,Admit,TOEFL,93,56%,8,31
+479,Management Information System,Fall 2018 ,Admit,IELTS,7,81%,36,31
+480,Management Information System,Fall 2018 ,Admit,TOEFL,91,7.7 CGPA ,1,31
+481,Management Information System,Fall 2018 ,Admit,IELTS,6,69%,26,31
+482,Management Information System,Fall 2018 ,Admit,TOEFL,93,7 CGPA ,34,31
+483,Management Information System,Fall 2018 ,Admit,IELTS,6.5,67%,27,31
+484,Management Information System,Fall 2018 ,Admit,TOEFL,93,54%,35,31
+485,Management Information System,Fall 2018 ,Admit,TOEFL,0,8.04 CGPA ,40,31
+486,Management Information System,Fall 2018 ,Admit,TOEFL,100,6.2 CGPA ,0,31
+487,Management Information System,Fall 2018 ,Admit,IELTS,7.5,7.51 CGPA ,32,31
+488,Management Information System,Fall 2018 ,Admit,IELTS,0,7.3 CGPA ,1,31
+489,Management Information System,Fall 2018 ,Admit,IELTS,7.5,6.12 CGPA ,18,31
+490,Management Information System,Fall 2018 ,Admit,IELTS,0,8.1 CGPA ,5,31
+491,Management Information System,Fall 2018 ,Admit,TOEFL,99,64.50%,0,31
+492,Management Information System,Fall 2018 ,Admit,TOEFL,88,60%,29,31
+493,Management Information System,Fall 2018 ,Admit,TOEFL,92,66%,24,31
+494,Management Information System,Fall 2018 ,Admit,IELTS,6,6.9 CGPA ,26,31
+495,Management Information System,Fall 2018 ,Admit,TOEFL,0,65.20%,30,31
+496,Management Information System,Fall 2018 ,Admit,IELTS,7.5,62.50%,4,31
+497,Management Information System,Fall 2018 ,Reject,TOEFL,82,6.22 CGPA ,0,31
+498,Management Information System,Fall 2018 ,Reject,IELTS,6.5,6.27 CGPA ,0,31
+499,Management Information System,Fall 2017 ,Reject,IELTS,0,5.64 CGPA ,0,31
+500,Management Information System,Fall 2018 ,Reject,TOEFL,81,6.12 CGPA ,8,31
+501,Management Information System,Fall 2018 ,Reject,TOEFL,104,58%,5,31
+502,Management Information System,Fall 2018 ,Reject,TOEFL,92,6 CGPA ,12,31
+503,Management Information System,Fall 2018 ,Reject,TOEFL,90,5.67 CGPA ,8,31
+504,Management Information System,Fall 2018 ,Reject,IELTS,7.5,7 CGPA ,48,31
+505,Management Information System,Fall 2018 ,Reject,IELTS,7,54%,31,31
+506,Management Information System,Fall 2018 ,Reject,TOEFL,99,6.49 CGPA ,0,31
+507,Management Information System,Spring 2018 ,Reject,IELTS,6.5,5.46 CGPA ,2,31
+508,Management Information System,Spring 2018 ,Reject,IELTS,6,59%,12,31
+509,Management Information System,Spring 2018 ,Reject,IELTS,7.5,7.97 CGPA ,0,31
+510,Management Information System,Spring 2018 ,Reject,IELTS,7,6.1 CGPA ,0,31
+511,Management Information System,Fall 2017 ,Reject,IELTS,7,58%,30,31
+512,Management Information System,Fall 2017 ,Reject,TOEFL,80,58%,55,31
+513,Management Information System,Fall 2017 ,Reject,TOEFL,99,6.7 CGPA ,22,31
+514,Management Information System,Fall 2017 ,Reject,TOEFL,103,52%,1,31
+515,Management Information System,Fall 2017 ,Reject,TOEFL,90,6.89 CGPA ,19,31
+516,Management Information System,Fall 2017 ,Reject,TOEFL,90,55%,4,31
+517,Management Information System,Spring 2019 ,Interested,IELTS,6.5,74%,60,31
+518,Management Information System,Spring 2019 ,Interested,ENG TEST,0,7.6 CGPA ,19,31
+519,Management Information System,Spring 2018 ,Interested,TOEFL,95,67%,35,31
+520,Management Information System,Spring 2019 ,Interested,IELTS,6.5,8.4 CGPA ,6,31
+521,Management Information System,Spring 2019 ,Interested,IELTS,6.5,8.34 CGPA ,0,31
+525,Management Information System,Spring 2019 ,Interested,TOEFL,81,7.37 CGPA ,43,31
+527,Management Information System,Spring 2019 ,Interested,IELTS,7,7.8 CGPA ,18,31
+528,Management Information System,Spring 2019 ,Interested,IELTS,7,65%,15,31
+529,Management Information System,Spring 2019 ,Interested,TOEFL,90,9.12 CGPA ,24,31
+531,Management Information System,Fall 2018 ,Interested,TOEFL,83,68.19%,12,31
+532,Management Information System,Fall 2019 ,Interested,TOEFL,100,8.05 CGPA ,48,31
+534,Management Information System,Fall 2018 ,Interested,IELTS,7,6.6 CGPA ,24,31
+538,Management Information System,Fall 2018 ,Applied,IELTS,8,8 CGPA ,2,32
+539,Management Information System,Fall 2018 ,Applied,IELTS,7,7.61 CGPA ,37,32
+540,Management Information System,Spring 2018 ,Applied,ENG TEST,0,65%,36,32
+541,Management Information System,Fall 2017 ,Applied,ENG TEST,0,6.99 CGPA ,26,32
+542,Management Information System,Fall 2017 ,Applied,TOEFL,85,7.3 CGPA ,19,32
+543,Management Information System,Fall 2017 ,Applied,TOEFL,104,7.76 CGPA ,37,32
+544,Management Information System,Fall 2017 ,Applied,TOEFL,102,78.24%,21,32
+545,Management Information System,Spring 2017 ,Applied,TOEFL,105,62%,24,32
+546,Management Information System,Fall 2016 ,Applied,TOEFL,86,60%,18,32
+547,Management Information System,Fall 2016 ,Applied,TOEFL,101,8.3 CGPA ,3,32
+548,Management Information System,Fall 2016 ,Applied,ENG TEST,0,78%,0,32
+549,Management Information System,Fall 2016 ,Applied,TOEFL,107,7.71 CGPA ,0,32
+550,Management Information System,Fall 2016 ,Applied,TOEFL,108,7.78 CGPA ,0,32
+551,Management Information System,Fall 2015 ,Applied,TOEFL,95,8 CGPA ,30,32
+552,Management Information System,Fall 2016 ,Applied,TOEFL,100,0%,0,32
+553,Management Information System,Spring 2016 ,Applied,TOEFL,100,65%,0,32
+554,Management Information System,Fall 2016 ,Applied,IELTS,7,7.7 CGPA ,30,32
+555,Management Information System,Spring 2016 ,Applied,TOEFL,115,7 CGPA ,0,32
+556,Management Information System,Fall 2016 ,Applied,TOEFL,115,59.59%,30,32
+557,Management Information System,Spring 2016 ,Applied,TOEFL,97,61%,0,32
+558,Management Information System,Fall 2018 ,Admit,IELTS,8,7.95 CGPA ,3,32
+559,Management Information System,Fall 2018 ,Admit,IELTS,8,8.87 CGPA ,18,32
+560,Management Information System,Fall 2017 ,Admit,TOEFL,105,69%,11,32
+561,Management Information System,Fall 2018 ,Admit,IELTS,8,74.30%,18,32
+562,Management Information System,Fall 2018 ,Admit,TOEFL,116,68%,0,32
+563,Management Information System,Fall 2017 ,Admit,TOEFL,99,6.4 CGPA ,8,32
+564,Management Information System,Fall 2018 ,Admit,ENG TEST,0,7.97 CGPA ,39,32
+565,Management Information System,Fall 2018 ,Admit,TOEFL,100,8.6 CGPA ,34,32
+566,Management Information System,Spring 2018 ,Admit,ENG TEST,0,70%,0,32
+567,Management Information System,Spring 2018 ,Admit,TOEFL,106,7.58 CGPA ,40,32
+568,Management Information System,Fall 2017 ,Admit,IELTS,7,7.69 CGPA ,33,32
+569,Management Information System,Fall 2017 ,Admit,TOEFL,97,80%,55,32
+570,Management Information System,Fall 2017 ,Admit,TOEFL,99,72.20%,72,32
+571,Management Information System,Fall 2017 ,Admit,TOEFL,106,72.80%,20,32
+572,Management Information System,Fall 2017 ,Admit,TOEFL,109,70%,29,32
+573,Management Information System,Fall 2017 ,Admit,TOEFL,97,77%,43,32
+574,Management Information System,Fall 2017 ,Admit,TOEFL,102,65.98%,25,32
+575,Management Information System,Fall 2017 ,Admit,TOEFL,100,8.06 CGPA ,42,32
+576,Management Information System,Fall 2017 ,Admit,TOEFL,99,62.50%,56,32
+577,Management Information System,Fall 2017 ,Admit,TOEFL,103,7.5 CGPA ,20,32
+578,Management Information System,Fall 2018 ,Reject,IELTS,7.5,7.95 CGPA ,18,32
+579,Management Information System,Fall 2018 ,Reject,TOEFL,96,9.24 CGPA ,74,32
+580,Management Information System,Fall 2018 ,Reject,ENG TEST,0,7.5 CGPA ,4,32
+581,Management Information System,Fall 2018 ,Reject,TOEFL,84,7.67 CGPA ,50,32
+582,Management Information System,Fall 2018 ,Reject,TOEFL,107,6.71 CGPA ,12,32
+583,Management Information System,Spring 2019 ,Reject,TOEFL,104,8.7 CGPA ,16,32
+584,Management Information System,Spring 2018 ,Reject,TOEFL,106,6.89 CGPA ,25,32
+585,Management Information System,Fall 2017 ,Reject,TOEFL,98,8.98 CGPA ,22,32
+586,Management Information System,Fall 2017 ,Reject,TOEFL,106,7.17 CGPA ,29,32
+587,Management Information System,Fall 2017 ,Reject,TOEFL,113,5.97 CGPA ,20,32
+588,Management Information System,Fall 2017 ,Reject,TOEFL,101,66%,17,32
+589,Management Information System,Fall 2017 ,Reject,TOEFL,101,7.86 CGPA ,8,32
+590,Management Information System,Fall 2017 ,Reject,TOEFL,112,57%,48,32
+591,Management Information System,Fall 2017 ,Reject,TOEFL,90,7.23 CGPA ,17,32
+592,Management Information System,Spring 2017 ,Reject,TOEFL,107,7.03 CGPA ,11,32
+593,Management Information System,Spring 2017 ,Reject,TOEFL,108,62.60%,33,32
+594,Management Information System,Spring 2017 ,Reject,TOEFL,101,7.351 CGPA ,46,32
+595,Management Information System,Fall 2016 ,Reject,TOEFL,92,65%,30,32
+596,Management Information System,Fall 2016 ,Reject,TOEFL,92,71.20%,36,32
+597,Management Information System,Fall 2016 ,Reject,IELTS,7,7.69 CGPA ,22,32
+600,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,32
+602,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,32
+604,Management Information System,Fall 2019 ,Interested,ENG TEST,0,59.90%,80,32
+606,Management Information System,Spring 2018 ,Interested,TOEFL,105,5.8 CGPA ,28,32
+609,Management Information System,Spring 2019 ,Interested,IELTS,7.5,69.50%,28,32
+613,Management Information System,Spring 2019 ,Interested,TOEFL,101,7.5 CGPA ,1,32
+614,Management Information System,Fall 2017 ,Interested,TOEFL,105,65%,0,32
+615,Management Information System,Spring 2019 ,Interested,IELTS,7.5,7.26 CGPA ,11,32
+617,Management Information System,Spring 2019 ,Interested,TOEFL,101,60%,25,32
+619,Management Information System,Fall 2018 ,Applied,TOEFL,110,8.6 CGPA ,3,3
+620,Management Information System,Fall 2018 ,Applied,TOEFL,106,7.63 CGPA ,6,3
+621,Management Information System,Fall 2018 ,Applied,TOEFL,112,72%,28,3
+622,Management Information System,Fall 2018 ,Applied,TOEFL,103,66%,11,3
+623,Management Information System,Fall 2018 ,Applied,TOEFL,112,80.30%,16,3
+624,Management Information System,Fall 2018 ,Applied,TOEFL,100,61%,40,3
+625,Management Information System,Fall 2018 ,Applied,TOEFL,100,8.55 CGPA ,37,3
+626,Management Information System,Fall 2017 ,Applied,TOEFL,109,62%,33,3
+627,Management Information System,Fall 2018 ,Applied,TOEFL,106,7.36 CGPA ,2,3
+628,Management Information System,Fall 2018 ,Applied,TOEFL,104,8.7 CGPA ,7,3
+629,Management Information System,Fall 2014 ,Applied,TOEFL,104,89.90%,29,3
+630,Management Information System,Fall 2018 ,Applied,TOEFL,105,6.8 CGPA ,6,3
+631,Management Information System,Fall 2018 ,Applied,TOEFL,110,7.125 CGPA ,39,3
+632,Management Information System,Spring 2017 ,Applied,TOEFL,107,8 CGPA ,18,3
+633,Management Information System,Fall 2017 ,Applied,TOEFL,104,89.50%,38,3
+634,Management Information System,Fall 2017 ,Applied,TOEFL,112,64.64%,29,3
+635,Management Information System,Fall 2017 ,Applied,TOEFL,113,77.30%,37,3
+637,Management Information System,Fall 2017 ,Applied,TOEFL,101,84%,27,3
+638,Management Information System,Fall 2017 ,Applied,TOEFL,110,8.04 CGPA ,24,3
+639,Management Information System,Fall 2018 ,Admit,TOEFL,116,8.48 CGPA ,2,3
+640,Management Information System,Fall 2018 ,Admit,TOEFL,102,65%,9,3
+641,Management Information System,Fall 2018 ,Admit,TOEFL,112,80.48%,28,3
+642,Management Information System,Fall 2018 ,Admit,TOEFL,119,8.24 CGPA ,0,3
+644,Management Information System,Fall 2018 ,Admit,TOEFL,103,81.01%,13,3
+645,Management Information System,Fall 2018 ,Admit,TOEFL,103,7.92 CGPA ,7,3
+646,Management Information System,Fall 2018 ,Admit,TOEFL,118,8.43 CGPA ,30,3
+647,Management Information System,Fall 2018 ,Admit,TOEFL,115,9.38 CGPA ,1,3
+648,Management Information System,Fall 2018 ,Admit,TOEFL,113,9.3 CGPA ,11,3
+649,Management Information System,Fall 2018 ,Admit,TOEFL,111,8.5 CGPA ,31,3
+651,Management Information System,Fall 2018 ,Admit,ENG TEST,0,8.87 CGPA ,18,3
+652,Management Information System,Fall 2018 ,Admit,TOEFL,105,7.42 CGPA ,0,3
+653,Management Information System,Fall 2018 ,Admit,IELTS,0,73.10%,0,3
+654,Management Information System,Fall 2018 ,Admit,TOEFL,112,7.52 CGPA ,35,3
+655,Management Information System,Fall 2013 ,Admit,TOEFL,113,65%,0,3
+657,Management Information System,Fall 2011 ,Admit,TOEFL,113,65.50%,0,3
+658,Management Information System,Fall 2012 ,Admit,TOEFL,100,62.30%,0,3
+659,Management Information System,Fall 2018 ,Reject,TOEFL,110,79.04%,27,3
+660,Management Information System,Fall 2018 ,Reject,TOEFL,114,61.52%,36,3
+661,Management Information System,Fall 2018 ,Reject,TOEFL,101,72%,24,3
+662,Management Information System,Fall 2018 ,Reject,TOEFL,114,70%,26,3
+663,Management Information System,Fall 2018 ,Reject,TOEFL,108,7.14 CGPA ,6,3
+664,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.6 CGPA ,24,3
+665,Management Information System,Fall 2018 ,Reject,TOEFL,105,64.86%,18,3
+666,Management Information System,Fall 2018 ,Reject,TOEFL,113,68.50%,44,3
+667,Management Information System,Fall 2018 ,Reject,TOEFL,110,63.58%,16,3
+668,Management Information System,Fall 2018 ,Reject,ENG TEST,0,75%,38,3
+669,Management Information System,Fall 2018 ,Reject,TOEFL,104,8.3 CGPA ,0,3
+670,Management Information System,Fall 2018 ,Reject,TOEFL,113,73.40%,26,3
+671,Management Information System,Fall 2018 ,Reject,TOEFL,114,8.3 CGPA ,30,3
+672,Management Information System,Fall 2018 ,Reject,TOEFL,102,65%,20,3
+673,Management Information System,Fall 2018 ,Reject,TOEFL,108,65%,41,3
+674,Management Information System,Fall 2018 ,Reject,TOEFL,98,7.07 CGPA ,14,3
+675,Management Information System,Fall 2018 ,Reject,TOEFL,108,8.65 CGPA ,36,3
+676,Management Information System,Fall 2018 ,Reject,TOEFL,108,71%,28,3
+677,Management Information System,Fall 2018 ,Reject,TOEFL,99,8.79 CGPA ,30,3
+678,Management Information System,Fall 2018 ,Reject,TOEFL,101,9.81 CGPA ,0,3
+679,Management Information System,Fall 2018 ,Interested,TOEFL,100,8.5 CGPA ,15,3
+682,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,3
+685,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,3
+688,Management Information System,Spring 2019 ,Interested,TOEFL,100,71%,0,3
+690,Management Information System,Fall 2020 ,Interested,ENG TEST,0,7.1 CGPA ,0,3
+691,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8.5 CGPA ,40,3
+694,Management Information System,Fall 2018 ,Interested,ENG TEST,0,63%,0,3
+696,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,3
+698,Management Information System,Fall 2018 ,Interested,TOEFL,0,79.70%,36,3
+701,Management Information System,Fall 2018 ,Applied,TOEFL,104,71%,76,4
+702,Management Information System,Fall 2015 ,Applied,TOEFL,106,6.41 CGPA ,0,4
+703,Management Information System,Fall 2016 ,Applied,TOEFL,100,0%,0,4
+704,Management Information System,Fall 2016 ,Applied,TOEFL,106,7 CGPA ,0,4
+705,Management Information System,Fall 2016 ,Applied,TOEFL,102,7 CGPA ,30,4
+706,Management Information System,Fall 2016 ,Applied,TOEFL,88,7.06 CGPA ,0,4
+707,Management Information System,Fall 2015 ,Applied,TOEFL,94,68%,20,4
+708,Management Information System,Fall 2018 ,Admit,ENG TEST,0,6.3 CGPA ,0,4
+709,Management Information System,Fall 2016 ,Admit,TOEFL,102,71%,30,4
+710,Management Information System,Fall 2015 ,Admit,TOEFL,110,75%,0,4
+711,Management Information System,Fall 2018 ,Reject,TOEFL,103,81%,28,4
+712,Management Information System,Fall 2016 ,Reject,TOEFL,94,8.1 CGPA ,29,4
+713,Management Information System,Fall 2013 ,Reject,TOEFL,113,8.83 CGPA ,20,4
+714,Management Information System,Fall 2019 ,Interested,ENG TEST,0,68%,45,4
+716,Management Information System,Fall 2019 ,Interested,TOEFL,97,8.85 CGPA ,22,4
+718,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,4
+722,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,4
+723,Management Information System,Spring 2019 ,Interested,TOEFL,109,7.2 CGPA ,33,4
+725,Management Information System,Spring 2019 ,Interested,TOEFL,106,87%,60,4
+726,Management Information System,Spring 2019 ,Interested,IELTS,7,62%,8,4
+728,Management Information System,Spring 2018 ,Interested,TOEFL,95,72%,14,4
+729,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.69 CGPA ,7,4
+732,Management Information System,Spring 2019 ,Interested,TOEFL,101,7.5 CGPA ,1,4
+735,Information Systems,Spring 2019 ,Applied,TOEFL,92,63.33%,60,29
+736,Information Systems,Spring 2019 ,Applied,TOEFL,108,66%,15,29
+737,Information Systems,Fall 2018 ,Applied,TOEFL,85,6.3 CGPA ,6,29
+739,Information Systems,Spring 2019 ,Applied,TOEFL,87,8.8 CGPA ,18,29
+740,Information Systems,Spring 2019 ,Applied,IELTS,7,81%,20,29
+741,Information Systems,Fall 2018 ,Applied,TOEFL,107,62%,6,29
+742,Information Systems,Fall 2018 ,Applied,TOEFL,102,61%,33,29
+743,Information Systems,Fall 2018 ,Applied,TOEFL,96,65%,24,29
+744,Information Systems,Fall 2018 ,Applied,TOEFL,100,6.2 CGPA ,0,29
+745,Information Systems,Fall 2017 ,Applied,TOEFL,97,67.80%,40,29
+746,Information Systems,Fall 2018 ,Applied,TOEFL,81,64%,44,29
+747,Information Systems,Fall 2018 ,Applied,ENG TEST,0,7.5 CGPA ,4,29
+748,Information Systems,Fall 2018 ,Applied,IELTS,6,69%,26,29
+749,Information Systems,Fall 2018 ,Applied,TOEFL,85,6.52 CGPA ,17,29
+750,Information Systems,Fall 2018 ,Applied,TOEFL,93,62%,45,29
+751,Information Systems,Fall 2018 ,Applied,IELTS,7,65.30%,4,29
+752,Information Systems,Fall 2018 ,Applied,TOEFL,99,57%,43,29
+754,Information Systems,Fall 2018 ,Applied,TOEFL,98,6.08 CGPA ,0,29
+755,Information Systems,Fall 2018 ,Admit,TOEFL,82,6.22 CGPA ,0,29
+756,Information Systems,Fall 2018 ,Admit,TOEFL,102,8.33 CGPA ,3,29
+757,Information Systems,Fall 2018 ,Admit,TOEFL,102,79%,0,29
+758,Information Systems,Fall 2018 ,Admit,TOEFL,99,8.5 CGPA ,0,29
+759,Information Systems,Fall 2018 ,Admit,TOEFL,104,80.22%,20,29
+762,Information Systems,Fall 2018 ,Admit,TOEFL,83,7.01 CGPA ,3,29
+763,Information Systems,Fall 2018 ,Admit,TOEFL,104,56%,38,29
+764,Information Systems,Fall 2018 ,Admit,TOEFL,107,64.36%,24,29
+765,Information Systems,Fall 2018 ,Admit,TOEFL,87,68%,60,29
+766,Information Systems,Fall 2018 ,Admit,TOEFL,89,6.5 CGPA ,0,29
+767,Information Systems,Fall 2018 ,Admit,TOEFL,96,73%,60,29
+768,Information Systems,Fall 2018 ,Admit,ENG TEST,0,72.40%,51,29
+770,Information Systems,Fall 2018 ,Admit,TOEFL,97,6 CGPA ,0,29
+772,Information Systems,Fall 2018 ,Admit,TOEFL,0,8.65 CGPA ,8,29
+773,Information Systems,Fall 2018 ,Admit,TOEFL,84,8.64 CGPA ,67,29
+774,Information Systems,Fall 2017 ,Admit,TOEFL,102,5.6 CGPA ,8,29
+775,Information Systems,Fall 2018 ,Reject,TOEFL,101,8.72 CGPA ,20,29
+776,Information Systems,Fall 2018 ,Reject,TOEFL,0,7.13 CGPA ,0,29
+777,Information Systems,Fall 2018 ,Reject,TOEFL,0,57.43%,6,29
+778,Information Systems,Fall 2018 ,Reject,TOEFL,72,59%,48,29
+779,Information Systems,Spring 2018 ,Reject,IELTS,7,78.53%,24,29
+780,Information Systems,Spring 2018 ,Reject,TOEFL,97,7.1 CGPA ,5,29
+781,Information Systems,Fall 2017 ,Reject,TOEFL,87,5.92 CGPA ,11,29
+782,Information Systems,Fall 2017 ,Reject,TOEFL,111,8.12 CGPA ,25,29
+783,Information Systems,Fall 2017 ,Reject,TOEFL,99,60.35%,20,29
+784,Information Systems,Fall 2017 ,Reject,TOEFL,88,70.10%,23,29
+785,Information Systems,Fall 2016 ,Reject,TOEFL,107,7.7 CGPA ,0,29
+786,Information Systems,Spring 2017 ,Reject,TOEFL,86,8.25 CGPA ,48,29
+787,Information Systems,Fall 2016 ,Reject,TOEFL,90,66%,46,29
+788,Information Systems,Fall 2016 ,Reject,TOEFL,99,7.3 CGPA ,0,29
+789,Information Systems,Fall 2016 ,Reject,TOEFL,107,77%,40,29
+790,Information Systems,Fall 2016 ,Reject,TOEFL,92,71%,20,29
+791,Information Systems,Fall 2016 ,Reject,TOEFL,109,7.18 CGPA ,0,29
+792,Information Systems,Fall 2016 ,Reject,ENG TEST,0,8.06 CGPA ,17,29
+794,Information Systems,Fall 2019 ,Interested,TOEFL,101,70%,30,29
+797,Information Systems,Fall 2020 ,Interested,TOEFL,92,5.5 CGPA ,0,29
+798,Information Systems,Spring 2019 ,Interested,ENG TEST,0,67%,23,29
+799,Information Systems,Fall 2018 ,Interested,TOEFL,98,78.28%,46,29
+800,Information Systems,Fall 2019 ,Interested,TOEFL,110,64%,44,29
+801,Information Systems,Fall 2018 ,Interested,TOEFL,82,55%,22,29
+803,Information Systems,Fall 2018 ,Interested,TOEFL,102,9.05 CGPA ,2,29
+804,Information Systems,Fall 2018 ,Interested,ENG TEST,0,7.72 CGPA ,0,29
+805,Information Systems,Spring 2018 ,Interested,TOEFL,95,67%,35,29
+806,Information Systems,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,29
+807,Information Systems,Spring 2019 ,Interested,IELTS,7.5,7.9 CGPA ,0,29
+809,Information Systems,Fall 2019 ,Interested,IELTS,7,8.11 CGPA ,0,29
+810,Information Systems,Spring 2019 ,Interested,TOEFL,93,54%,41,29
+812,Information Systems,Spring 2019 ,Interested,TOEFL,90,9.12 CGPA ,24,29
+814,Management Information System,Fall 2018 ,Applied,TOEFL,107,64.36%,24,2
+815,Management Information System,Fall 2016 ,Applied,TOEFL,104,9.21 CGPA ,30,2
+816,Management Information System,Fall 2017 ,Applied,TOEFL,105,80%,60,2
+817,Management Information System,Fall 2016 ,Applied,TOEFL,110,8.2 CGPA ,20,2
+818,Management Information System,Fall 2016 ,Applied,TOEFL,110,7.2 CGPA ,50,2
+819,Management Information System,Fall 2016 ,Applied,TOEFL,109,64%,36,2
+820,Management Information System,Fall 2016 ,Applied,TOEFL,104,7.79 CGPA ,12,2
+821,Management Information System,Fall 2015 ,Applied,TOEFL,99,7 CGPA ,20,2
+822,Management Information System,Fall 2016 ,Applied,TOEFL,106,8.1 CGPA ,30,2
+824,Management Information System,Fall 2016 ,Applied,TOEFL,104,7 CGPA ,30,2
+825,Management Information System,Fall 2016 ,Admit,TOEFL,101,62%,54,2
+826,Management Information System,Fall 2016 ,Admit,TOEFL,105,6.8 CGPA ,42,2
+827,Management Information System,Fall 2018 ,Reject,ENG TEST,0,8.2 CGPA ,47,2
+828,Management Information System,Fall 2015 ,Reject,TOEFL,95,58%,0,2
+835,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,2
+837,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,2
+838,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,2
+840,Management Information System,Fall 2019 ,Interested,ENG TEST,0,59.90%,80,2
+844,Management Information System,Fall 2019 ,Interested,TOEFL,100,7.54 CGPA ,0,2
+848,Management Information System,Fall 2019 ,Interested,TOEFL,99,8.322 CGPA ,12,2
+850,Information Systems,Fall 2018 ,Applied,TOEFL,112,7 CGPA ,30,33
+851,Information Systems,Fall 2018 ,Applied,TOEFL,110,8.6 CGPA ,24,33
+853,Information Systems,Fall 2018 ,Applied,TOEFL,100,7.65 CGPA ,0,33
+854,Information Systems,Fall 2018 ,Applied,TOEFL,0,70%,0,33
+855,Information Systems,Spring 2019 ,Applied,TOEFL,98,8 CGPA ,29,33
+856,Information Systems,Fall 2018 ,Applied,TOEFL,102,77%,0,33
+857,Information Systems,Fall 2018 ,Applied,TOEFL,110,5.66 CGPA ,6,33
+858,Information Systems,Fall 2018 ,Applied,TOEFL,106,55.50%,24,33
+859,Information Systems,Fall 2018 ,Applied,TOEFL,106,7.34 CGPA ,18,33
+860,Information Systems,Fall 2018 ,Applied,IELTS,7.5,7.95 CGPA ,18,33
+861,Information Systems,Spring 2018 ,Applied,TOEFL,97,6.5 CGPA ,9,33
+863,Information Systems,Fall 2017 ,Applied,TOEFL,102,64%,38,33
+864,Information Systems,Fall 2017 ,Applied,TOEFL,96,7.79 CGPA ,7,33
+865,Information Systems,Fall 2017 ,Applied,TOEFL,117,91.50%,6,33
+866,Information Systems,Fall 2017 ,Applied,TOEFL,104,61%,84,33
+867,Information Systems,Fall 2017 ,Applied,ENG TEST,0,7.2 CGPA ,1,33
+868,Information Systems,Fall 2017 ,Applied,TOEFL,110,9.5 CGPA ,16,33
+869,Information Systems,Spring 2017 ,Applied,TOEFL,96,68%,18,33
+871,Information Systems,Fall 2017 ,Admit,TOEFL,107,52%,35,33
+872,Information Systems,Fall 2018 ,Admit,TOEFL,107,7.1 CGPA ,44,33
+873,Information Systems,Fall 2018 ,Admit,TOEFL,104,7.61 CGPA ,20,33
+874,Information Systems,Fall 2018 ,Admit,TOEFL,0,8.03 CGPA ,60,33
+875,Information Systems,Fall 2018 ,Admit,TOEFL,0,74%,15,33
+876,Information Systems,Fall 2018 ,Admit,TOEFL,107,69%,60,33
+877,Information Systems,Fall 2019 ,Admit,TOEFL,113,7.86 CGPA ,36,33
+878,Information Systems,Fall 2018 ,Admit,ENG TEST,0,8 CGPA ,0,33
+879,Information Systems,Fall 2018 ,Admit,TOEFL,103,70%,88,33
+880,Information Systems,Fall 2018 ,Admit,TOEFL,0,65%,24,33
+881,Information Systems,Fall 2018 ,Admit,TOEFL,98,7.31 CGPA ,25,33
+882,Information Systems,Fall 2018 ,Admit,TOEFL,0,73.50%,33,33
+883,Information Systems,Fall 2018 ,Admit,TOEFL,92,7.2 CGPA ,16,33
+884,Information Systems,Fall 2018 ,Admit,TOEFL,97,7.7 CGPA ,35,33
+885,Information Systems,Fall 2018 ,Admit,TOEFL,111,60.10%,42,33
+886,Information Systems,Fall 2018 ,Admit,TOEFL,100,9.23 CGPA ,26,33
+887,Information Systems,Fall 2018 ,Admit,TOEFL,100,76%,41,33
+888,Information Systems,Fall 2018 ,Admit,TOEFL,113,7.9 CGPA ,17,33
+889,Information Systems,Fall 2018 ,Admit,TOEFL,100,90%,34,33
+890,Information Systems,Fall 2018 ,Reject,TOEFL,115,71.50%,48,33
+891,Information Systems,Fall 2018 ,Reject,TOEFL,90,71%,6,33
+892,Information Systems,Fall 2018 ,Reject,TOEFL,91,7.8 CGPA ,14,33
+893,Information Systems,Fall 2018 ,Reject,TOEFL,0,7.54 CGPA ,7,33
+894,Information Systems,Fall 2018 ,Reject,ENG TEST,0,8.5 CGPA ,6,33
+896,Information Systems,Spring 2018 ,Reject,TOEFL,95,8 CGPA ,0,33
+897,Information Systems,Fall 2012 ,Reject,TOEFL,100,62.30%,0,33
+898,Information Systems,Fall 2017 ,Reject,TOEFL,104,8.54 CGPA ,10,33
+899,Information Systems,Fall 2017 ,Reject,TOEFL,112,55%,43,33
+900,Information Systems,Fall 2017 ,Reject,TOEFL,102,6.7 CGPA ,9,33
+901,Information Systems,Fall 2016 ,Reject,TOEFL,113,8.14 CGPA ,0,33
+902,Information Systems,Fall 2016 ,Reject,TOEFL,98,6.49 CGPA ,30,33
+903,Information Systems,Fall 2016 ,Reject,TOEFL,103,63%,20,33
+904,Information Systems,Fall 2015 ,Reject,TOEFL,108,66%,0,33
+905,Information Systems,Fall 2015 ,Reject,TOEFL,109,7 CGPA ,20,33
+906,Information Systems,Fall 2015 ,Reject,TOEFL,113,7 CGPA ,12,33
+907,Information Systems,Fall 2014 ,Reject,TOEFL,98,7.66 CGPA ,30,33
+908,Information Systems,Fall 2014 ,Reject,TOEFL,109,70.06%,10,33
+909,Information Systems,Fall 2019 ,Interested,ENG TEST,0,70%,2,33
+910,Information Systems,Fall 2018 ,Interested,TOEFL,82,55%,22,33
+912,Information Systems,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,33
+913,Information Systems,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,33
+915,Information Systems,Spring 2019 ,Interested,IELTS,6.5,7.7 CGPA ,0,33
+916,Information Systems,Spring 2019 ,Interested,TOEFL,93,54%,41,33
+917,Information Systems,Spring 2019 ,Interested,IELTS,7.5,69.50%,28,33
+918,Information Systems,Fall 2019 ,Interested,TOEFL,77,6 CGPA ,10,33
+921,Information Systems,Fall 2019 ,Interested,TOEFL,100,62.47%,12,33
+924,Information Systems,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,33
+925,Information Systems,Fall 2018 ,Interested,IELTS,7,58.71%,30,33
+927,Information Systems,Fall 2018 ,Interested,TOEFL,105,7.1 CGPA ,1,33
+928,Information Systems,Fall 2019 ,Interested,ENG TEST,0,7.69 CGPA ,7,33
+930,Information Science,Fall 2018 ,Applied,TOEFL,102,8.2 CGPA ,16,27
+931,Information Science,Fall 2017 ,Applied,TOEFL,96,8.6 CGPA ,15,27
+932,Information Science,Fall 2018 ,Admit,TOEFL,0,87%,12,27
+933,Information Science,Fall 2018 ,Admit,TOEFL,117,9.1 CGPA ,4,27
+934,Information Science,Fall 2018 ,Admit,TOEFL,112,7.7 CGPA ,32,27
+935,Information Science,Fall 2017 ,Admit,TOEFL,100,8.31 CGPA ,19,27
+936,Information Science,Fall 2017 ,Admit,TOEFL,109,71.40%,20,27
+937,Information Science,Fall 2017 ,Admit,TOEFL,100,6.96 CGPA ,25,27
+938,Information Science,Fall 2017 ,Admit,TOEFL,108,76.60%,24,27
+939,Information Science,Fall 2017 ,Admit,TOEFL,107,8.44 CGPA ,20,27
+940,Information Science,Fall 2016 ,Admit,TOEFL,110,9.12 CGPA ,24,27
+941,Information Science,Fall 2016 ,Admit,TOEFL,105,78.58%,0,27
+942,Information Science,Fall 2018 ,Reject,TOEFL,0,77.34%,1,27
+943,Information Science,Fall 2017 ,Reject,TOEFL,100,80.45%,32,27
+945,Information Science,Spring 2019 ,Interested,IELTS,7,7.35 CGPA ,36,27
+947,Information Science,Fall 2019 ,Interested,ENG TEST,0,65%,22,27
+951,Information Science,Spring 2019 ,Interested,TOEFL,109,7.2 CGPA ,33,27
+953,Information Science,Spring 2019 ,Interested,ENG TEST,0,78.87%,17,27
+954,Information Science,Spring 2019 ,Interested,ENG TEST,0,76.40%,29,27
+955,Information Science,Spring 2019 ,Interested,ENG TEST,0,6.54 CGPA ,39,27
+957,Information Science,Fall 2018 ,Interested,TOEFL,0,7.4 CGPA ,34,27
+959,Information Science,Fall 2018 ,Interested,TOEFL,92,84.82%,0,27
+960,Information Science,Fall 2019 ,Interested,TOEFL,104,8.1 CGPA ,12,27
+965,Information Science,Fall 2018 ,Applied,TOEFL,98,6.08 CGPA ,0,34
+966,Information Science,Fall 2018 ,Applied,IELTS,0,7.04 CGPA ,0,34
+967,Information Science,Spring 2018 ,Applied,IELTS,7,6.62 CGPA ,54,34
+968,Information Science,Spring 2017 ,Applied,TOEFL,97,6 CGPA ,0,34
+969,Information Science,Spring 2017 ,Applied,TOEFL,104,7.88 CGPA ,0,34
+970,Information Science,Spring 2017 ,Applied,TOEFL,88,58%,44,34
+971,Information Science,Spring 2017 ,Applied,TOEFL,94,72.90%,12,34
+972,Information Science,Fall 2016 ,Applied,TOEFL,91,64%,6,34
+973,Information Science,Fall 2016 ,Applied,TOEFL,98,58%,42,34
+974,Information Science,Fall 2016 ,Applied,TOEFL,85,57.50%,14,34
+975,Information Science,Fall 2016 ,Applied,TOEFL,75,63%,39,34
+976,Information Science,Fall 2016 ,Applied,TOEFL,90,8.09 CGPA ,24,34
+977,Information Science,Fall 2015 ,Applied,IELTS,7.5,56%,20,34
+978,Information Science,Fall 2015 ,Applied,TOEFL,88,7 CGPA ,0,34
+979,Information Science,Spring 2016 ,Applied,TOEFL,99,66%,30,34
+980,Information Science,Fall 2016 ,Applied,TOEFL,103,69%,10,34
+981,Information Science,Spring 2017 ,Applied,TOEFL,93,62%,0,34
+982,Information Science,Fall 2016 ,Applied,ENG TEST,0,75.50%,0,34
+983,Information Science,Spring 2016 ,Applied,TOEFL,80,6 CGPA ,0,34
+984,Information Science,Fall 2016 ,Applied,TOEFL,90,6 CGPA ,30,34
+985,Information Science,Fall 2018 ,Admit,TOEFL,104,80.22%,20,34
+986,Information Science,Fall 2018 ,Admit,TOEFL,102,62.80%,27,34
+987,Information Science,Fall 2018 ,Admit,TOEFL,85,58.50%,24,34
+988,Information Science,Fall 2018 ,Admit,TOEFL,103,9 CGPA ,30,34
+989,Information Science,Fall 2018 ,Admit,TOEFL,105,6.76 CGPA ,12,34
+990,Information Science,Fall 2017 ,Admit,TOEFL,93,66%,48,34
+991,Information Science,Fall 2017 ,Admit,TOEFL,100,63%,0,34
+992,Information Science,Fall 2017 ,Admit,TOEFL,85,62%,37,34
+993,Information Science,Spring 2017 ,Admit,TOEFL,103,80%,36,34
+994,Information Science,Fall 2016 ,Admit,TOEFL,98,7.7 CGPA ,0,34
+995,Information Science,Fall 2016 ,Admit,TOEFL,89,7.24 CGPA ,3,34
+996,Information Science,Fall 2016 ,Admit,TOEFL,102,61%,28,34
+997,Information Science,Fall 2016 ,Admit,TOEFL,94,69.80%,30,34
+998,Information Science,Fall 2016 ,Admit,IELTS,6.5,58.79%,26,34
+999,Information Science,Fall 2016 ,Admit,TOEFL,104,7 CGPA ,6,34
+1000,Information Science,Fall 2016 ,Admit,TOEFL,101,64%,18,34
+1001,Information Science,Fall 2016 ,Admit,TOEFL,104,7.3 CGPA ,30,34
+1002,Information Science,Fall 2016 ,Admit,TOEFL,88,59%,1,34
+1003,Information Science,Fall 2016 ,Admit,IELTS,7.5,8 CGPA ,6,34
+1004,Information Science,Fall 2016 ,Admit,TOEFL,98,7.18 CGPA ,54,34
+1005,Information Science,Fall 2018 ,Reject,TOEFL,104,6 CGPA ,18,34
+1006,Information Science,Fall 2017 ,Reject,TOEFL,95,7 CGPA ,1,34
+1007,Information Science,Spring 2018 ,Reject,TOEFL,96,7.58 CGPA ,5,34
+1008,Information Science,Spring 2017 ,Reject,TOEFL,95,6.1 CGPA ,0,34
+1009,Information Science, Fall 2016 ,Reject,TOEFL,96,8.9 CGPA ,40,34
+1010,Information Science,Fall 2016 ,Reject,TOEFL,92,56.68%,24,34
+1011,Information Science,Fall 2016 ,Reject,TOEFL,93,74%,24,34
+1012,Information Science,Fall 2016 ,Reject,TOEFL,107,53%,11,34
+1013,Information Science,Fall 2016 ,Reject,TOEFL,88,62%,31,34
+1014,Information Science,Fall 2016 ,Reject,TOEFL,86,62.20%,32,34
+1015,Information Science,Fall 2016 ,Reject,TOEFL,93,6.76 CGPA ,3,34
+1016,Information Science,Fall 2016 ,Reject,TOEFL,85,58%,18,34
+1017,Information Science,Fall 2016 ,Reject,TOEFL,101,8.3 CGPA ,3,34
+1018,Information Science,Fall 2016 ,Reject,ENG TEST,0,61%,36,34
+1019,Information Science,Fall 2015 ,Reject,TOEFL,97,61%,0,34
+1022,Information Science,Spring 2019 ,Interested,ENG TEST,0,7.8 CGPA ,37,34
+1026,Information Science,Fall 2018 ,Interested,TOEFL,97,55%,30,34
+1027,Information Science,Spring 2019 ,Interested,TOEFL,93,54%,41,34
+1028,Information Science,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,34
+1029,Information Science,Spring 2019 ,Interested,TOEFL,101,9.1 CGPA ,14,34
+1030,Information Science,Fall 2018 ,Interested,ENG TEST,0,8.5 CGPA ,24,34
+1031,Information Science,Fall 2018 ,Interested,ENG TEST,0,5.8 CGPA ,0,34
+1032,Information Science,Fall 2018 ,Interested,ENG TEST,0,7.3 CGPA ,36,34
+1036,Information Science,Fall 2019 ,Interested,TOEFL,108,56.06%,7,34
+1038,Information Science,Fall 2018 ,Interested,ENG TEST,0,7 CGPA ,0,34
+1039,Information Science,Spring 2019 ,Interested,ENG TEST,0,6.99 CGPA ,0,34
+1041,Management Information System,Fall 2018 ,Applied,TOEFL,110,7.4 CGPA ,4,28
+1042,Management Information System,Fall 2018 ,Applied,TOEFL,104,6.541 CGPA ,2,28
+1043,Management Information System,Fall 2018 ,Applied,TOEFL,104,6.15 CGPA ,5,28
+1044,Management Information System,Fall 2018 ,Applied,TOEFL,110,8.55 CGPA ,0,28
+1045,Management Information System,Fall 2017 ,Applied,TOEFL,91,7.22 CGPA ,30,28
+1046,Management Information System,Spring 2017 ,Applied,TOEFL,115,6.99 CGPA ,60,28
+1047,Management Information System,Fall 2016 ,Applied,TOEFL,104,75%,30,28
+1048,Management Information System,Spring 2016 ,Applied,TOEFL,117,8 CGPA ,0,28
+1049,Management Information System,Fall 2016 ,Applied,TOEFL,106,8.1 CGPA ,30,28
+1050,Management Information System,Fall 2018 ,Admit,TOEFL,111,6.68 CGPA ,6,28
+1051,Management Information System,Fall 2018 ,Admit,TOEFL,99,7.6 CGPA ,0,28
+1052,Management Information System,Fall 2018 ,Admit,TOEFL,107,77%,60,28
+1053,Management Information System,Fall 2017 ,Admit,TOEFL,104,7.28 CGPA ,9,28
+1054,Management Information System,Fall 2016 ,Admit,TOEFL,106,56%,0,28
+1055,Management Information System,Fall 2016 ,Admit,IELTS,7,7.7 CGPA ,34,28
+1056,Management Information System,Fall 2016 ,Admit,TOEFL,107,7.71 CGPA ,0,28
+1057,Management Information System,Fall 2016 ,Admit,TOEFL,113,8.14 CGPA ,0,28
+1058,Management Information System,"Fall 2013	 ",Admit,TOEFL,114,60%,30,28
+1059,Management Information System,Fall 2013 ,Admit,TOEFL,110,65%,10,28
+1060,Management Information System,Fall 2015 ,Admit,TOEFL,100,62%,10,28
+1061,Management Information System,Fall 2015 ,Admit,TOEFL,113,7 CGPA ,12,28
+1062,Management Information System,Fall 2017 ,Reject,IELTS,7.5,58.80%,50,28
+1063,Management Information System,Fall 2016 ,Reject,TOEFL,101,8.36 CGPA ,0,28
+1064,Management Information System,Fall 2016 ,Reject,TOEFL,105,7.75 CGPA ,0,28
+1065,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,28
+1067,Management Information System,Spring 2019 ,Interested,TOEFL,100,71%,0,28
+1069,Management Information System,Fall 2018 ,Interested,ENG TEST,0,63%,0,28
+1072,Management Information System,Fall 2018 ,Interested,TOEFL,97,8.5 CGPA ,34,28
+1075,Management Information System,Fall 2018 ,Interested,IELTS,7,6.87 CGPA ,32,28
+1079,Management Information System,Fall 2019 ,Interested,IELTS,7.5,60%,30,28
+1080,Management Information System,Fall 2018 ,Interested,TOEFL,97,68%,87,28
+1081,Management Information System,Fall 2018 ,Interested,IELTS,7,9.6 CGPA ,0,28
+1082,Management Information System,Fall 2018 ,Interested,TOEFL,79,6.78 CGPA ,32,28
+1083,Management Information System,Fall 2018 ,Interested,ENG TEST,0,6.9 CGPA ,30,28
+1087,Information Science,Fall 2017 ,Applied,TOEFL,105,68%,18,12
+1088,Information Science,Fall 2016 ,Applied,TOEFL,96,8.9 CGPA ,27,12
+1089,Information Science,Fall 2018 ,Admit,TOEFL,107,7.39 CGPA ,14,12
+1090,Information Science,Fall 2018 ,Admit,TOEFL,97,63%,37,12
+1091,Information Science,Fall 2018 ,Admit,TOEFL,86,74%,39,12
+1092,Information Science,Fall 2018 ,Admit,TOEFL,88,8.6 CGPA ,55,12
+1093,Information Science,Fall 2017 ,Admit,TOEFL,98,7.76 CGPA ,0,12
+1094,Information Science,Fall 2017 ,Reject,TOEFL,103,8.1 CGPA ,6,12
+1097,Information Science,Spring 2019 ,Interested,ENG TEST,0,7.8 CGPA ,37,12
+1098,Information Science,Fall 2018 ,Interested,TOEFL,82,55%,22,12
+1101,Information Science,Fall 2019 ,Interested,ENG TEST,0,6 CGPA ,11,12
+1103,Information Science,Spring 2019 ,Interested,TOEFL,101,9.1 CGPA ,14,12
+1105,Information Science,Fall 2018 ,Interested,TOEFL,103,6.5 CGPA ,0,12
+1106,Information Science,Fall 2018 ,Interested,ENG TEST,0,8.5 CGPA ,24,12
+1107,Information Science,Fall 2018 ,Interested,ENG TEST,0,5.8 CGPA ,0,12
+1108,Information Science,Spring 2018 ,Interested,TOEFL,90,7.5 CGPA ,22,12
+1112,Information Science,Fall 2019 ,Interested,TOEFL,108,56.06%,7,12
+1113,Information Science,Fall 2018 ,Interested,TOEFL,86,6.5 CGPA ,21,12
+1116,Management Information System,Fall 2018 ,Applied,TOEFL,98,6.08 CGPA ,0,35
+1117,Management Information System,Fall 2018 ,Applied,TOEFL,102,8.5 CGPA ,52,35
+1118,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.3 CGPA ,0,35
+1120,Management Information System,Fall 2018  ,Applied,TOEFL,98,6.6 CGPA ,18,35
+1121,Management Information System,Fall 2018 ,Applied,TOEFL,99,71.68%,40,35
+1122,Management Information System,Fall 2018 ,Applied,ENG TEST,0,9.19 CGPA ,2,35
+1123,Management Information System,Spring 2018 ,Applied,IELTS,6,8.56 CGPA ,0,35
+1124,Management Information System,Fall 2017 ,Applied,TOEFL,99,69.15%,17,35
+1125,Management Information System,Fall 2017 ,Applied,TOEFL,97,53%,0,35
+1126,Management Information System,Fall 2017 ,Applied,TOEFL,100,55%,25,35
+1127,Management Information System,Fall 2017 ,Applied,TOEFL,99,5.96 CGPA ,0,35
+1128,Management Information System,Fall 2017 ,Applied,TOEFL,100,60%,18,35
+1129,Management Information System,Fall 2017 ,Applied,TOEFL,100,6.5 CGPA ,4,35
+1130,Management Information System,Fall 2017 ,Applied,TOEFL,97,8.07 CGPA ,26,35
+1131,Management Information System,Spring 2017 ,Applied,TOEFL,94,72.90%,12,35
+1132,Management Information System,Fall 2018 ,Applied,TOEFL,101,58.89%,24,35
+1133,Management Information System,Fall 2016 ,Applied,TOEFL,112,6 CGPA ,0,35
+1134,Management Information System,Fall 2016 ,Applied,TOEFL,98,63%,0,35
+1135,Management Information System,Fall 2016 ,Applied,IELTS,7.5,78%,0,35
+1136,Management Information System,Fall 2018 ,Admit,TOEFL,85,6.3 CGPA ,6,35
+1137,Management Information System,Fall 2018 ,Admit,TOEFL,93,69.40%,82,35
+1138,Management Information System,Fall 2018 ,Admit,TOEFL,95,6.25 CGPA ,12,35
+1139,Management Information System,Fall 2018 ,Admit,TOEFL,90,6.6 CGPA ,0,35
+1140,Management Information System,Fall 2018 ,Admit,TOEFL,95,67%,30,35
+1141,Management Information System,Fall 2018 ,Admit,TOEFL,91,7.7 CGPA ,1,35
+1142,Management Information System,Fall 2018 ,Admit,TOEFL,0,60%,14,35
+1143,Management Information System,Fall 2018 ,Admit,TOEFL,95,7.3 CGPA ,33,35
+1144,Management Information System,Fall 2018 ,Admit,IELTS,6.5,67%,27,35
+1145,Management Information System,Fall 2018 ,Admit,TOEFL,93,54%,35,35
+1146,Management Information System,Fall 2018 ,Admit,TOEFL,0,8.69 CGPA ,16,35
+1147,Management Information System,Fall 2018 ,Admit,TOEFL,0,67%,56,35
+1148,Management Information System,Fall 2018 ,Admit,TOEFL,0,64%,26,35
+1149,Management Information System,Fall 2018 ,Admit,TOEFL,95,3.5 CGPA ,3,35
+1150,Management Information System,Fall 2018 ,Admit,TOEFL,101,6.8 CGPA ,19,35
+1151,Management Information System,Fall 2018 ,Admit,TOEFL,0,64.14%,31,35
+1152,Management Information System,Fall 2016 ,Admit,TOEFL,91,63.55%,32,35
+1154,Management Information System,Fall 2018 ,Admit,TOEFL,96,56.40%,36,35
+1155,Management Information System,Fall 2018 ,Admit,TOEFL,0,7.7 CGPA ,2,35
+1156,Management Information System,Fall 2018 ,Reject,IELTS,6,60%,36,35
+1157,Management Information System,Fall 2018 ,Reject,TOEFL,107,6.71 CGPA ,12,35
+1158,Management Information System,Fall 2017 ,Reject,TOEFL,112,55%,43,35
+1161,Management Information System,Spring 2019 ,Interested,TOEFL,92,63.33%,60,35
+1162,Management Information System,Spring 2019 ,Interested,TOEFL,106,8.39 CGPA ,24,35
+1166,Management Information System,Fall 2020 ,Interested,TOEFL,92,5.5 CGPA ,0,35
+1168,Management Information System,Spring 2019 ,Interested,ENG TEST,0,67%,23,35
+1169,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,35
+1170,Management Information System,Spring 2019 ,Interested,TOEFL,98,73%,40,35
+1172,Management Information System,Spring 2019 ,Interested,IELTS,8,7.02 CGPA ,0,35
+1173,Management Information System,Spring 2019 ,Interested,TOEFL,90,6.52 CGPA ,13,35
+1175,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.5 CGPA ,28,35
+1176,Management Information System,Spring 2019 ,Interested,TOEFL,93,54%,41,35
+1177,Management Information System,Fall 2019 ,Interested,ENG TEST,0,59.90%,80,35
+1178,Management Information System,Spring 2019 ,Interested,ENG TEST,0,6.07 CGPA ,0,35
+1180,Information Systems,Fall 2018 ,Applied,TOEFL,102,61%,33,26
+1181,Information Systems,Fall 2018 ,Applied,IELTS,7,71.98%,48,26
+1182,Information Systems,Fall 2018 ,Applied,TOEFL,103,69%,0,26
+1183,Information Systems,Spring 2018 ,Applied,TOEFL,85,55%,32,26
+1184,Information Systems,Fall 2017 ,Applied,ENG TEST,0,76.25%,60,26
+1185,Information Systems,Fall 2017 ,Applied,TOEFL,107,63.92%,26,26
+1186,Information Systems,Fall 2017 ,Applied,TOEFL,81,62%,24,26
+1187,Information Systems,Fall 2017 ,Applied,TOEFL,102,7.56 CGPA ,53,26
+1188,Information Systems,Fall 2017 ,Applied,TOEFL,110,65.04%,10,26
+1189,Information Systems,Fall 2017 ,Applied,TOEFL,104,7.06 CGPA ,0,26
+1190,Information Systems,Fall 2016 ,Applied,TOEFL,92,69%,0,26
+1191,Information Systems,Fall 2015 ,Applied,IELTS,7.5,56%,20,26
+1192,Information Systems,Fall 2016 ,Applied,TOEFL,87,71%,30,26
+1193,Information Systems,Fall 2016 ,Applied,ENG TEST,0,75.50%,0,26
+1194,Information Systems,Fall 2016 ,Applied,TOEFL,100,0%,0,26
+1195,Information Systems,Fall 2016 ,Applied,TOEFL,95,54%,30,26
+1196,Information Systems,Fall 2016 ,Applied,TOEFL,100,2 CGPA ,0,26
+1197,Information Systems,Fall 2015 ,Applied,TOEFL,80,78%,0,26
+1198,Information Systems,Spring 2016 ,Applied,ENG TEST,0,70%,0,26
+1199,Information Systems,Fall 2016 ,Applied,ENG TEST,0,78.85%,0,26
+1200,Information Systems,Fall 2017 ,Admit,TOEFL,113,60%,0,26
+1201,Information Systems,Fall 2018 ,Admit,TOEFL,100,8.23 CGPA ,46,26
+1202,Information Systems,Fall 2018 ,Admit,TOEFL,104,7.5 CGPA ,34,26
+1203,Information Systems,Fall 2018 ,Admit,TOEFL,104,7.23 CGPA ,7,26
+1204,Information Systems,Fall 2018 ,Admit,TOEFL,106,64%,30,26
+1205,Information Systems,Fall 2018 ,Admit,TOEFL,92,62%,5,26
+1206,Information Systems,Fall 2018 ,Admit,TOEFL,97,72%,52,26
+1207,Information Systems,Fall 2018 ,Admit,TOEFL,110,3.1 CGPA ,12,26
+1208,Information Systems,Fall 2018 ,Admit,TOEFL,100,63.40%,37,26
+1209,Information Systems,Fall 2018 ,Admit,TOEFL,108,8.2 CGPA ,0,26
+1210,Information Systems,Fall 2018 ,Admit,TOEFL,100,64%,29,26
+1211,Information Systems,Fall 2018 ,Admit,TOEFL,99,74%,0,26
+1212,Information Systems,Fall 2018 ,Admit,TOEFL,107,74.47%,28,26
+1213,Information Systems,Fall 2018 ,Admit,TOEFL,108,75%,0,26
+1214,Information Systems,Fall 2018 ,Admit,TOEFL,94,8.66 CGPA ,2,26
+1215,Information Systems,Fall 2018 ,Admit,TOEFL,101,6.57 CGPA ,15,26
+1216,Information Systems,Fall 2018 ,Admit,TOEFL,96,9.24 CGPA ,74,26
+1217,Information Systems,Fall 2018 ,Admit,TOEFL,94,80%,6,26
+1218,Information Systems,Fall 2018 ,Admit,ENG TEST,0,80.68%,48,26
+1219,Information Systems,Fall 2018 ,Admit,TOEFL,0,8.1 CGPA ,54,26
+1220,Information Systems,Fall 2017 ,Reject,TOEFL,94,54%,6,26
+1221,Information Systems,Fall 2017 ,Reject,TOEFL,98,6.1 CGPA ,0,26
+1222,Information Systems,Fall 2017 ,Reject,TOEFL,93,7.1 CGPA ,30,26
+1223,Information Systems,Fall 2017 ,Reject,TOEFL,89,73%,23,26
+1224,Information Systems,Spring 2017 ,Reject,IELTS,7,8.08 CGPA ,12,26
+1225,Information Systems,Fall 2016 ,Reject,TOEFL,81,66%,17,26
+1227,Information Systems,Fall 2018 ,Reject,TOEFL,85,51%,8,26
+1228,Information Systems,Fall 2016 ,Reject,TOEFL,92,57%,30,26
+1229,Information Systems,Fall 2016 ,Reject,TOEFL,106,6 CGPA ,0,26
+1230,Information Systems,Fall 2016 ,Reject,TOEFL,81,54%,30,26
+1233,Information Systems,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,26
+1235,Information Systems,Spring 2019 ,Interested,TOEFL,90,8 CGPA ,61,26
+1236,Information Systems,Spring 2019 ,Interested,TOEFL,90,76.34%,46,26
+1237,Information Systems,Spring 2019 ,Interested,TOEFL,90,76.34%,46,26
+1239,Information Systems,Fall 2019 ,Interested,ENG TEST,0,70%,18,26
+1241,Information Systems,Spring 2019 ,Interested,IELTS,7,62%,8,26
+1242,Information Systems,Spring 2019 ,Interested,IELTS,7,65%,15,26
+1243,Information Systems,Spring 2019 ,Interested,IELTS,7, 8.26 CGPA ,10,26
+1245,Information Systems,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,26
+1246,Information Systems,Fall 2018 ,Interested,TOEFL,83,68.19%,12,26
+1248,Information Systems,Fall 2019 ,Interested,TOEFL,100,8.05 CGPA ,48,26
+1249,Information Systems,Spring 2019 ,Interested,IELTS,7,71%,31,26
+1250,Information Systems,Spring 2019 ,Interested,TOEFL,101,7.5 CGPA ,1,26
+1252,Information Systems,Spring 2019 ,Applied,TOEFL,92,63.33%,60,36
+1253,Information Systems,Fall 2018 ,Applied,TOEFL,82,66%,44,36
+1254,Information Systems,Fall 2018 ,Applied,IELTS,6,7.3 CGPA ,2,36
+1255,Information Systems,Fall 2018 ,Applied,IELTS,6.5,6.35 CGPA ,9,36
+1256,Information Systems,Fall 2018  ,Applied,ENG TEST,0,7.6 CGPA ,0,36
+1257,Information Systems,Fall 2018 ,Applied,TOEFL,79,6.78 CGPA ,32,36
+1258,Information Systems,Fall 2018 ,Applied,TOEFL,91,5.39 CGPA ,3,36
+1259,Information Systems,Fall 2018 ,Applied,TOEFL,98,6.08 CGPA ,0,36
+1260,Information Systems,Fall 2018 ,Applied,TOEFL,80,6.06 CGPA ,10,36
+1261,Information Systems,Fall 2018 ,Applied,TOEFL,94,6.7 CGPA ,1,36
+1262,Information Systems,Fall 2018 ,Applied,TOEFL,89,7.13 CGPA ,38,36
+1266,Information Systems,Fall 2018 ,Applied,TOEFL,83,75.40%,15,36
+1267,Information Systems,Fall 2018 ,Applied,TOEFL,81,62%,46,36
+1268,Information Systems,Fall 2018 ,Applied,TOEFL,90,5.67 CGPA ,8,36
+1269,Information Systems,Fall 2018 ,Applied,TOEFL,86,74%,39,36
+1270,Information Systems,Fall 2018 ,Applied,TOEFL,81,76%,24,36
+1271,Information Systems,Fall 2018 ,Applied,IELTS,7,79%,30,36
+1272,Information Systems,Spring 2019 ,Admit,TOEFL,100,6.47 CGPA ,38,36
+1273,Information Systems,Fall 2018 ,Admit,TOEFL,82,6.22 CGPA ,0,36
+1274,Information Systems,Fall 2018 ,Admit,TOEFL,85,6.3 CGPA ,6,36
+1275,Information Systems,Fall 2018 ,Admit,TOEFL,98,10 CGPA ,0,36
+1276,Information Systems,Fall 2018 ,Admit,TOEFL,107,65%,41,36
+1277,Information Systems,Fall 2018 ,Admit,TOEFL,102,5.7 CGPA ,0,36
+1278,Information Systems,Spring 2019 ,Admit,TOEFL,90,8 CGPA ,61,36
+1279,Information Systems,Fall 2018 ,Admit,TOEFL,91,55%,6,36
+1280,Information Systems,Fall 2018 ,Admit,TOEFL,107,64.36%,24,36
+1281,Information Systems,Fall 2018 ,Admit,TOEFL,101,57%,3,36
+1282,Information Systems,Fall 2018 ,Admit,TOEFL,102,7.09 CGPA ,0,36
+1283,Information Systems,Fall 2018 ,Admit,TOEFL,94,6.8 CGPA ,0,36
+1284,Information Systems,Fall 2018 ,Admit,IELTS,7,8.25 CGPA ,0,36
+1285,Information Systems,Fall 2018 ,Admit,TOEFL,103,6.5 CGPA ,0,36
+1286,Information Systems,Fall 2018 ,Admit,TOEFL,99,64.50%,0,36
+1287,Information Systems,Fall 2018 ,Admit,TOEFL,103,7 CGPA ,0,36
+1288,Information Systems,Fall 2018 ,Admit,IELTS,0,7.08 CGPA ,26,36
+1289,Information Systems,Fall 2018 ,Admit,TOEFL,101,6.8 CGPA ,19,36
+1290,Information Systems,Fall 2018 ,Admit,TOEFL,108,66.50%,24,36
+1291,Information Systems,Fall 2018 ,Admit,TOEFL,96,56.40%,36,36
+1292,Information Systems,Fall 2018 ,Reject,TOEFL,98,64%,45,36
+1293,Information Systems,Fall 2018 ,Reject,TOEFL,101,85.26%,2,36
+1294,Information Systems,Fall 2018 ,Reject,TOEFL,95,64.46%,30,36
+1296,Information Systems, Fall 2018 ,Reject,IELTS,8,59.38%,0,36
+1297,Information Systems,Fall 2018 ,Reject,TOEFL,93,54%,35,36
+1298,Information Systems,Fall 2018 ,Reject,TOEFL,92,6 CGPA ,12,36
+1299,Information Systems,Fall 2018 ,Reject,TOEFL,102,7.32 CGPA ,0,36
+1300,Information Systems,Fall 2018 ,Reject,TOEFL,86,64%,7,36
+1301,Information Systems,Fall 2017 ,Reject,TOEFL,89,7 CGPA ,10,36
+1302,Information Systems,Fall 2017 ,Reject,TOEFL,93,68.02%,1,36
+1303,Information Systems,Fall 2017 ,Reject,IELTS,7.5,6.56 CGPA ,6,36
+1304,Information Systems,Fall 2017 ,Reject,TOEFL,87,7.51 CGPA ,3,36
+1305,Information Systems,Spring 2017 ,Reject,TOEFL,90,55%,12,36
+1306,Information Systems,Spring 2017 ,Reject,TOEFL,91,64%,67,36
+1307,Information Systems,Spring 2017 ,Reject,TOEFL,95,6.1 CGPA ,0,36
+1308,Information Systems,Fall 2016 ,Reject,TOEFL,100,64%,39,36
+1309,Information Systems,Fall 2016 ,Reject,TOEFL,88,75.40%,30,36
+1310,Information Systems,Fall 2016 ,Reject,TOEFL,88,57%,24,36
+1311,Information Systems,Fall 2016 ,Reject,IELTS,7,55.56%,1,36
+1313,Information Systems,Fall 2020 ,Interested,TOEFL,92,5.5 CGPA ,0,36
+1314,Information Systems,Fall 2018 ,Interested,TOEFL,82,55%,22,36
+1316,Information Systems,Spring 2018 ,Interested,TOEFL,95,67%,35,36
+1321,Information Systems,Fall 2018 ,Interested,IELTS,7,58.71%,30,36
+1322,Information Systems,Fall 2018 ,Interested,TOEFL,84,53%,0,36
+1323,Information Systems,Spring 2019 ,Interested,IELTS,7,62%,8,36
+1324,Information Systems,Spring 2019 ,Interested,TOEFL,101,7.5 CGPA ,1,36
+1325,Information Systems,Spring 2019 ,Interested,IELTS,6.5,61%,0,36
+1326,Information Systems,Spring 2019 ,Interested,TOEFL,90,60.07%,23,36
+1327,Information Systems,Fall 2018 ,Interested,TOEFL,89,7 CGPA ,0,36
+1328,Information Systems,Fall 2018 ,Interested,IELTS,6,60%,36,36
+1330,Information Systems,Fall 2018 ,Interested,TOEFL,100,6.5 CGPA ,0,36
+1331,Information Systems,Fall 2018 ,Interested,TOEFL,93,63%,60,36
+1333,Management Information System,Fall 2018 ,Applied,TOEFL,88,79%,57,11
+1334,Management Information System,Fall 2018 ,Applied,TOEFL,106,64%,59,11
+1335,Management Information System,Fall 2018 ,Applied,TOEFL,107,62%,6,11
+1336,Management Information System,Fall 2018 ,Applied,ENG TEST,0,74%,37,11
+1337,Management Information System,Fall 2018 ,Applied,TOEFL,93,81%,27,11
+1338,Management Information System,Fall 2018 ,Applied,TOEFL,102,65%,20,11
+1339,Management Information System,Fall 2018 ,Applied,TOEFL,108,70%,31,11
+1340,Management Information System,Fall 2018 ,Applied,TOEFL,104,80.22%,20,11
+1341,Management Information System,Fall 2018 ,Applied,TOEFL,102,77%,0,11
+1343,Management Information System,Fall 2018 ,Applied,TOEFL,91,64%,15,11
+1344,Management Information System,Fall 2018 ,Applied,TOEFL,98,7.1 CGPA ,32,11
+1345,Management Information System,Fall 2018 ,Applied,TOEFL,105,3.69 CGPA ,24,11
+1346,Management Information System,Fall 2018 ,Applied,TOEFL,107,74.47%,28,11
+1347,Management Information System,Fall 2018 ,Applied,ENG TEST,0,7.5 CGPA ,36,11
+1349,Management Information System,Fall 2018 ,Applied,TOEFL,95,65.10%,48,11
+1350,Management Information System,Fall 2018 ,Applied,TOEFL,110,64%,72,11
+1351,Management Information System,Fall 2018 ,Applied,TOEFL,99,8.56 CGPA ,0,11
+1352,Management Information System,Fall 2018 ,Applied,TOEFL,0,8.04 CGPA ,40,11
+1353,Management Information System,Fall 2018 ,Admit,TOEFL,105,85%,60,11
+1354,Management Information System,Fall 2018 ,Admit,TOEFL,93,83.50%,20,11
+1355,Management Information System,Fall 2018 ,Admit,TOEFL,117,59.42%,30,11
+1356,Management Information System,Fall 2018 ,Admit,TOEFL,110,6.93 CGPA ,25,11
+1357,Management Information System,Fall 2018 ,Admit,TOEFL,109,80.30%,13,11
+1358,Management Information System,Fall 2018 ,Admit,TOEFL,83,79.12%,18,11
+1359,Management Information System,Fall 2018 ,Admit,TOEFL,90,71%,6,11
+1360,Management Information System,Fall 2018 ,Admit,TOEFL,0,63.28%,40,11
+1361,Management Information System,Fall 2018 ,Admit,IELTS,7.5,8.17 CGPA ,0,11
+1362,Management Information System,Fall 2018 ,Admit,TOEFL,96,8 CGPA ,24,11
+1363,Management Information System,Fall 2018 ,Admit,TOEFL,108,8.2 CGPA ,0,11
+1364,Management Information System,Fall 2018 ,Admit,TOEFL,0,87%,30,11
+1365,Management Information System,Fall 2018 ,Admit,TOEFL,102,60%,26,11
+1366,Management Information System,Fall 2018 ,Admit,TOEFL,0,84%,24,11
+1367,Management Information System,Fall 2018 ,Admit,TOEFL,101,67%,18,11
+1368,Management Information System,Fall 2018 ,Admit,TOEFL,84,68.50%,43,11
+1369,Management Information System,Fall 2018 ,Admit,IELTS,0,7.31 CGPA ,23,11
+1370,Management Information System,Fall 2015 ,Admit,TOEFL,111,59.80%,40,11
+1371,Management Information System,Fall 2018 ,Admit,IELTS,7.5,7.93 CGPA ,57,11
+1372,Management Information System,Fall 2018 ,Admit,TOEFL,92,75.20%,50,11
+1373,Management Information System,Fall 2018 ,Reject,TOEFL,109,64.77%,29,11
+1374,Management Information System,Fall 2018 ,Reject,TOEFL,91,7.7 CGPA ,1,11
+1375,Management Information System,Fall 2018 ,Reject,TOEFL,105,87%,30,11
+1376,Management Information System,Fall 2018 ,Reject,TOEFL,0,7.7 CGPA ,0,11
+1377,Management Information System,Fall 2018 ,Reject,TOEFL,107,7.39 CGPA ,14,11
+1378,Management Information System,Fall 2018 ,Reject,TOEFL,100,58%,12,11
+1379,Management Information System,Fall 2018 ,Reject,TOEFL,88,9 CGPA ,40,11
+1380,Management Information System,Fall 2018 ,Reject,TOEFL,101,8.63 CGPA ,45,11
+1381,Management Information System,Fall 2018 ,Reject,TOEFL,101,7.3 CGPA ,9,11
+1383,Management Information System,Fall 2018 ,Reject,TOEFL,88,64.36%,47,11
+1384,Management Information System,Fall 2018 ,Reject,TOEFL,104,74.11%,29,11
+1385,Management Information System,Fall 2018 ,Reject,TOEFL,100,9.23 CGPA ,26,11
+1386,Management Information System,Fall 2018 ,Reject,ENG TEST,0,7.5 CGPA ,4,11
+1387,Management Information System,Fall 2018 ,Reject,TOEFL,110,6.8 CGPA ,60,11
+1388,Management Information System,Fall 2018 ,Reject,TOEFL,90,69%,54,11
+1389,Management Information System,Fall 2018 ,Reject,TOEFL,98,74.12%,34,11
+1390,Management Information System,Fall 2018 ,Reject,TOEFL,100,64%,29,11
+1391,Management Information System,Fall 2018 ,Reject,IELTS,7,7.74 CGPA ,25,11
+1392,Management Information System,Fall 2018 ,Reject,TOEFL,84,7.67 CGPA ,50,11
+1397,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.8 CGPA ,23,11
+1398,Management Information System,Fall 2019 ,Interested,TOEFL,99,6.48 CGPA ,12,11
+1399,Management Information System,Spring 2019 ,Interested,TOEFL,100,71%,0,11
+1400,Management Information System,Fall 2019 ,Interested,ENG TEST,0,76%,0,11
+1402,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,11
+1404,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,11
+1407,Management Information System,Fall 2018 ,Interested,TOEFL,100,7.2 CGPA ,1,11
+1410,Management Information System,Fall 2019 ,Interested,TOEFL,100,7.54 CGPA ,0,11
+1411,Management Information System,Fall 2018 ,Interested,IELTS,8,71.40%,20,11
+1412,Management Information System,Spring 2019 ,Interested,TOEFL,90,9.12 CGPA ,24,11
+1586,Management Information System,Fall 2018 ,Applied,TOEFL,98,7.81 CGPA ,28,19
+1587,Management Information System,Fall 2015 ,Applied,TOEFL,111,59.80%,40,19
+1588,Management Information System,Fall 2018 ,Applied,TOEFL,113,7.9 CGPA ,17,19
+1589,Management Information System,Fall 2018 ,Applied,TOEFL,90,8.16 CGPA ,43,19
+1590,Management Information System,Fall 2018 ,Applied,TOEFL,88,83%,30,19
+1591,Management Information System,Fall 2014 ,Applied,TOEFL,96,62%,15,19
+1592,Management Information System,Fall 2018 ,Applied,TOEFL,97,7 CGPA ,16,19
+1593,Management Information System,Fall 2018 ,Applied,ENG TEST,0,65%,74,19
+1594,Management Information System,Fall 2018 ,Applied,TOEFL,88,60%,29,19
+1595,Management Information System,Fall 2018 ,Applied,TOEFL,87,6.8 CGPA ,8,19
+1596,Management Information System,Fall 2018 ,Applied,TOEFL,112,8.24 CGPA ,1,19
+1597,Management Information System,Fall 2018 ,Applied,TOEFL,107,74.47%,28,19
+1598,Management Information System,Fall 2018 ,Applied,TOEFL,91,72%,20,19
+1599,Management Information System,Fall 2018 ,Applied,TOEFL,101,7.79 CGPA ,16,19
+1600,Management Information System,Fall 2018 ,Applied,TOEFL,90,7.75 CGPA ,6,19
+1601,Management Information System,Fall 2018 ,Applied,IELTS,7,74.22%,8,19
+1602,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.8 CGPA ,26,19
+1603,Management Information System,Fall 2018 ,Applied,TOEFL,113,10 CGPA ,0,19
+1604,Management Information System,Fall 2018 ,Applied,TOEFL,106,68.23%,19,19
+1605,Management Information System,Fall 2018 ,Applied,TOEFL,81,62%,46,19
+1607,Management Information System,Fall 2018 ,Admit,TOEFL,97,73%,42,19
+1608,Management Information System,Fall 2018 ,Admit,IELTS,7,63.70%,1,19
+1609,Management Information System,Fall 2018 ,Admit,TOEFL,88,8.18 CGPA ,24,19
+1611,Management Information System,Fall 2018 ,Admit,TOEFL,99,65%,19,19
+1612,Management Information System,Fall 2018 ,Admit,TOEFL,107,7.39 CGPA ,14,19
+1613,Management Information System,Fall 2018 ,Admit,TOEFL,106,9.15 CGPA ,0,19
+1614,Management Information System,Fall 2018 ,Admit,TOEFL,101,65%,30,19
+1615,Management Information System,Fall 2018 ,Admit,TOEFL,94,7.37 CGPA ,27,19
+1616,Management Information System,Fall 2018 ,Admit,TOEFL,0,80.12%,60,19
+1617,Management Information System,Fall 2018 ,Admit,TOEFL,0,79.70%,36,19
+1618,Management Information System,Fall 2018 ,Admit,TOEFL,95,3.5 CGPA ,3,19
+1619,Management Information System,Fall 2018 ,Admit,IELTS,0,7.3 CGPA ,1,19
+1620,Management Information System,Fall 2018 ,Admit,TOEFL,96,7.87 CGPA ,12,19
+1621,Management Information System,Fall 2018 ,Admit,TOEFL,111,7.6 CGPA ,0,19
+1622,Management Information System,Fall 2018 ,Admit,TOEFL,94,79%,37,19
+1623,Management Information System,Fall 2018 ,Admit,TOEFL,104,8.7 CGPA ,20,19
+1624,Management Information System,Fall 2018 ,Admit,ENG TEST,0,65%,40,19
+1625,Management Information System,Fall 2018 ,Admit,TOEFL,114,6.71 CGPA ,14,19
+1626,Management Information System,Fall 2018 ,Reject,TOEFL,93,69.40%,82,19
+1627,Management Information System,Fall 2018 ,Reject,TOEFL,86,65.37%,27,19
+1628,Management Information System,Fall 2018 ,Reject,TOEFL,89,7.5 CGPA ,32,19
+1629,Management Information System,Fall 2018 ,Reject,TOEFL,102,7.09 CGPA ,0,19
+1630,Management Information System,Fall 2018 ,Reject,TOEFL,99,7.14 CGPA ,39,19
+1631,Management Information System,Fall 2018 ,Reject,TOEFL,0,7.41 CGPA ,17,19
+1632,Management Information System,Fall 2018 ,Reject,TOEFL,0,57.43%,6,19
+1633,Management Information System,Fall 2018 ,Reject,TOEFL,81,56.99%,42,19
+1634,Management Information System,Fall 2018 ,Reject,TOEFL,0,6.82 CGPA ,3,19
+1635,Management Information System,Fall 2018 ,Reject,TOEFL,97,65%,27,19
+1636,Management Information System,Fall 2018 ,Reject,TOEFL,97,72.30%,48,19
+1637,Management Information System,Fall 2018 ,Reject,IELTS,7,54%,31,19
+1638,Management Information System,Fall 2018 ,Reject,TOEFL,99,55.81%,24,19
+1639,Management Information System,Fall 2018 ,Reject,TOEFL,98,50.22%,17,19
+1640,Management Information System,Fall 2018 ,Reject,TOEFL,93,64.30%,64,19
+1641,Management Information System,Fall 2018 ,Reject,TOEFL,90,7 CGPA ,12,19
+1642,Management Information System,Fall 2018 ,Reject,TOEFL,88,81%,20,19
+1643,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.55 CGPA ,0,19
+1644,Management Information System,Fall 2018 ,Reject,ENG TEST,0,8.5 CGPA ,6,19
+1645,Management Information System,Fall 2018 ,Reject,IELTS,7,8.22 CGPA ,8,19
+1648,Management Information System,Spring 2019 ,Interested,ENG TEST,0,74%,24,19
+1649,Management Information System,Spring 2019 ,Interested,TOEFL,93,54%,41,19
+1650,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,19
+1651,Management Information System,Spring 2019 ,Interested,IELTS,6.5,74%,60,19
+1652,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,19
+1653,Management Information System,Spring 2019 ,Interested,IELTS,6,6.7 CGPA ,24,19
+1654,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,19
+1656,Management Information System,Spring 2019 ,Interested,IELTS,7.5,7.9 CGPA ,0,19
+1657,Management Information System,Fall 2019 ,Interested,IELTS,7,8.11 CGPA ,0,19
+1658,Management Information System,Fall 2019 ,Interested,IELTS,7.5,7.35 CGPA ,0,19
+1659,Management Information System,Spring 2019 ,Interested,TOEFL,81,7.37 CGPA ,43,19
+1660,Management Information System,Spring 2019 ,Interested,IELTS,7.5,69.50%,28,19
+1662,Management Information System,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,19
+1663,Management Information System,Fall 2019 ,Interested,TOEFL,100,62.47%,12,19
+1664,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,19
+1848,Management Information System,Fall 2018 ,Applied,TOEFL,102,7.58 CGPA ,42,25
+1849,Management Information System,Fall 2018 ,Applied,ENG TEST,0,7.5 CGPA ,36,25
+1850,Management Information System,Fall 2018 ,Applied,TOEFL,100,7.4 CGPA ,24,25
+1851,Management Information System,Fall 2018 ,Applied,TOEFL,98,77.80%,31,25
+1852,Management Information System,Fall 2018 ,Applied,IELTS,8,8 CGPA ,0,25
+1853,Management Information System,Fall 2018 ,Applied,TOEFL,103,79%,60,25
+1854,Management Information System,Fall 2018 ,Applied,ENG TEST,0,80.68%,48,25
+1855,Management Information System,Fall 2018 ,Applied,TOEFL,103,69%,0,25
+1856,Management Information System,Fall 2018 ,Applied,TOEFL,103,74.10%,13,25
+1857,Management Information System,Fall 2018 ,Applied,TOEFL,103,66%,11,25
+1858,Management Information System,Fall 2018 ,Applied,TOEFL,104,71%,76,25
+1859,Management Information System,Fall 2018 ,Applied,TOEFL,116,82%,0,25
+1860,Management Information System,Fall 2018 ,Applied,TOEFL,112,80.30%,16,25
+1861,Management Information System,Fall 2018 ,Applied,TOEFL,100,72%,43,25
+1862,Management Information System,Fall 2014 ,Applied,TOEFL,104,89.90%,29,25
+1863,Management Information System,Fall 2017 ,Applied,TOEFL,102,7.99 CGPA ,13,25
+1864,Management Information System,Fall 2017 ,Applied,TOEFL,110,7.43 CGPA ,20,25
+1865,Management Information System,Fall 2017 ,Applied,TOEFL,112,69.80%,31,25
+1866,Management Information System,Fall 2018 ,Applied,TOEFL,100,80.43%,43,25
+1867,Management Information System,Fall 2017 ,Applied,TOEFL,114,8.02 CGPA ,21,25
+1868,Management Information System,Fall 2018 ,Admit,TOEFL,117,59.42%,30,25
+1869,Management Information System,Fall 2018 ,Admit,TOEFL,103,78.40%,-1,25
+1872,Management Information System,Fall 2018 ,Admit,TOEFL,110,79.04%,27,25
+1873,Management Information System,Fall 2018 ,Admit,TOEFL,0,84%,24,25
+1874,Management Information System,Fall 2018 ,Admit,TOEFL,0,78%,6,25
+1875,Management Information System,Fall 2018 ,Admit,ENG TEST,0,7.55 CGPA ,12,25
+1876,Management Information System,Fall 2018 ,Admit,IELTS,7,8.5 CGPA ,16,25
+1877,Management Information System,Fall 2018 ,Admit,TOEFL,111,7.98 CGPA ,30,25
+1878,Management Information System,Fall 2018 ,Admit,TOEFL,108,7.2 CGPA ,12,25
+1880,Management Information System,Fall 2018 ,Admit,TOEFL,104,8.7 CGPA ,20,25
+1881,Management Information System,Fall 2018 ,Admit,TOEFL,116,8.48 CGPA ,2,25
+1882,Management Information System,Fall 2018 ,Admit,TOEFL,94,88%,60,25
+1883,Management Information System,Fall 2018 ,Admit,TOEFL,91,72%,20,25
+1884,Management Information System,Fall 2018 ,Admit,IELTS,8,7.95 CGPA ,3,25
+1885,Management Information System,Fall 2018 ,Admit,TOEFL,103,8 CGPA ,34,25
+1886,Management Information System,Fall 2018 ,Admit,TOEFL,0,8 CGPA ,34,25
+1887,Management Information System,Fall 2018 ,Admit,IELTS,7.5,65.77%,30,25
+1888,Management Information System,Fall 2018 ,Reject,TOEFL,104,7.5 CGPA ,34,25
+1889,Management Information System,Fall 2018 ,Reject,TOEFL,101,67%,18,25
+1890,Management Information System,Fall 2018 ,Reject,TOEFL,104,6.97 CGPA ,18,25
+1891,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.6 CGPA ,24,25
+1892,Management Information System,Fall 2018 ,Reject,TOEFL,108,8.2 CGPA ,0,25
+1893,Management Information System,Fall 2018 ,Reject,TOEFL,101,68.20%,42,25
+1894,Management Information System,Fall 2018 ,Reject,TOEFL,105,72%,54,25
+1895,Management Information System,Fall 2018 ,Reject,TOEFL,107,68%,16,25
+1896,Management Information System,Fall 2018 ,Reject,TOEFL,101,7.3 CGPA ,9,25
+1897,Management Information System,Fall 2018 ,Reject,TOEFL,100,9 CGPA ,43,25
+1898,Management Information System,Fall 2018 ,Reject,IELTS,7,85.45%,7,25
+1899,Management Information System,Fall 2018 ,Reject,IELTS,7.5,72%,60,25
+1900,Management Information System,Fall 2018 ,Reject,TOEFL,100,61.10%,40,25
+1901,Management Information System,Fall 2018 ,Reject,TOEFL,95,8.54 CGPA ,34,25
+1902,Management Information System,Fall 2018 ,Reject,IELTS,7,8.47 CGPA ,36,25
+1903,Management Information System,Fall 2018 ,Reject,ENG TEST,0,75%,38,25
+1904,Management Information System,Fall 2018 ,Reject,TOEFL,103,9 CGPA ,30,25
+1905,Management Information System,Fall 2018 ,Reject,TOEFL,104,8.2 CGPA ,23,25
+1906,Management Information System,Fall 2018 ,Reject,TOEFL,98,65%,25,25
+1907,Management Information System,Fall 2018 ,Reject,TOEFL,108,65%,41,25
+1910,Management Information System,Fall 2019 ,Interested,ENG TEST,0,70%,2,25
+1913,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,25
+1915,Management Information System,Fall 2019 ,Interested,ENG TEST,0,76%,0,25
+1917,Management Information System,Spring 2019 ,Interested,TOEFL,102,65%,26,25
+1918,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,25
+1920,n Management Information System,Fall 2019 ,Interested,TOEFL,106,7.92 CGPA ,35,21
+1923,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,25
+1924,Management Information System,Fall 2019 ,Interested,TOEFL,90,63%,0,25
+1926,Management Information System,Fall 2020 ,Interested,TOEFL,110,6.5 CGPA ,6,25
+1927,Management Information System,Fall 2020 ,Interested,ENG TEST,0,7.1 CGPA ,0,25
+1929,ICS with concentration in Informatics,Fall 2019 ,Applied,ENG TEST,0,7.98 CGPA ,4,37
+1930,ICS with concentration in Informatics,Fall 2018 ,Applied,TOEFL,117,7.33 CGPA ,0,37
+1931,ICS with concentration in Informatics,Fall 2017 ,Applied,TOEFL,107,76%,31,37
+1932,ICS with concentration in Informatics,Fall 2016 ,Applied,TOEFL,96,8 CGPA ,20,37
+1933,ICS with concentration in Informatics,Fall 2017 ,Admit,TOEFL,109,71.40%,20,37
+1934,ICS with concentration in Informatics,Fall 2016 ,Admit,TOEFL,109,8.35 CGPA ,0,37
+1935,ICS with concentration in Informatics,Fall 2016 ,Admit,TOEFL,103,7 CGPA ,30,37
+1936,ICS with concentration in Informatics,Fall 2017 ,Reject,TOEFL,107,8.07 CGPA ,25,37
+1937,ICS with concentration in Informatics,Fall 2016 ,Reject,TOEFL,110,9.12 CGPA ,24,37
+1938,ICS with concentration in Informatics,Fall 2016 ,Reject,TOEFL,111,57%,26,37
+1943,ICS with concentration in Informatics,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,37
+1944,ICS with concentration in Informatics,Spring 2019 ,Interested,TOEFL,102,65%,26,37
+1946,ICS with concentration in Informatics,Fall 2019 ,Interested,TOEFL,100,7.54 CGPA ,0,37
+1950,ICS with concentration in Informatics,Fall 2019 ,Interested,TOEFL,99,8.322 CGPA ,12,37
+1951,ICS with concentration in Informatics,Fall 2018 ,Interested,TOEFL,79,66.25%,3,37
+1955,ICS with concentration in Informatics,Fall 2019 ,Interested,ENG TEST,0,8.1 CGPA ,5,37
+1956,ICS with concentration in Informatics,Fall 2018 ,Interested,ENG TEST,0,70%,0,37
+1960,Management Information System,Fall 2018 ,Applied,TOEFL,114,6.71 CGPA ,14,22
+1961,Management Information System,Fall 2018 ,Applied,IELTS,7.5,9.24 CGPA ,40,22
+1962,Management Information System,Fall 2018 ,Applied,TOEFL,101,70%,27,22
+1963,Management Information System,Fall 2018 ,Applied,ENG TEST,0,7.5 CGPA ,36,22
+1964,Management Information System,Fall 2018 ,Applied,TOEFL,104,8.3 CGPA ,0,22
+1965,Management Information System,Fall 2018 ,Applied,IELTS,7,8.4 CGPA ,41,22
+1966,Management Information System,Fall 2018 ,Applied,TOEFL,101,6.57 CGPA ,15,22
+1967,Management Information System,Fall 2018 ,Applied,TOEFL,106,68.23%,19,22
+1968,Management Information System,Fall 2018 ,Applied,TOEFL,114,6.71 CGPA ,14,22
+1969,Management Information System,Fall 2018 ,Applied,TOEFL,106,7.63 CGPA ,6,22
+1970,Management Information System,Fall 2018 ,Applied,IELTS,7,79%,30,22
+1971,Management Information System,Fall 2018 ,Applied,TOEFL,111,86.60%,20,22
+1972,Management Information System,Fall 2018 ,Applied,TOEFL,97,62%,49,22
+1973,Management Information System,Fall 2018 ,Applied,TOEFL,99,67%,16,22
+1974,Management Information System,Fall 2014 ,Applied,TOEFL,104,89.90%,29,22
+1975,Management Information System,Fall 2018 ,Applied,IELTS,7,7.61 CGPA ,37,22
+1976,Management Information System,Fall 2018 ,Applied,TOEFL,98,68.40%,18,22
+1977,Management Information System,Fall 2017 ,Applied,TOEFL,109,6.34 CGPA ,13,22
+1978,Management Information System,Fall 2017 ,Applied,TOEFL,105,7.4 CGPA ,45,22
+1979,Management Information System,Fall 2017 ,Applied,IELTS,8,78%,38,22
+1980,Management Information System,Fall 2018 ,Admit,TOEFL,105,85%,60,22
+1982,Management Information System,Fall 2018 ,Admit,IELTS,7,75%,32,22
+1983,Management Information System,Fall 2018 ,Admit,TOEFL,117,59.42%,30,22
+1984,Management Information System,Fall 2018 ,Admit,TOEFL,97,6 CGPA ,0,22
+1985,Management Information System,Fall 2018 ,Admit,TOEFL,98,8.92 CGPA ,44,22
+1986,Management Information System,Fall 2018 ,Admit,IELTS,7,71.40%,36,22
+1988,Management Information System,Fall 2018 ,Admit,TOEFL,99,71%,38,22
+1989,Management Information System,Fall 2015 ,Admit,TOEFL,111,59.80%,40,22
+1990,Management Information System,Fall 2018 ,Admit,TOEFL,104,8.7 CGPA ,20,22
+1991,Management Information System,Fall 2018 ,Admit,TOEFL,91,80.94%,60,22
+1992,Management Information System,Fall 2018 ,Admit,TOEFL,96,7.09 CGPA ,25,22
+1993,Management Information System,Fall 2018 ,Admit,IELTS,7.5,65.77%,30,22
+1994,Management Information System,Fall 2018 ,Admit,TOEFL,112,63%,60,22
+1995,Management Information System,Fall 2018 ,Admit,TOEFL,103,81.01%,13,22
+1996,Management Information System,Fall 2018 ,Admit,TOEFL,113,7.9 CGPA ,17,22
+1997,Management Information System,Fall 2018 ,Admit,TOEFL,113,68.50%,44,22
+1998,Management Information System,Fall 2018 ,Admit,TOEFL,109,81.74%,25,22
+1999,Management Information System,Fall 2018 ,Admit,TOEFL,100,8.61 CGPA ,39,22
+2000,Management Information System,Fall 2018 ,Reject,TOEFL,100,77%,25,22
+2001,Management Information System,Fall 2018 ,Reject,TOEFL,110,6.93 CGPA ,25,22
+2002,Management Information System,Fall 2018 ,Reject,TOEFL,0,7.41 CGPA ,17,22
+2003,Management Information System,Fall 2018 ,Reject,IELTS,7,85.45%,7,22
+2004,Management Information System,Fall 2018 ,Reject,ENG TEST,0,74%,37,22
+2005,Management Information System,Fall 2018 ,Reject,TOEFL,100,7.65 CGPA ,0,22
+2006,Management Information System,Fall 2018 ,Reject,TOEFL,103,63.17%,27,22
+2007,Management Information System,Fall 2018 ,Reject,TOEFL,103,9 CGPA ,30,22
+2008,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.55 CGPA ,0,22
+2009,Management Information System,Fall 2018 ,Reject,TOEFL,98,74.12%,34,22
+2011,Management Information System,Fall 2018 ,Reject,TOEFL,94,6.43 CGPA ,40,22
+2012,Management Information System,Fall 2018 ,Reject,TOEFL,112,8.24 CGPA ,1,22
+2013,Management Information System,Fall 2018 ,Reject,TOEFL,115,66%,0,22
+2014,Management Information System,Fall 2018 ,Reject,TOEFL,95,65%,20,22
+2015,Management Information System,Spring 2019 ,Reject,TOEFL,104,8.7 CGPA ,16,22
+2016,Management Information System,Fall 2018 ,Reject,TOEFL,91,72%,20,22
+2017,Management Information System,Fall 2018 ,Reject,TOEFL,94,7.6 CGPA ,35,22
+2018,Management Information System,Fall 2018 ,Reject,TOEFL,90,8.9 CGPA ,26,22
+2019,Management Information System,Fall 2018 ,Reject,IELTS,7,79%,30,22
+2023,Management Information System,Fall 2018 ,Interested,TOEFL,100,8.5 CGPA ,15,22
+2024,Management Information System,Fall 2019 ,Interested,TOEFL,106,7.92 CGPA ,35,22
+2026,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,22
+2027,Management Information System,Spring 2019 ,Interested,TOEFL,113,6.8 CGPA ,30,22
+2030,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,22
+2032,Management Information System,Spring 2019 ,Interested,IELTS,7,7.8 CGPA ,18,22
+2033,Management Information System,Spring 2019 ,Interested,IELTS,7,76%,8,22
+2034,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.69 CGPA ,7,22
+2041,Management Information System,Fall 2018 ,Applied,TOEFL,102,74%,85,20
+2042,Management Information System,Spring 2018 ,Applied,IELTS,7,58.80%,13,20
+2043,Management Information System,Fall 2017 ,Applied,ENG TEST,0,67%,2,20
+2044,Management Information System,Fall 2016 ,Applied,TOEFL,100,0%,0,20
+2045,Management Information System,Spring 2016 ,Applied,TOEFL,80,6 CGPA ,0,20
+2046,Management Information System,Fall 2016 ,Applied,TOEFL,0,6.8 CGPA ,0,20
+2048,Management Information System,Fall 2015 ,Applied,IELTS,7.5,68%,0,20
+2049,Management Information System,Fall 2016 ,Applied,TOEFL,111,50%,0,20
+2050,Management Information System,Fall 2015 ,Applied,ENG TEST,0,58%,0,20
+2051,Management Information System,Spring 2016 ,Applied,TOEFL,96,6 CGPA ,30,20
+2052,Management Information System,Fall 2016 ,Applied,TOEFL,82,8 CGPA ,0,20
+2053,Management Information System,Fall 2018 ,Reject,TOEFL,100,7.72 CGPA ,1,20
+2054,Management Information System,Fall 2013 ,Reject,TOEFL,113,8.83 CGPA ,20,20
+2055,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,20
+2056,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,20
+2057,Management Information System,Fall 2019 ,Interested,ENG TEST,0,65%,22,20
+2058,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,20
+2059,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,20
+2061,Management Information System,Spring 2019 ,Interested,ENG TEST,0,6.07 CGPA ,0,20
+2062,Management Information System,Fall 2018 ,Interested,IELTS,8,75%,44,20
+2063,Management Information System,Fall 2019 ,Interested,ENG TEST,0,64%,0,20
+2066,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9.14 CGPA ,0,20
+2067,Management Information System,Fall 2019 ,Interested,TOEFL,99,8.322 CGPA ,12,20
+2068,Management Information System,Spring 2019 ,Interested,ENG TEST,0,78.87%,17,20
+2069,Management Information System,Spring 2019 ,Interested,ENG TEST,0,6.54 CGPA ,39,20
+2073,Management Information System,Fall 2018 ,Interested,TOEFL,0,7.4 CGPA ,34,20
+2077,Management Information System,Fall 2018 ,Applied,TOEFL,100,8.02 CGPA ,0,24
+2078,Management Information System,Fall 2018 ,Applied,TOEFL,104,80.22%,20,24
+2079,Management Information System,Fall 2018 ,Applied,TOEFL,100,82.80%,15,24
+2080,Management Information System,Fall 2018 ,Applied,TOEFL,113,7.75 CGPA ,6,24
+2081,Management Information System,Fall 2018 ,Applied,TOEFL,98,7.1 CGPA ,32,24
+2082,Management Information System,Fall 2018 ,Applied,ENG TEST,0,8.2 CGPA ,47,24
+2083,Management Information System,Fall 2018 ,Applied,TOEFL,100,64%,35,24
+2084,Management Information System,Fall 2018 ,Applied,TOEFL,102,8.33 CGPA ,3,24
+2085,Management Information System,Fall 2018 ,Applied,TOEFL,96,8.2 CGPA ,0,24
+2086,Management Information System,Fall 2018 ,Applied,TOEFL,100,78%,17,24
+2087,Management Information System,Fall 2018 ,Applied,TOEFL,94,6.45 CGPA ,13,24
+2088,Management Information System,Fall 2017 ,Applied,TOEFL,105,65%,0,24
+2089,Management Information System,Fall 2018 ,Applied,IELTS,6.5,7.69 CGPA ,17,24
+2090,Management Information System,Fall 2018 ,Applied,TOEFL,100,64%,29,24
+2091,Management Information System,Fall 2018 ,Applied,TOEFL,95,6.9 CGPA ,12,24
+2092,Management Information System,Fall 2018 ,Applied,TOEFL,111,70%,12,24
+2093,Management Information System,Fall 2018 ,Applied,TOEFL,100,6.79 CGPA ,19,24
+2094,Management Information System,Fall 2018 ,Applied,TOEFL,103,8.3 CGPA ,16,24
+2095,Management Information System,Fall 2018 ,Applied,IELTS,6.5,6.92 CGPA ,47,24
+2096,Management Information System,Fall 2018 ,Admit,TOEFL,95,6.75 CGPA ,15,24
+2097,Management Information System,Fall 2018 ,Admit,TOEFL,88,65%,5,24
+2098,Management Information System,Fall 2018 ,Admit,TOEFL,111,60.10%,42,24
+2099,Management Information System,Fall 2018 ,Admit,ENG TEST,0,66%,3,24
+2100,Management Information System,Fall 2018 ,Admit,TOEFL,107,8 CGPA ,18,24
+2101,Management Information System,Fall 2018 ,Admit,TOEFL,98,7.31 CGPA ,25,24
+2102,Management Information System,Fall 2018 ,Admit,TOEFL,100,8.61 CGPA ,39,24
+2103,Management Information System,Fall 2018 ,Admit,TOEFL,92,7.2 CGPA ,16,24
+2104,Management Information System,Fall 2018 ,Admit,TOEFL,107,8.25 CGPA ,13,24
+2105,Management Information System,Fall 2018 ,Admit,TOEFL,99,55.81%,24,24
+2106,Management Information System,Fall 2018 ,Admit,TOEFL,107,8.21 CGPA ,14,24
+2107,Management Information System,Fall 2018 ,Admit,TOEFL,105,64.86%,18,24
+2108,Management Information System,Fall 2018 ,Admit,IELTS,7,8.4 CGPA ,41,24
+2109,Management Information System,Fall 2018 ,Admit,TOEFL,104,7.16 CGPA ,18,24
+2110,Management Information System,Fall 2011 ,Admit,TOEFL,111,59%,0,24
+2111,Management Information System,Fall 2017 ,Admit,TOEFL,95,68%,23,24
+2112,Management Information System,Fall 2017 ,Admit,TOEFL,106,7.54 CGPA ,0,24
+2113,Management Information System,Fall 2017 ,Admit,TOEFL,108,65%,20,24
+2114,Management Information System,Fall 2017 ,Admit,TOEFL,96,61.50%,48,24
+2115,Management Information System,Fall 2017 ,Admit,TOEFL,97,8.25 CGPA ,41,24
+2116,Management Information System,Fall 2018 ,Reject,IELTS,7,7.85 CGPA ,0,24
+2117,Management Information System,Fall 2018 ,Reject,TOEFL,117,6.41 CGPA ,5,24
+2118,Management Information System,Fall 2018 ,Reject,TOEFL,96,7.09 CGPA ,25,24
+2119,Management Information System,Fall 2018 ,Reject,TOEFL,112,6.86 CGPA ,5,24
+2120,Management Information System,Fall 2018 ,Reject,TOEFL,110,8.4 CGPA ,30,24
+2121,Management Information System,Fall 2018 ,Reject,TOEFL,97,55%,30,24
+2122,Management Information System,Spring 2018 ,Reject,ENG TEST,0,59.75%,22,24
+2123,Management Information System,Spring 2018 ,Reject,TOEFL,98,57%,0,24
+2124,Management Information System,Fall 2017 ,Reject,TOEFL,101,8.91 CGPA ,11,24
+2125,Management Information System,Fall 2017 ,Reject,TOEFL,112,58.96%,0,24
+2126,Management Information System,Fall 2017 ,Reject,TOEFL,108,66.43%,24,24
+2127,Management Information System,Fall 2017 ,Reject,TOEFL,109,8.34 CGPA ,3,24
+2128,Management Information System,Spring 2017 ,Reject,TOEFL,97,70%,26,24
+2129,Management Information System,Fall 2016 ,Reject,TOEFL,90,65%,31,24
+2130,Management Information System,Fall 2016 ,Reject,TOEFL,104,7.32 CGPA ,13,24
+2131,Management Information System,Fall 2016 ,Reject,TOEFL,80,71.40%,34,24
+2136,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,24
+2137,Management Information System,Spring 2019 ,Interested,TOEFL,98,73%,40,24
+2139,Management Information System,Spring 2019 ,Interested,TOEFL,102,65%,26,24
+2140,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,24
+2142,Management Information System,Fall 2019 ,Interested,ENG TEST,0,59.90%,80,24
+2146,Management Information System,Spring 2019 ,Interested,IELTS,7,6.97 CGPA ,60,24
+2147,Management Information System,Spring 2019 ,Interested,TOEFL,90,64%,0,24
+2149,Management Information System,Spring 2019 ,Interested,IELTS,7.5,69.50%,28,24
+2150,Management Information System,Spring 2019 ,Interested,IELTS,7,76%,8,24
+2153,Management Information System,Spring 2019 ,Applied,TOEFL,92,63.33%,60,14
+2154,Management Information System,Spring 2019 ,Applied,TOEFL,98,73%,40,14
+2155,Management Information System,Fall 2018 ,Applied,TOEFL,114,7.2 CGPA ,51,14
+2156,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.3 CGPA ,0,14
+2157,Management Information System,Fall 2018 ,Applied,TOEFL,97,7 CGPA ,16,14
+2158,Management Information System,Fall 2018 ,Applied,TOEFL,102,67%,32,14
+2159,Management Information System,Fall 2018 ,Applied,TOEFL,112,8.24 CGPA ,1,14
+2160,Management Information System,Fall 2018 ,Applied,TOEFL,107,74.47%,28,14
+2162,Management Information System,Fall 2018 ,Applied,TOEFL,101,7.79 CGPA ,16,14
+2163,Management Information System,Spring 2018 ,Applied,TOEFL,99,82%,55,14
+2164,Management Information System,Fall 2018 ,Applied,TOEFL,100,65%,12,14
+2165,Management Information System,Fall 2018 ,Applied,IELTS,8,8.87 CGPA ,18,14
+2166,Management Information System,Fall 2018 ,Applied,TOEFL,107,6.75 CGPA ,0,14
+2167,Management Information System,Fall 2018 ,Applied,TOEFL,96,8.2 CGPA ,0,14
+2168,Management Information System,Fall 2018 ,Applied,ENG TEST,0,8.37 CGPA ,0,14
+2169,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.79 CGPA ,30,14
+2170,Management Information System,Fall 2018 ,Applied,IELTS,7,79%,30,14
+2171,Management Information System,Fall 2018 ,Applied,TOEFL,99,67%,16,14
+2172,Management Information System,Fall 2018 ,Applied,ENG TEST,0,75%,24,14
+2173,Management Information System,Fall 2018 ,Admit,TOEFL,85,75.40%,24,14
+2174,Management Information System,Fall 2018 ,Admit,TOEFL,96,73%,60,14
+2175,Management Information System,Fall 2018 ,Admit,TOEFL,93,83.50%,20,14
+2176,Management Information System,Fall 2018 ,Admit,IELTS,7,71.19%,27,14
+2177,Management Information System,Fall 2018 ,Admit,TOEFL,117,59.42%,30,14
+2178,Management Information System,Fall 2018 ,Admit,TOEFL,104,7.5 CGPA ,34,14
+2179,Management Information System,Fall 2018 ,Admit,TOEFL,99,62.02%,58,14
+2180,Management Information System,Fall 2018 ,Admit,TOEFL,94,6.45 CGPA ,13,14
+2181,Management Information System,Fall 2018 ,Admit,TOEFL,107,5.4 CGPA ,0,14
+2182,Management Information System,Fall 2018 ,Admit,TOEFL,88,64.36%,47,14
+2183,Management Information System,Fall 2018 ,Admit,TOEFL,107,7.39 CGPA ,14,14
+2184,Management Information System,Fall 2018 ,Admit,TOEFL,96,6.99 CGPA ,9,14
+2185,Management Information System,Fall 2018 ,Admit,TOEFL,0,84%,24,14
+2186,Management Information System,Fall 2018 ,Admit,TOEFL,101,67%,18,14
+2187,Management Information System,Fall 2018 ,Admit,TOEFL,96,56.40%,36,14
+2188,Management Information System,Fall 2018 ,Admit,TOEFL,109,64.77%,29,14
+2189,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.97 CGPA ,18,14
+2190,Management Information System,Fall 2018 ,Admit,TOEFL,96,7.87 CGPA ,12,14
+2191,Management Information System,Fall 2018 ,Admit,IELTS,7,7.56 CGPA ,20,14
+2192,Management Information System,Fall 2018 ,Admit,TOEFL,0,6.03 CGPA ,28,14
+2193,Management Information System,Fall 2018 ,Reject,TOEFL,93,69.40%,82,14
+2194,Management Information System,Fall 2018 ,Reject,TOEFL,91,7.7 CGPA ,1,14
+2195,Management Information System,Fall 2018 ,Reject,TOEFL,81,75%,37,14
+2196,Management Information System,Fall 2018 ,Reject,ENG TEST,0,8.5 CGPA ,6,14
+2197,Management Information System,Fall 2018 ,Reject,TOEFL,85,74.15%,41,14
+2198,Management Information System,Fall 2018 ,Reject,TOEFL,92,72.39%,44,14
+2199,Management Information System,Fall 2018 ,Reject,TOEFL,90,8.9 CGPA ,26,14
+2200,Management Information System,Fall 2018 ,Reject,TOEFL,86,65.37%,27,14
+2201,Management Information System,Fall 2018 ,Reject,TOEFL,93,64.30%,64,14
+2202,Management Information System,Fall 2018 ,Reject,TOEFL,98,7.2 CGPA ,0,14
+2203,Management Information System,Fall 2018 ,Reject,TOEFL,84,7.67 CGPA ,50,14
+2204,Management Information System,Fall 2018 ,Reject,TOEFL,88,8.18 CGPA ,24,14
+2205,Management Information System,Fall 2018 ,Reject,TOEFL,0,7.13 CGPA ,0,14
+2206,Management Information System,Fall 2017 ,Reject,TOEFL,94,6.66 CGPA ,2,14
+2207,Management Information System,Spring 2018 ,Reject,TOEFL,89,59.50%,48,14
+2208,Management Information System,Spring 2018 ,Reject,TOEFL,98,57%,0,14
+2209,Management Information System,Fall 2018 ,Reject,TOEFL,97,72.06%,46,14
+2210,Management Information System,Fall 2012 ,Reject,TOEFL,94,54%,0,14
+2211,Management Information System,Fall 2017 ,Reject,TOEFL,94,54%,6,14
+2212,Management Information System,Fall 2017 ,Reject,TOEFL,92,7.7 CGPA ,0,14
+2218,Management Information System,Spring 2019 ,Interested,TOEFL,95,75%,20,14
+2221,Management Information System,Fall 2019 ,Interested,TOEFL,0,8.98 CGPA ,35,14
+2223,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,14
+2225,Management Information System,Fall 2019  ,Interested,TOEFL,112,8.3 CGPA ,12,14
+2226,Management Information System,Spring 2018 ,Interested,TOEFL,95,67%,35,14
+2228,Management Information System,Fall 2019 ,Interested,ENG TEST,0,59.90%,80,14
+2229,Management Information System,Spring 2019 ,Interested,IELTS,7,6.7 CGPA ,9,14
+2230,Management Information System,Spring 2019 ,Interested,TOEFL,113,6.8 CGPA ,30,14
+2234,Informatics,Fall 2018  ,Applied,TOEFL,90,8.83 CGPA ,2,13
+2235,Informatics,Fall 2017 ,Applied,TOEFL,95,7.5 CGPA ,0,13
+2236,Informatics,Fall 2017 ,Applied,TOEFL,95,7.5 CGPA ,48,13
+2241,Informatics,Spring 2019 ,Interested,ENG TEST,0,7.8 CGPA ,37,13
+2244,Informatics,Spring 2019 ,Interested,TOEFL,90,64%,0,13
+2247,Informatics,Spring 2019 ,Interested,IELTS,7,76%,8,13
+2250,Informatics,Spring 2019 ,Interested,TOEFL,101,9.1 CGPA ,14,13
+2251,Informatics,Fall 2018 ,Interested,ENG TEST,0,8.5 CGPA ,24,13
+2252,Informatics,Fall 2018 ,Interested,ENG TEST,0,5.8 CGPA ,0,13
+2253,Informatics,Fall 2020 ,Interested,ENG TEST,0,69.57%,26,13
+2258,Management Information System,Spring 2019 ,Applied,ENG TEST,0,7.2 CGPA ,0,38
+2259,Management Information System,Fall 2018 ,Applied,TOEFL,0,8.4 CGPA ,29,38
+2260,Management Information System,Fall 2018 ,Applied,IELTS,7,7.74 CGPA ,25,38
+2261,Management Information System,Fall 2018 ,Applied,TOEFL,106,8.42 CGPA ,9,38
+2262,Management Information System,Fall 2018 ,Applied,TOEFL,103,9 CGPA ,30,38
+2263,Management Information System,Fall 2018 ,Applied,TOEFL,97,7 CGPA ,16,38
+2264,Management Information System,Fall 2018 ,Applied,TOEFL,109,86%,25,38
+2265,Management Information System,Fall 2018 ,Applied,TOEFL,102,67%,32,38
+2266,Management Information System,Fall 2018 ,Applied,ENG TEST,0,65%,74,38
+2268,Management Information System,Fall 2018 ,Applied,TOEFL,108,6.54 CGPA ,5,38
+2269,Management Information System,Fall 2018 ,Applied,TOEFL,100,9 CGPA ,43,38
+2270,Management Information System,Fall 2018 ,Applied,TOEFL,109,6.2 CGPA ,40,38
+2271,Management Information System,Fall 2018 ,Applied,TOEFL,114,64%,29,38
+2272,Management Information System,Fall 2018 ,Applied,TOEFL,105,8.02 CGPA ,0,38
+2273,Management Information System,Fall 2018 ,Applied,TOEFL,103,79%,60,38
+2274,Management Information System,Fall 2018 ,Applied,TOEFL,101,80.14%,48,38
+2275,Management Information System,Fall 2018 ,Applied,TOEFL,98,6.51 CGPA ,6,38
+2276,Management Information System,Fall 2018 ,Applied,ENG TEST,0,8.14 CGPA ,2,38
+2278,Management Information System,Fall 2018 ,Admit,TOEFL,106,75.60%,42,38
+2279,Management Information System,Fall 2018 ,Admit,TOEFL,94,7.6 CGPA ,35,38
+2280,Management Information System,Fall 2018 ,Admit,TOEFL,107,7.39 CGPA ,14,38
+2281,Management Information System,Fall 2018 ,Admit,TOEFL,106,9.15 CGPA ,0,38
+2282,Management Information System,Fall 2018 ,Admit,TOEFL,0,80.12%,60,38
+2283,Management Information System,Fall 2018 ,Admit,TOEFL,0,84%,24,38
+2284,Management Information System,Fall 2018 ,Admit,TOEFL,101,67%,18,38
+2285,Management Information System,Fall 2018 ,Admit,TOEFL,98,7.31 CGPA ,25,38
+2286,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.5 CGPA ,1,38
+2287,Management Information System,Fall 2018 ,Admit,TOEFL,98,7.07 CGPA ,14,38
+2288,Management Information System,Fall 2018 ,Admit,TOEFL,0,6.93 CGPA ,2,38
+2289,Management Information System,Fall 2018 ,Admit,TOEFL,108,83.30%,8,38
+2290,Management Information System,Fall 2018 ,Admit,TOEFL,104,75.20%,35,38
+2291,Management Information System,Fall 2018 ,Admit,TOEFL,108,8.2 CGPA ,0,38
+2292,Management Information System,Fall 2018 ,Admit,TOEFL,112,8.48 CGPA ,21,38
+2293,Management Information System,Fall 2018 ,Admit,TOEFL,105,64.86%,18,38
+2294,Management Information System,Fall 2018 ,Admit,TOEFL,105,72%,54,38
+2295,Management Information System,Fall 2018 ,Admit,TOEFL,103,81.01%,13,38
+2296,Management Information System,Fall 2018 ,Admit,TOEFL,95,7 CGPA ,6,38
+2297,Management Information System,Fall 2018 ,Admit,TOEFL,0,70%,0,38
+2298,Management Information System,Fall 2018 ,Reject,TOEFL,108,75%,0,38
+2299,Management Information System,Fall 2018 ,Reject,TOEFL,104,6.4 CGPA ,15,38
+2300,Management Information System,Fall 2018 ,Reject,TOEFL,102,7.09 CGPA ,0,38
+2301,Management Information System,Fall 2018 ,Reject,TOEFL,96,7.87 CGPA ,12,38
+2303,Management Information System,Spring 2018 ,Reject,TOEFL,112,8.25 CGPA ,0,38
+2304,Management Information System,Fall 2017 ,Reject,TOEFL,112,55%,43,38
+2305,Management Information System,Fall 2017 ,Reject,TOEFL,95,68%,23,38
+2306,Management Information System,Fall 2017 ,Reject,TOEFL,102,6.68 CGPA ,16,38
+2307,Management Information System,Fall 2017 ,Reject,TOEFL,99,66%,30,38
+2308,Management Information System,Fall 2017 ,Reject,TOEFL,100,63%,48,38
+2309,Management Information System,Fall 2017 ,Reject,TOEFL,96,80.12%,27,38
+2310,Management Information System,Fall 2017 ,Reject,TOEFL,91,66%,35,38
+2311,Management Information System,Fall 2017 ,Reject,TOEFL,98,8.84 CGPA ,27,38
+2312,Management Information System,Fall 2017 ,Reject,TOEFL,97,66.67%,18,38
+2313,Management Information System,Fall 2017 ,Reject,TOEFL,88,7.69 CGPA ,16,38
+2314,Management Information System,Fall 2017 ,Reject,TOEFL,100,69%,61,38
+2315,Management Information System,Fall 2017 ,Reject,TOEFL,100,67%,53,38
+2316,Management Information System,Fall 2017 ,Reject,TOEFL,109,65.45%,18,38
+2317,Management Information System,Fall 2017 ,Reject,TOEFL,104,58%,53,38
+2318,Management Information System,Fall 2019 ,Interested,ENG TEST,0,68%,45,38
+2319,Management Information System,Spring 2019 ,Interested,ENG TEST,0,74%,24,38
+2321,Management Information System,Spring 2019 ,Interested,TOEFL,95,75%,20,38
+2323,Management Information System,Fall 2019 ,Interested,TOEFL,106,7.92 CGPA ,35,38
+2324,Management Information System,Spring 2019 ,Interested,IELTS,7.5,7.9 CGPA ,0,38
+2325,Management Information System,Fall 2018 ,Interested,TOEFL,100,8.5 CGPA ,15,38
+2327,Management Information System,Fall 2019 ,Interested,ENG TEST,0,6.45 CGPA ,1,38
+2328,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,38
+2332,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,38
+2334,Management Information System,Spring 2019 ,Interested,ENG TEST,0,70%,60,38
+2336,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,38
+2337,Management Information System,Fall 2020 ,Interested,ENG TEST,0,7.1 CGPA ,0,38
+2339,Management Information System,Fall 2018 ,Applied,IELTS,7.5,62.50%,4,23
+2340,Management Information System,Fall 2018 ,Applied,IELTS,7.5,9.24 CGPA ,40,23
+2341,Management Information System,Fall 2018 ,Applied,TOEFL,98,65%,29,23
+2342,Management Information System,Fall 2018 ,Applied,TOEFL,90,8.26 CGPA ,15,23
+2343,Management Information System,Fall 2018 ,Applied,TOEFL,88,7.95 CGPA ,5,23
+2344,Management Information System,Fall 2018 ,Applied,TOEFL,93,7.79 CGPA ,30,23
+2345,Management Information System,Fall 2018 ,Applied,TOEFL,111,70%,12,23
+2346,Management Information System,Fall 2018 ,Applied,TOEFL,81,56.99%,42,23
+2347,Management Information System,Spring 2018 ,Applied,IELTS,7,73.50%,32,23
+2348,Management Information System,Fall 2017 ,Applied,TOEFL,92,64%,0,23
+2349,Management Information System,Fall 2017 ,Applied,TOEFL,97,53%,0,23
+2350,Management Information System,Fall 2017 ,Applied,TOEFL,104,5.8 CGPA ,0,23
+2351,Management Information System,Fall 2017 ,Applied,TOEFL,93,78%,60,23
+2352,Management Information System,Fall 2017 ,Applied,TOEFL,96,7.44 CGPA ,0,23
+2353,Management Information System,Fall 2017 ,Applied,TOEFL,97,6.23 CGPA ,4,23
+2354,Management Information System,Fall 2017 ,Applied,TOEFL,85,6.26 CGPA ,0,23
+2355,Management Information System,Fall 2017 ,Applied,TOEFL,93,6.5 CGPA ,2,23
+2356,Management Information System,Fall 2017 ,Applied,TOEFL,95,64%,42,23
+2357,Management Information System,Fall 2017 ,Applied,TOEFL,92,57.80%,12,23
+2358,Management Information System,Fall 2017 ,Applied,TOEFL,97,8.07 CGPA ,26,23
+2359,Management Information System,Fall 2018 ,Admit,TOEFL,0,74%,15,23
+2360,Management Information System,Fall 2018 ,Admit,TOEFL,96,56.40%,36,23
+2361,Management Information System,Fall 2018 ,Admit,TOEFL,84,68.50%,43,23
+2362,Management Information System,Fall 2018 ,Admit,ENG TEST,0,75%,80,23
+2363,Management Information System,Fall 2018 ,Admit,TOEFL,94,8.5 CGPA ,27,23
+2364,Management Information System,Fall 2018 ,Admit,TOEFL,91,69.30%,26,23
+2365,Management Information System,Fall 2018 ,Admit,IELTS,0,8.1 CGPA ,30,23
+2366,Management Information System,Fall 2018 ,Admit,TOEFL,90,71%,6,23
+2367,Management Information System,Fall 2014 ,Admit,TOEFL,96,62%,15,23
+2368,Management Information System,Fall 2018 ,Admit,TOEFL,95,6.9 CGPA ,12,23
+2369,Management Information System,Fall 2018 ,Admit,IELTS,7,84.25%,50,23
+2371,Management Information System,Fall 2018  ,Admit,ENG TEST,0,65%,3,23
+2372,Management Information System,Fall 2018 ,Admit,TOEFL,95,67%,10,23
+2373,Management Information System,Fall 2018 ,Admit,ENG TEST,0,8.5 CGPA ,6,23
+2374,Management Information System,Spring 2018 ,Admit,IELTS,7,58.80%,13,23
+2375,Management Information System,Spring 2018 ,Admit,TOEFL,111,56%,28,23
+2376,Management Information System,Spring 2018 ,Admit,TOEFL,98,8.35 CGPA ,19,23
+2377,Management Information System,Spring 2018 ,Admit,TOEFL,107,55%,10,23
+2378,Management Information System,Fall 2018 ,Admit,TOEFL,100,8.61 CGPA ,39,23
+2379,Management Information System,Fall 2018 ,Reject,IELTS,6.5,67%,27,23
+2381,Management Information System,Fall 2018 ,Reject,IELTS,6.5,7.69 CGPA ,17,23
+2382,Management Information System,Fall 2018 ,Reject,TOEFL,88,8.6 CGPA ,55,23
+2383,Management Information System,Fall 2017 ,Reject,TOEFL,0,7.3 CGPA ,2,23
+2384,Management Information System,Fall 2018 ,Reject,TOEFL,113,10 CGPA ,0,23
+2385,Management Information System,Spring 2018 ,Reject,TOEFL,83,6.3 CGPA ,45,23
+2386,Management Information System,Spring 2018 ,Reject,IELTS,7,6.1 CGPA ,0,23
+2387,Management Information System,Spring 2018 ,Reject,TOEFL,93,64.10%,2,23
+2388,Management Information System,Fall 2017 ,Reject,TOEFL,91,7.19 CGPA ,21,23
+2389,Management Information System,Fall 2017 ,Reject,ENG TEST,0,7.88 CGPA ,0,23
+2390,Management Information System,Fall 2017 ,Reject,TOEFL,83,6.15 CGPA ,1,23
+2391,Management Information System,Fall 2017 ,Reject,TOEFL,90,6.5 CGPA ,18,23
+2392,Management Information System,Fall 2017 ,Reject,TOEFL,90,6.89 CGPA ,19,23
+2393,Management Information System,Fall 2017 ,Reject,TOEFL,101,7.4 CGPA ,0,23
+2394,Management Information System,Spring 2017 ,Reject,TOEFL,90,59%,18,23
+2395,Management Information System,Spring 2017 ,Reject,IELTS,6.5,7.4 CGPA ,16,23
+2396,Management Information System,Spring 2017 ,Reject,TOEFL,86,8.25 CGPA ,48,23
+2397,Management Information System,Fall 2016 ,Reject,TOEFL,84,62%,42,23
+2398,Management Information System,Fall 2016 ,Reject,TOEFL,93,60%,30,23
+2400,Management Information System,Spring 2019 ,Interested,TOEFL,106,8.39 CGPA ,24,23
+2403,Management Information System,Fall 2019 ,Interested,ENG TEST,0,76%,0,23
+2404,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,23
+2405,Management Information System,Fall 2017 ,Interested,TOEFL,93,59%,36,23
+2407,Management Information System,Spring 2019 ,Interested,TOEFL,90,64%,0,23
+2410,Management Information System,Spring 2019 ,Interested,TOEFL,86,75%,36,23
+2411,Management Information System,Spring 2019 ,Interested,TOEFL,90,9.12 CGPA ,24,23
+2412,Management Information System,Spring 2019 ,Interested,IELTS,7,76%,8,23
+2413,Management Information System,Fall 2019 ,Interested,ENG TEST,0,67%,0,23
+2417,Management Information System,Fall 2018 ,Interested,TOEFL,104,70%,0,23
+2418,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,23
+2422,Management Information System,Spring 2016 ,Applied,TOEFL,80,6 CGPA ,0,40
+2423,Management Information System,Fall 2017 ,Applied,IELTS,7.5,60%,55,40
+2424,Management Information System, Fall 2016 ,Applied,IELTS,7,6.35 CGPA ,10,40
+2425,Management Information System,Fall 2016 ,Admit,TOEFL,104,8 CGPA ,10,40
+2426,Management Information System,Fall 2013 ,Admit,TOEFL,108,64.30%,0,40
+2427,Management Information System,Fall 2019 ,Interested,ENG TEST,0,68%,45,40
+2428,Management Information System,Spring 2019 ,Interested,IELTS,7.5,9.5 CGPA ,24,40
+2430,Management Information System,Spring 2019 ,Interested,IELTS,8,7.02 CGPA ,4,40
+2431,Management Information System,Fall 2018 ,Interested,TOEFL,82,55%,22,40
+2432,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,40
+2433,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,40
+2435,Management Information System,Fall 2016 ,Interested,TOEFL,104,8.54 CGPA ,30,40
+2436,Management Information System,Spring 2019 ,Interested,TOEFL,103,9 CGPA ,2,40
+2438,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8.5 CGPA ,40,40
+2440,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.69 CGPA ,7,40
+2442,Management Information System,Fall 2018 ,Interested,TOEFL,103,7.3 CGPA ,32,40
+2443,Management Information System,Fall 2017 ,Interested,ENG TEST,0,70%,60,40
+2444,Management Information System,Spring 2019 ,Interested,TOEFL,91,7.3 CGPA ,48,40
+2448,Information Technology and Management,Spring 2019 ,Applied,TOEFL,85,8.52 CGPA ,25,15
+2449,Information Technology and Management,Fall 2018 ,Applied,TOEFL,80,62%,30,15
+2450,Information Technology and Management,Fall 2018 ,Applied,ENG TEST,0,71%,33,15
+2451,Information Technology and Management,Spring 2018 ,Applied,TOEFL,85,73%,14,15
+2452,Information Technology and Management,Spring 2017 ,Applied,TOEFL,107,8 CGPA ,18,15
+2453,Information Technology and Management,Fall 2017 ,Applied,TOEFL,101,64.91%,26,15
+2454,Information Technology and Management,Fall 2017 ,Applied,ENG TEST,0,60%,0,15
+2455,Information Technology and Management,Fall 2017 ,Applied,IELTS,8,7.46 CGPA ,19,15
+2456,Information Technology and Management,Fall 2017 ,Applied,TOEFL,108,7.4 CGPA ,6,15
+2457,Information Technology and Management,Fall 2017 ,Applied,TOEFL,84,64.50%,44,15
+2458,Information Technology and Management,Fall 2017 ,Applied,IELTS,7,6.61 CGPA ,23,15
+2459,Information Technology and Management,Fall 2017 ,Applied,TOEFL,97,69.75%,45,15
+2460,Information Technology and Management,Fall 2017 ,Applied,TOEFL,105,6.33 CGPA ,57,15
+2461,Information Technology and Management,Fall 2017 ,Applied,TOEFL,94,65%,36,15
+2462,Information Technology and Management,Fall 2017 ,Applied,TOEFL,108,7.8 CGPA ,0,15
+2463,Information Technology and Management,Spring 2017 ,Applied,TOEFL,90,7.31 CGPA ,36,15
+2464,Information Technology and Management,Spring 2017 ,Applied,TOEFL,95,7.27 CGPA ,13,15
+2467,Information Technology and Management,Fall 2018 ,Admit,TOEFL,110,5.3 CGPA ,2,15
+2468,Information Technology and Management,Spring 2019 ,Admit,IELTS,7,81%,20,15
+2469,Information Technology and Management,Fall 2018 ,Admit,TOEFL,87,63%,30,15
+2470,Information Technology and Management,Fall 2018 ,Admit,TOEFL,100,65%,12,15
+2471,Information Technology and Management,Fall 2018 ,Admit,TOEFL,96,73%,60,15
+2473,Information Technology and Management,Fall 2018 ,Admit,TOEFL,115,68%,16,15
+2474,Information Technology and Management,Fall 2018 ,Admit,TOEFL,87,8.2 CGPA ,8,15
+2475,Information Technology and Management,Fall 2018 ,Admit,TOEFL,93,87.60%,19,15
+2476,Information Technology and Management,Fall 2018 ,Admit,TOEFL,98,6.94 CGPA ,36,15
+2477,Information Technology and Management,Fall 2018 ,Admit,TOEFL,0,57.90%,3,15
+2478,Information Technology and Management,Fall 2018 ,Admit,IELTS,0,72.12%,25,15
+2479,Information Technology and Management,Fall 2018 ,Admit,TOEFL,104,6.24 CGPA ,0,15
+2480,Information Technology and Management,Fall 2018 ,Admit,TOEFL,0,57.43%,6,15
+2481,Information Technology and Management,Fall 2018 ,Admit,TOEFL,0,7.1 CGPA ,0,15
+2482,Information Technology and Management,Fall 2018 ,Admit,IELTS,7,7.56 CGPA ,20,15
+2484,Information Technology and Management,Fall 2018 ,Admit,TOEFL,97,72.30%,48,15
+2485,Information Technology and Management,Fall 2018 ,Reject,TOEFL,84,69%,60,15
+2486,Information Technology and Management,Fall 2018 ,Reject,TOEFL,117,70%,12,15
+2487,Information Technology and Management,Fall 2018 ,Reject,IELTS,6.5,67%,12,15
+2488,Information Technology and Management,Fall 2018 ,Reject,TOEFL,94,8.5 CGPA ,27,15
+2489,Information Technology and Management,Fall 2017 ,Reject,IELTS,6.5,7.15 CGPA ,0,15
+2490,Information Technology and Management,Fall 2017 ,Reject,TOEFL,89,69%,26,15
+2491,Information Technology and Management,Fall 2017 ,Reject,TOEFL,98,7.26 CGPA ,6,15
+2492,Information Technology and Management,Fall 2017 ,Reject,IELTS,7,66.50%,45,15
+2493,Information Technology and Management,Fall 2017 ,Reject,IELTS,6.5,7.52 CGPA ,4,15
+2494,Information Technology and Management,Fall 2017 ,Reject,TOEFL,86,74%,36,15
+2495,Information Technology and Management,Fall 2017 ,Reject,TOEFL,102,66.10%,34,15
+2496,Information Technology and Management,Fall 2017 ,Reject,TOEFL,106,61%,37,15
+2497,Information Technology and Management,Fall 2017 ,Reject,TOEFL,106,74.50%,22,15
+2498,Information Technology and Management,Spring 2017 ,Reject,TOEFL,102,72%,40,15
+2499,Information Technology and Management,Spring 2017 ,Reject,TOEFL,86,84%,36,15
+2500,Information Technology and Management,Fall 2017 ,Reject,TOEFL,85,62%,37,15
+2501,Information Technology and Management,Spring 2017 ,Reject,TOEFL,103,8.38 CGPA ,41,15
+2502,Information Technology and Management,Spring 2017 ,Reject,TOEFL,105,62%,24,15
+2504,Information Technology and Management,Fall 2019 ,Interested,TOEFL,99,6.48 CGPA ,12,15
+2505,Information Technology and Management,Spring 2018 ,Interested,TOEFL,95,67%,35,15
+2506,Information Technology and Management,Fall 2018 ,Interested,TOEFL,102,54%,12,15
+2507,Information Technology and Management,Fall 2019 ,Interested,ENG TEST,0,70%,18,15
+2508,Information Technology and Management,Spring 2019 ,Interested,TOEFL,97,62.30%,117,15
+2509,Information Technology and Management,Fall 2019 ,Interested,IELTS,7.5,60%,30,15
+2510,Information Technology and Management,Fall 2018 ,Interested,IELTS,6,9 CGPA ,49,15
+2511,Information Technology and Management,Fall 2018 ,Interested,TOEFL,103,75%,17,15
+2513,Information Technology and Management,Fall 2018 ,Interested,IELTS,7,68%,36,15
+2514,Information Technology and Management,Fall 2018 ,Interested,TOEFL,78,65%,36,15
+2515,Information Technology and Management,Fall 2018 ,Interested,TOEFL,93,65%,18,15
+2516,Information Technology and Management,Fall 2018 ,Interested,IELTS,7,9 CGPA ,7,15
+2518,Information Technology and Management,Fall 2017 ,Interested,TOEFL,93,8.27 CGPA ,21,15
+2519,Information Technology and Management,Fall 2017 ,Interested,TOEFL,96,64.17%,30,15
+2520,Information Technology and Management,Spring 2017 ,Interested,TOEFL,100,54%,0,15
+2522,Information Technology and Management,Fall 2016 ,Interested,TOEFL,109,8.34 CGPA ,3,15
+2525,Management Information System,Fall 2018 ,Applied,TOEFL,94,70%,30,18
+2526,Management Information System,Fall 2018 ,Applied,TOEFL,82,66%,44,18
+2527,Management Information System,Fall 2018 ,Applied,IELTS,7,5.87 CGPA ,9,18
+2528,Management Information System,Fall 2018 ,Applied,TOEFL,89,58%,34,18
+2529,Management Information System,Fall 2018 ,Applied,TOEFL,102,7.32 CGPA ,0,18
+2530,Management Information System,Fall 2018 ,Applied,TOEFL,0,7.12 CGPA ,1,18
+2531,Management Information System,Fall 2018 ,Applied,TOEFL,98,6.08 CGPA ,0,18
+2532,Management Information System,Fall 2018 ,Applied,TOEFL,80,6.06 CGPA ,10,18
+2533,Management Information System,Fall 2018 ,Applied,IELTS,6.5,7.63 CGPA ,29,18
+2534,Management Information System,Fall 2018 ,Applied,TOEFL,0,7.56 CGPA ,3,18
+2535,Management Information System,Fall 2018 ,Applied,IELTS,7.5,60%,7,18
+2536,Management Information System,Fall 2018 ,Applied,TOEFL,0,74%,3,18
+2537,Management Information System,Fall 2018 ,Applied,TOEFL,92,72.39%,44,18
+2538,Management Information System,Fall 2018 ,Applied,IELTS,7,71.98%,48,18
+2540,Management Information System,Fall 2018 ,Applied,TOEFL,92,62%,5,18
+2541,Management Information System,Fall 2018 ,Applied,TOEFL,89,7.13 CGPA ,38,18
+2542,Management Information System,Fall 2018 ,Applied,TOEFL,87,61%,18,18
+2543,Management Information System,Fall 2018 ,Applied,IELTS,6.5,7.4 CGPA ,24,18
+2545,Management Information System,Fall 2018 ,Admit,TOEFL,94,76.90%,46,18
+2546,Management Information System,Fall 2018 ,Admit,TOEFL,99,57%,6,18
+2547,Management Information System,Fall 2018 ,Admit,ENG TEST,0,7.1 CGPA ,0,18
+2548,Management Information System,Fall 2018 ,Admit,TOEFL,91,58%,40,18
+2549,Management Information System,Fall 2018 ,Admit,TOEFL,91,5.39 CGPA ,3,18
+2550,Management Information System,Fall 2018 ,Admit,TOEFL,88,60%,0,18
+2551,Management Information System,Fall 2018 ,Admit,TOEFL,115,71.50%,48,18
+2552,Management Information System,Fall 2018 ,Admit,TOEFL,81,75%,37,18
+2553,Management Information System,Fall 2018 ,Admit,TOEFL,0,74%,15,18
+2554,Management Information System,Fall 2018 ,Admit,TOEFL,0,70%,5,18
+2555,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.24 CGPA ,0,18
+2556,Management Information System,Fall 2018 ,Admit,TOEFL,96,68.68%,41,18
+2557,Management Information System,Fall 2018 ,Admit,IELTS,6.5,7.95 CGPA ,19,18
+2558,Management Information System,Fall 2018 ,Admit,TOEFL,99,8.52 CGPA ,49,18
+2559,Management Information System,Fall 2018 ,Admit,TOEFL,102,59%,53,18
+2560,Management Information System,Fall 2018 ,Admit,TOEFL,105,78%,2,18
+2561,Management Information System,Fall 2018 ,Admit,TOEFL,92,6 CGPA ,12,18
+2562,Management Information System,Fall 2018 ,Admit,TOEFL,99,74%,0,18
+2563,Management Information System,Fall 2018 ,Admit,TOEFL,87,75%,32,18
+2564,Management Information System,Fall 2018 ,Reject,TOEFL,82,6.22 CGPA ,0,18
+2565,Management Information System,Fall 2017 ,Reject,TOEFL,102,5.6 CGPA ,8,18
+2566,Management Information System,Fall 2017 ,Reject,TOEFL,0,7.3 CGPA ,2,18
+2568,Management Information System,Fall 2018 ,Reject,TOEFL,90,5.67 CGPA ,8,18
+2569,Management Information System,Fall 2018 ,Reject,TOEFL,87,69.44%,25,18
+2570,Management Information System,Fall 2018 ,Reject,TOEFL,0,57.43%,6,18
+2571,Management Information System,Fall 2018 ,Reject,IELTS,6.5,68%,47,18
+2572,Management Information System,Fall 2018 ,Reject,IELTS,6.5,66%,7,18
+2573,Management Information System,Fall 2018 ,Reject,IELTS,7.5,64%,9,18
+2574,Management Information System,Fall 2018 ,Reject,TOEFL,85,6.53 CGPA ,9,18
+2575,Management Information System,Spring 2018 ,Reject,IELTS,7,78.53%,24,18
+2576,Management Information System,Spring 2018 ,Reject,IELTS,6.5,60%,7,18
+2577,Management Information System,Spring 2018 ,Reject,IELTS,6,59%,12,18
+2578,Management Information System,Spring 2018 ,Reject,TOEFL,94,7.15 CGPA ,0,18
+2579,Management Information System,Fall 2017 ,Reject,TOEFL,95,60%,23,18
+2580,Management Information System,Fall 2017 ,Reject,TOEFL,84,6.3 CGPA ,24,18
+2581,Management Information System,Fall 2017 ,Reject,TOEFL,96,75%,60,18
+2582,Management Information System,Fall 2017 ,Reject,TOEFL,79,63.23%,0,18
+2583,Management Information System,Fall 2017 ,Reject,IELTS,6.5,7.2 CGPA ,0,18
+2588,Management Information System,Fall 2020 ,Interested,TOEFL,92,5.5 CGPA ,0,18
+2589,Management Information System,Fall 2019 ,Interested,ENG TEST,0,76%,0,18
+2591,Management Information System,Spring 2019 ,Interested,IELTS,6.5,74%,60,18
+2596,Management Information System,Spring 2019 ,Interested,IELTS,6.5,8.34 CGPA ,0,18
+2597,Management Information System,Spring 2019 ,Interested,TOEFL,81,7.37 CGPA ,43,18
+2598,Management Information System,Spring 2019 ,Interested,TOEFL,91,60.64%,48,18
+2602,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,18
+2603,Management Information System,Spring 2019 ,Interested,IELTS,7,62%,8,18
+2605,Management Information System,Fall 2019 ,Applied,ENG TEST,0,70%,2,41
+2606,Management Information System,Spring 2019 ,Applied,TOEFL,110,7.7 CGPA ,40,41
+2607,Management Information System,Fall 2018 ,Applied,TOEFL,0,63.28%,40,41
+2608,Management Information System,Fall 2018 ,Applied,ENG TEST,0,80.68%,48,41
+2609,Management Information System,Fall 2017 ,Applied,TOEFL,109,62%,33,41
+2610,Management Information System,Fall 2017 ,Applied,TOEFL,113,78.40%,25,41
+2611,Management Information System,Spring 2017 ,Applied,TOEFL,101,7.351 CGPA ,46,41
+2612,Management Information System,Fall 2017 ,Applied,ENG TEST,0,85.20%,10,41
+2613,Management Information System,Fall 2016 ,Applied,TOEFL,100,60%,0,41
+2614,Management Information System,Fall 2018 ,Applied,TOEFL,101,58.89%,24,41
+2615,Management Information System,Fall 2016 ,Applied,TOEFL,100,68%,0,41
+2616,Management Information System,Fall 2016 ,Applied,TOEFL,114,8.6 CGPA ,36,41
+2617,Management Information System,Fall 2016 ,Applied,TOEFL,113,8 CGPA ,0,41
+2618,Management Information System,Fall 2016 ,Applied,IELTS,7.5,78%,0,41
+2619,Management Information System,Spring 2016 ,Applied,IELTS,7,68.90%,0,41
+2620,Management Information System,Fall 2016 ,Applied,TOEFL,110,8.32 CGPA ,20,41
+2621,Management Information System,Fall 2016 ,Applied,TOEFL,102, 7 CGPA ,30,41
+2622,Management Information System,Fall 2016 ,Applied,TOEFL,108,69.50%,0,41
+2623,Management Information System,Fall 2016 ,Applied,ENG TEST,0,60%,0,41
+2626,Management Information System,Fall 2018 ,Admit,TOEFL,110,8.6 CGPA ,3,41
+2627,Management Information System,Fall 2018 ,Admit,TOEFL,0,67%,16,41
+2628,Management Information System,Spring 2019 ,Admit,TOEFL,98,7 CGPA ,40,41
+2629,Management Information System,Fall 2018 ,Admit,TOEFL,108,65%,41,41
+2630,Management Information System,Fall 2018 ,Admit,TOEFL,0,7.6 CGPA ,0,41
+2631,Management Information System,Fall 2018 ,Admit,TOEFL,102,74%,85,41
+2632,Management Information System,Fall 2018 ,Admit,TOEFL,100,8.2 CGPA ,0,41
+2633,Management Information System,Fall 2018 ,Admit,TOEFL,104,71%,76,41
+2634,Management Information System,Fall 2018 ,Admit,TOEFL,103,74.10%,13,41
+2635,Management Information System,Fall 2018 ,Admit,TOEFL,104,60.32%,39,41
+2636,Management Information System,Fall 2018 ,Admit,TOEFL,0,7.85 CGPA ,0,41
+2637,Management Information System,Fall 2018 ,Admit,TOEFL,96,76.80%,12,41
+2638,Management Information System,Fall 2018 ,Admit,IELTS,8,77.20%,20,41
+2639,Management Information System,Spring 2018 ,Admit,TOEFL,109,75%,40,41
+2640,Management Information System,Fall 2018 ,Admit,IELTS,7.5,70%,84,41
+2641,Management Information System,Fall 2017 ,Admit,TOEFL,115,9.3 CGPA ,27,41
+2642,Management Information System,Fall 2017 ,Admit,TOEFL,111,9.7 CGPA ,2,41
+2643,Management Information System,Fall 2017 ,Admit,ENG TEST,0,8.67 CGPA ,25,41
+2644,Management Information System,Fall 2017 ,Admit,TOEFL,104,66%,52,41
+2645,Management Information System,Fall 2018 ,Reject,TOEFL,95,8.54 CGPA ,34,41
+2646,Management Information System,Fall 2018 ,Reject,TOEFL,0,75%,144,41
+2647,Management Information System,Fall 2018 ,Reject,TOEFL,97,80%,25,41
+2648,Management Information System,Fall 2018 ,Reject,IELTS,0,76%,2,41
+2649,Management Information System,Fall 2018 ,Reject,TOEFL,113,7.75 CGPA ,6,41
+2650,Management Information System,Fall 2018 ,Reject,TOEFL,0,77.34%,1,41
+2651,Management Information System,Fall 2018 ,Reject,TOEFL,91,8.44 CGPA ,20,41
+2652,Management Information System,Fall 2017 ,Reject,TOEFL,95,61.10%,27,41
+2653,Management Information System,Fall 2016 ,Reject,TOEFL,103,67%,36,41
+2654,Management Information System,Fall 2016 ,Reject,TOEFL,113,8 CGPA ,30,41
+2659,Management Information System,Fall 2019 ,Interested,TOEFL,112,8.3 CGPA ,12,41
+2661,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.71 CGPA ,0,41
+2662,Management Information System,Fall 2018 ,Interested,TOEFL,112,8.5 CGPA ,12,41
+2664,Management Information System,Fall 2019 ,Interested,TOEFL,114,64%,22,41
+2667,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,41
+2668,Management Information System,Spring 2019 ,Interested,TOEFL,106,7.49 CGPA ,55,41
+2669,Management Information System,Fall 2019 ,Interested,TOEFL,99,8.322 CGPA ,12,41
+2670,Management Information System,Spring 2019 ,Interested,ENG TEST,0,70%,60,41
+2671,Management Information System,Fall 2019 ,Interested,TOEFL,77,6 CGPA ,10,41
+2673,Management Information System,Fall 2019 ,Interested,TOEFL,100,8.05 CGPA ,48,41
+2676,Management Information System,Fall 2018 ,Applied,ENG TEST,0,71%,33,39
+2677,Management Information System,Fall 2018 ,Applied,IELTS,7.5,7.95 CGPA ,18,39
+2678,Management Information System,Fall 2017 ,Applied,TOEFL,101,5.9 CGPA ,21,39
+2679,Management Information System,Fall 2017 ,Applied,TOEFL,102,6.34 CGPA ,27,39
+2680,Management Information System,Fall 2017 ,Applied,TOEFL,96,7.81 CGPA ,44,39
+2681,Management Information System,Fall 2017 ,Applied,TOEFL,87,68%,60,39
+2682,Management Information System,Fall 2017 ,Applied,TOEFL,101,60.68%,36,39
+2683,Management Information System,Fall 2017 ,Applied,TOEFL,115,73%,33,39
+2684,Management Information System,Fall 2017 ,Applied,IELTS,6.5,69.40%,50,39
+2686,Management Information System,Fall 2018 ,Admit,TOEFL,93,83.50%,20,39
+2687,Management Information System,Fall 2018 ,Admit,IELTS,7.5,63.20%,32,39
+2688,Management Information System,Fall 2018 ,Admit,TOEFL,99,7.14 CGPA ,39,39
+2690,Management Information System,Fall 2018 ,Admit,TOEFL,97,67%,48,39
+2691,Management Information System,Fall 2018 ,Admit,TOEFL,98,7.31 CGPA ,25,39
+2692,Management Information System,Fall 2018 ,Admit,TOEFL,97,72.30%,48,39
+2693,Management Information System,Fall 2018 ,Admit,TOEFL,102,74%,85,39
+2694,Management Information System,Fall 2018 ,Admit,TOEFL,99,65%,30,39
+2695,Management Information System,Fall 2018 ,Admit,TOEFL,101,8.63 CGPA ,45,39
+2696,Management Information System,Fall 2018 ,Admit,TOEFL,108,7.7 CGPA ,0,39
+2697,Management Information System,Fall 2018 ,Admit,TOEFL,0,7.13 CGPA ,38,39
+2698,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.541 CGPA ,2,39
+2699,Management Information System,Fall 2018 ,Admit,TOEFL,109,81.74%,25,39
+2700,Management Information System,Fall 2018 ,Admit,IELTS,0,87%,7,39
+2701,Management Information System,Fall 2018 ,Admit,TOEFL,109,6.2 CGPA ,40,39
+2702,Management Information System,Fall 2018 ,Admit,TOEFL,81,62%,46,39
+2703,Management Information System,Fall 2018 ,Admit,TOEFL,102,9.06 CGPA ,11,39
+2704,Management Information System,Fall 2018 ,Admit,TOEFL,108,65%,41,39
+2705,Management Information System,Fall 2018 ,Reject,TOEFL,0,6.03 CGPA ,28,39
+2706,Management Information System,Fall 2018 ,Reject,IELTS,7,77.29%,28,39
+2707,Management Information System,Fall 2018 ,Reject,TOEFL,101,6.57 CGPA ,15,39
+2708,Management Information System,Fall 2017 ,Reject,TOEFL,94,55%,0,39
+2709,Management Information System,Fall 2017 ,Reject,TOEFL,99,6.7 CGPA ,22,39
+2710,Management Information System,Fall 2017 ,Reject,TOEFL,90,8.5 CGPA ,30,39
+2711,Management Information System,Fall 2017 ,Reject,TOEFL,84,72%,18,39
+2712,Management Information System,Fall 2017 ,Reject,TOEFL,102,7.95 CGPA ,15,39
+2713,Management Information System,Fall 2017 ,Reject,TOEFL,96,7.32 CGPA ,35,39
+2714,Management Information System,Fall 2017 ,Reject,TOEFL,93,7.46 CGPA ,1,39
+2715,Management Information System,Fall 2017 ,Reject,TOEFL,83,6.15 CGPA ,1,39
+2716,Management Information System,Fall 2017 ,Reject,TOEFL,89,69.06%,33,39
+2717,Management Information System,Fall 2017 ,Reject,TOEFL,97,79.43%,58,39
+2718,Management Information System,Spring 2017 ,Reject,TOEFL,96,65%,18,39
+2719,Management Information System,Spring 2017 ,Reject,TOEFL,91,64%,67,39
+2720,Management Information System,Fall 2018 ,Interested,TOEFL,100,8.5 CGPA ,15,39
+2722,Management Information System,Spring 2019 ,Interested,TOEFL,100,6.47 CGPA ,38,39
+2723,Management Information System,Spring 2019 ,Interested,TOEFL,99,7.81 CGPA ,21,39
+2724,Management Information System,Fall 2018 ,Interested,ENG TEST,0,65%,50,39
+2725,Management Information System,Fall 2018 ,Interested,TOEFL,92,8.28 CGPA ,26,39
+2726,Management Information System,Fall 2018 ,Interested,TOEFL,113,70%,0,39
+2727,Management Information System,Fall 2018 ,Interested,TOEFL,99,74%,36,39
+2728,Management Information System,Fall 2018 ,Interested,TOEFL,96,67%,58,39
+2729,Management Information System,Fall 2018 ,Interested,ENG TEST,0,7.1 CGPA ,36,39
+2730,Management Information System,Fall 2018 ,Interested,TOEFL,88,9 CGPA ,40,39
+2731,Management Information System,Fall 2018 ,Interested,TOEFL,104,66%,36,39
+2732,Management Information System,Fall 2018 ,Interested,ENG TEST,0,55%,0,39
+2733,Management Information System,Fall 2018 ,Interested,TOEFL,88,81%,20,39
+2734,Management Information System,Fall 2019 ,Interested,TOEFL,86,6.73 CGPA ,7,39
+2736,Management Information System,Fall 2018 ,Interested,TOEFL,104,60.32%,39,39
+2738,Management Information System,Fall 2018 ,Interested,TOEFL,96,74%,24,39
+2739,Management Information System,Fall 2018 ,Interested,TOEFL,93,7.5 CGPA ,30,39
+2741,Management Information System,Fall 2018 ,Applied,TOEFL,103,63.17%,27,17
+2742,Management Information System,Fall 2018 ,Applied,TOEFL,111,9.6 CGPA ,6,17
+2743,Management Information System,Fall 2018 ,Applied,TOEFL,113,7.9 CGPA ,15,17
+2744,Management Information System,Fall 2018 ,Applied,ENG TEST,0,7.5 CGPA ,36,17
+2745,Management Information System, Fall 2018 ,Applied,TOEFL,101,6.57 CGPA ,15,17
+2746,Management Information System,Fall 2018 ,Applied,TOEFL,105,6.8 CGPA ,6,17
+2747,Management Information System,Fall 2018 ,Applied,TOEFL,100,72%,43,17
+2748,Management Information System,Fall 2018 ,Applied,TOEFL,106,75.60%,42,17
+2749,Management Information System,Fall 2018 ,Applied,TOEFL,100,78%,17,17
+2750,Management Information System,Fall 2018 ,Applied,TOEFL,113,73.40%,26,17
+2751,Management Information System,Fall 2018 ,Applied,TOEFL,103,79%,60,17
+2753,Management Information System,Fall 2017 ,Applied,TOEFL,106,8.16 CGPA ,0,17
+2754,Management Information System,Fall 2017 ,Applied,TOEFL,105,7.4 CGPA ,2,17
+2755,Management Information System,Fall 2017 ,Applied,TOEFL,116,9 CGPA ,31,17
+2756,Management Information System,Fall 2017 ,Applied,TOEFL,114,8.97 CGPA ,0,17
+2757,Management Information System,Fall 2017 ,Applied,TOEFL,109,9.18 CGPA ,6,17
+2758,Management Information System,Fall 2017 ,Applied,TOEFL,111,7.85 CGPA ,18,17
+2759,Management Information System,Fall 2017 ,Applied,TOEFL,104,7.5 CGPA ,20,17
+2760,Management Information System,Fall 2017 ,Applied,TOEFL,99,7.24 CGPA ,2,17
+2761,Management Information System,Fall 2018 ,Admit,TOEFL,101,9.81 CGPA ,0,17
+2762,Management Information System,Fall 2018 ,Admit,TOEFL,99,7.38 CGPA ,18,17
+2763,Management Information System,Fall 2018 ,Admit,TOEFL,97,70%,31,17
+2764,Management Information System,Fall 2018 ,Admit,TOEFL,96,9.586 CGPA ,0,17
+2765,Management Information System,Fall 2018 ,Admit,TOEFL,112,8.48 CGPA ,21,17
+2766,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.541 CGPA ,2,17
+2767,Management Information System,Fall 2018 ,Admit,TOEFL,100,7.65 CGPA ,0,17
+2768,Management Information System,Fall 2018 ,Admit,TOEFL,111,60.10%,42,17
+2769,Management Information System,Fall 2018 ,Admit,TOEFL,114,7.2 CGPA ,51,17
+2770,Management Information System,Fall 2018 ,Admit,ENG TEST,0,75%,38,17
+2771,Management Information System,Fall 2018 ,Admit,TOEFL,116,8.77 CGPA ,31,17
+2772,Management Information System,Fall 2018 ,Admit,TOEFL,114,8.3 CGPA ,30,17
+2773,Management Information System,Spring 2018 ,Admit,ENG TEST,0,8.9 CGPA ,40,17
+2774,Management Information System,Fall 2018 ,Admit,TOEFL,108,65%,41,17
+2775,Management Information System,Fall 2018 ,Admit,TOEFL,110,8.4 CGPA ,30,17
+2777,Management Information System,Fall 2017 ,Admit,TOEFL,99,9 CGPA ,36,17
+2778,Management Information System,Fall 2017 ,Admit,TOEFL,103,7.85 CGPA ,52,17
+2779,Management Information System,Fall 2017 ,Admit,TOEFL,104,66.74%,20,17
+2780,n Management Information System,Fall 2017 ,Admit,TOEFL,109,90.81%,25,42
+2781,Management Information System,Fall 2018 ,Reject,TOEFL,117,8.44 CGPA ,4,17
+2782,Management Information System,Fall 2018 ,Reject,TOEFL,112,7.52 CGPA ,35,17
+2783,Management Information System,Fall 2018 ,Reject,TOEFL,109,86%,25,17
+2784,Management Information System,Fall 2018 ,Reject,TOEFL,102,6.76 CGPA ,19,17
+2786,Management Information System,Fall 2018 ,Reject,TOEFL,100,76%,41,17
+2787,Management Information System,Fall 2018 ,Reject,TOEFL,108,72%,67,17
+2788,Management Information System,Fall 2018 ,Reject,TOEFL,109,6.72 CGPA ,29,17
+2789,Management Information System,Fall 2018 ,Reject,TOEFL,105,7.61 CGPA ,40,17
+2790,Management Information System,Fall 2018 ,Reject,TOEFL,108,8.2 CGPA ,0,17
+2791,Management Information System,Fall 2018 ,Reject,TOEFL,0,67%,16,17
+2792,Management Information System,Fall 2018 ,Reject,TOEFL,104,7.2 CGPA ,19,17
+2793,Management Information System,Fall 2018 ,Reject,TOEFL,101,81%,15,17
+2794,Management Information System,Fall 2018 ,Reject,TOEFL,109,7.5 CGPA ,16,17
+2795,Management Information System,Fall 2018 ,Reject,TOEFL,118,8.43 CGPA ,30,17
+2796,Management Information System,Fall 2018 ,Reject,TOEFL,110,7.62 CGPA ,2,17
+2797,Management Information System,Fall 2018 ,Reject,TOEFL,104,8.3 CGPA ,0,17
+2798,Management Information System,Fall 2018 ,Reject,TOEFL,110,6.93 CGPA ,25,17
+2799,Management Information System,Fall 2018 ,Reject,TOEFL,98,65%,25,17
+2800,Management Information System,Fall 2018 ,Reject,TOEFL,112,8.24 CGPA ,1,17
+2801,Management Information System,Fall 2019 ,Interested,ENG TEST,0,8 CGPA ,6,17
+2802,Management Information System,Fall 2019 ,Interested,ENG TEST,0,9 CGPA ,12,17
+2803,Management Information System,Fall 2019 ,Interested,TOEFL,114,7.58 CGPA ,38,17
+2808,Management Information System,Spring 2019 ,Interested,TOEFL,95,75%,20,17
+2811,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.69 CGPA ,7,17
+2812,Management Information System,Fall 2019 ,Interested,TOEFL,104,9.39 CGPA ,2,17
+2814,Management Information System,Fall 2018 ,Interested,TOEFL,112,8.56 CGPA ,18,17
+2815,Management Information System,Spring 2018 ,Interested,ENG TEST,0,7.2 CGPA ,15,17
+2818,Management Information System,Spring 2019 ,Interested,TOEFL,104,8.2 CGPA ,1,17
+2819,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.8 CGPA ,1,17
+2820,Management Information System,Fall 2018 ,Interested,ENG TEST,0,73.06%,34,17
+2822,Information Management,Fall 2018 ,Applied,TOEFL,110,8.6 CGPA ,24,17
+2823,Information Management,Fall 2018 ,Applied,TOEFL,104,65%,60,17
+2824,Information Management,Fall 2018 ,Applied,TOEFL,103,63.17%,27,17
+2825,Information Management,Fall 2018 ,Applied,TOEFL,102,7.08 CGPA ,40,17
+2827,Information Management,Fall 2018 ,Applied,TOEFL,107,74.47%,28,17
+2828,Information Management,Fall 2018 ,Applied,ENG TEST,0,89.20%,43,17
+2829,Information Management,Fall 2018 ,Applied,TOEFL,108,8.33 CGPA ,1,17
+2830,Information Management,Fall 2017 ,Applied,TOEFL,112,73%,20,17
+2831,Information Management,Fall 2017 ,Applied,TOEFL,101,69%,48,17
+2832,Information Management,Fall 2018 ,Admit,TOEFL,115,9.38 CGPA ,1,17
+2833,Information Management,Fall 2018 ,Admit,TOEFL,111,8.64 CGPA ,1,17
+2834,Information Management,Fall 2018 ,Admit,TOEFL,0,75%,144,17
+2835,Information Management,Fall 2018 ,Admit,TOEFL,117,8.49 CGPA ,8,17
+2836,Information Management,Fall 2018 ,Admit,TOEFL,102,7.34 CGPA ,35,17
+2837,Information Management,Fall 2018 ,Admit,TOEFL,0,73.50%,33,17
+2838,Information Management,Fall 2018 ,Admit,TOEFL,117,70%,12,17
+2839,Information Management,Fall 2018 ,Admit,TOEFL,113,68.50%,44,17
+2840,Information Management,Fall 2018 ,Admit,TOEFL,110,81.60%,24,17
+2841,Information Management,Fall 2018 ,Admit,TOEFL,107,69%,19,17
+2842,Information Management,Fall 2018 ,Admit,ENG TEST,0,6.41 CGPA ,0,17
+2843,Information Management,Fall 2018 ,Admit,TOEFL,105,7.42 CGPA ,0,17
+2844,Information Management,Fall 2018 ,Admit,TOEFL,114,64%,29,17
+2845,Information Management,Fall 2018 ,Admit,TOEFL,109,60%,29,17
+2846,Information Management,Fall 2018 ,Admit,TOEFL,112,73.24%,32,17
+2847,Information Management,Fall 2018 ,Admit,TOEFL,114,61.52%,36,17
+2848,Information Management,Fall 2018 ,Admit,TOEFL,104,7.33 CGPA ,44,17
+2849,Information Management,Fall 2018 ,Admit,TOEFL,113,73.40%,26,17
+2850,Information Management,Fall 2018 ,Admit,TOEFL,115,9.12 CGPA ,4,17
+2851,Information Management,Fall 2018 ,Admit,TOEFL,114,7.2 CGPA ,54,17
+2852,Information Management,Fall 2018 ,Reject,TOEFL,112,70%,11,17
+2853,Information Management,Fall 2017 ,Reject,TOEFL,107,52%,35,17
+2854,Information Management,Fall 2018 ,Reject,TOEFL,0,6.93 CGPA ,2,17
+2855,Information Management,Fall 2018 ,Reject,TOEFL,107,8.96 CGPA ,0,17
+2856,Information Management,Fall 2018 ,Reject,TOEFL,112,65%,12,17
+2857,Information Management,Fall 2018 ,Reject,TOEFL,0,9.16 CGPA ,20,17
+2858,Information Management,Fall 2018 ,Reject,TOEFL,112,63%,60,17
+2859,Information Management,Fall 2018 ,Reject,TOEFL,118,3.14 CGPA ,6,17
+2861,Information Management,Fall 2018 ,Reject,TOEFL,0,7.85 CGPA ,0,17
+2862,Information Management,Fall 2018 ,Reject,TOEFL,111,8 CGPA ,48,17
+2863,Information Management,Fall 2018 ,Reject,TOEFL,103,8.33 CGPA ,41,17
+2864,Information Management,Fall 2018 ,Reject,TOEFL,113,7.75 CGPA ,6,17
+2865,Information Management,Fall 2018 ,Reject,TOEFL,110,6.2 CGPA ,40,17
+2866,Information Management,Fall 2018 ,Reject,TOEFL,111,6.68 CGPA ,6,17
+2867,Information Management,Fall 2018 ,Reject,TOEFL,102,7.76 CGPA ,54,17
+2868,Information Management,Fall 2018 ,Reject,TOEFL,102,8.017 CGPA ,0,17
+2869,Information Management,Fall 2018 ,Reject,TOEFL,112,7.7 CGPA ,0,17
+2870,Information Management,Fall 2018 ,Reject,TOEFL,115,63%,16,17
+2872,Information Management,Fall 2018 ,Interested,IELTS,8,75%,44,17
+2873,Information Management,Fall 2019 ,Interested,TOEFL,100,62.47%,12,17
+2875,Information Management,Spring 2018 ,Interested,TOEFL,102,8.72 CGPA ,52,17
+2876,Information Management,Fall 2018 ,Interested,TOEFL,116,8.1 CGPA ,6,17
+2877,Information Management,Fall 2018 ,Interested,ENG TEST,0,56%,18,17
+2878,Information Management,Fall 2018 ,Interested,TOEFL,92,8.56 CGPA ,48,17
+2879,Information Management,Fall 2018 ,Interested,ENG TEST,0,8.1 CGPA ,24,17
+2880,Information Management,Spring 2018 ,Interested,TOEFL,104,75%,24,17
+2881,Information Management,Fall 2018 ,Interested,TOEFL,108,8.8 CGPA ,14,17
+2882,Information Management,Fall 2018 ,Interested,TOEFL,102,8.01 CGPA ,24,17
+2883,Information Management,Fall 2017 ,Interested,TOEFL,104,8.05 CGPA ,0,17
+2885,Management Information System,Fall 2018 ,Applied,IELTS,7,74.22%,8,16
+2886,Management Information System,Fall 2017 ,Applied,TOEFL,93,56%,0,16
+2887,Management Information System,Fall 2017 ,Applied,ENG TEST,0,60%,0,16
+2888,Management Information System,Fall 2017 ,Applied,TOEFL,86,62%,4,16
+2889,Management Information System,Fall 2017 ,Applied,TOEFL,99,6.8 CGPA ,0,16
+2890,Management Information System,Spring 2017 ,Applied,TOEFL,94,72.90%,12,16
+2891,Management Information System,Fall 2016 ,Applied,TOEFL,94,6 CGPA ,6,16
+2892,Management Information System,Fall 2016 ,Applied,TOEFL,91,64%,6,16
+2893,Management Information System,Fall 2016 ,Applied,TOEFL,95,66%,30,16
+2894,Management Information System,Fall 2016 ,Applied,TOEFL,110,7.12 CGPA ,0,16
+2895,Management Information System,Fall 2016 ,Applied,TOEFL,97,6.85 CGPA ,30,16
+2896,Management Information System,Spring 2016 ,Applied,TOEFL,85,55%,20,16
+2897,Management Information System,Fall 2016 ,Applied,TOEFL,100,55%,0,16
+2898,Management Information System,Fall 2016 ,Applied,TOEFL,94,8.1 CGPA ,29,16
+2899,Management Information System,Fall 2015 ,Applied,ENG TEST,0,7.25 CGPA ,0,16
+2900,Management Information System,Fall 2018 ,Admit,TOEFL,101,6.35 CGPA ,1,16
+2901,Management Information System,Fall 2018 ,Admit,TOEFL,91,6.3 CGPA ,21,16
+2902,Management Information System,Fall 2018 ,Admit,TOEFL,109,81.74%,25,16
+2903,Management Information System,Fall 2018 ,Admit,TOEFL,93,64.30%,64,16
+2904,Management Information System,Fall 2018 ,Admit,TOEFL,115,63%,16,16
+2905,Management Information System,Fall 2018 ,Admit,TOEFL,104,6.5 CGPA ,1,16
+2906,Management Information System,Fall 2018 ,Admit,TOEFL,99,55.81%,24,16
+2907,Management Information System,Fall 2018 ,Admit,TOEFL,103,8.712 CGPA ,26,16
+2908,Management Information System,Fall 2018 ,Admit,TOEFL,96,7.53 CGPA ,1,16
+2909,Management Information System,Fall 2018 ,Admit,ENG TEST,0,65%,3,16
+2910,Management Information System,Spring 2018 ,Admit,TOEFL,93,64.10%,2,16
+2911,Management Information System,Fall 2018 ,Admit,TOEFL,104,9.26 CGPA ,38,16
+2912,Management Information System,Fall 2018 ,Admit,TOEFL,95,67%,10,16
+2913,Management Information System,Fall 2018 ,Admit,TOEFL,107,8 CGPA ,36,16
+2914,Management Information System,Spring 2018 ,Admit,TOEFL,102,61%,26,16
+2915,Management Information System,Fall 2012 ,Admit,TOEFL,94,54%,0,16
+2916,Management Information System,Fall 2017 ,Admit,TOEFL,95,68%,23,16
+2917,Management Information System,Fall 2017 ,Admit,TOEFL,99,7.31 CGPA ,6,16
+2918,Management Information System,Fall 2017 ,Admit,ENG TEST,0,6.99 CGPA ,26,16
+2919,Management Information System,Fall 2017 ,Admit,TOEFL,109,6.83 CGPA ,2,16
+2920,Management Information System,Fall 2018 ,Reject,TOEFL,88,7.95 CGPA ,5,16
+2921,Management Information System,Fall 2017 ,Reject,TOEFL,99,62.50%,56,16
+2922,Management Information System,Fall 2017 ,Reject,ENG TEST,0,59.20%,4,16
+2923,Management Information System,Fall 2017 ,Reject,TOEFL,89,55.34%,10,16
+2924,Management Information System,Fall 2017 ,Reject,TOEFL,86,65%,28,16
+2925,Management Information System,Fall 2016 ,Reject,TOEFL,95,61%,0,16
+2926,Management Information System,Fall 2016 ,Reject,TOEFL,90,60.60%,18,16
+2927,Management Information System,Fall 2015 ,Reject,TOEFL,88,7 CGPA ,0,16
+2928,Management Information System,Fall 2015 ,Reject,TOEFL,89,62.60%,0,16
+2929,Management Information System,Spring 2016 ,Reject,TOEFL,93,5 CGPA ,0,16
+2930,Management Information System,Fall 2019 ,Interested,ENG TEST,0,68%,45,16
+2932,Management Information System,Spring 2019 ,Interested,TOEFL,95,7.2 CGPA ,52,16
+2934,Management Information System,Spring 2019 ,Interested,TOEFL,100,71%,0,16
+2936,Management Information System,Fall 2018 ,Interested,ENG TEST,0,63%,0,16
+2937,Management Information System,Fall 2018 ,Interested,IELTS,7,58.71%,30,16
+2940,Management Information System,Fall 2019 ,Interested,ENG TEST,0,7.84 CGPA ,0,16
+2941,Management Information System,Spring 2018 ,Interested,IELTS,7.5,50%,31,16
+2942,Management Information System,Fall 2018 ,Interested,TOEFL,89,7 CGPA ,0,16
+2944,Management Information System,Fall 2018 ,Interested,IELTS,7,6.87 CGPA ,32,16
+2948,Management Information System,Fall 2019 ,Interested,IELTS,7.5,60%,30,16
+2949,Management Information System,Fall 2018 ,Interested,TOEFL,97,68%,87,16
